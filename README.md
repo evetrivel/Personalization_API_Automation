@@ -63,6 +63,7 @@ npm install
 npm install cypress
 
 ## Project structure 
+```
 ├── cypress
 │   └── e2e
 │       └── api_test.cy.js         # Main test file
@@ -70,7 +71,7 @@ npm install cypress
 │   └── them-input-param.json      # Input test data for brands
 ├── package.json
 └── cypress.config.js              # Cypress configuration file
-
+```
 **##Running the Tests**
 **Run the test cases in headless mode:**
 npx cypress run --spec "cypress/e2e/api_test.cy.js"
