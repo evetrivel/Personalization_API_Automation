@@ -1,8 +1,7 @@
 //const { expect } = require("chai");
 
 describe("API Test from TNY JSON", () => {
-  let baseUrl = 'https://yusui-platform-intel.gp-nonprod-na-0.conde.digital/v1'; // Replace with your actual base URL
-
+  let baseUrl = 'https://yusui-platform-intel.gp-nonprod-na-0.conde.digital/v1'; 
   before(() => {
     cy.fixture("the_new_yorker-input-param.json").then((jsonData) => {
       // Store JSON data to use in tests

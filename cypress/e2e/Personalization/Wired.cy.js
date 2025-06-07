@@ -1,8 +1,7 @@
 //const { expect } = require("chai");
 
 describe("API Test from wired JSON", () => {
-  let baseUrl = 'https://yusui-platform-intel.gp-nonprod-na-0.conde.digital/v1'; // Replace with your actual base URL
-
+  let baseUrl = 'https://yusui-platform-intel.gp-nonprod-na-0.conde.digital/v1'; 
   before(() => {
     cy.fixture("Wired-input-param.json").then((jsonData) => {
       // Store JSON data to use in tests

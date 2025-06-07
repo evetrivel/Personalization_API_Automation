@@ -1,7 +1,7 @@
 //const { expect } = require("chai");
 
 describe("API Test from bon-appetit JSON", () => {
-  let baseUrl = 'https://yusui-platform-intel.gp-nonprod-na-0.conde.digital/v1'; // Replace with your actual base URL
+  let baseUrl = 'https://yusui-platform-intel.gp-nonprod-na-0.conde.digital/v1'; 
 
   before(() => {
     cy.fixture("bon-appetit-input-param.json").then((jsonData) => {

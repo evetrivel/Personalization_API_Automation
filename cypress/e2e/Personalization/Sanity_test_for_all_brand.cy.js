@@ -1,6 +1,6 @@
 //const { expect } = require("chai");
 describe("API Test from SanityTest JSON", () => {
-  let baseUrl = 'https://yusui-platform-intel.gp-nonprod-na-0.conde.digital/v1'; // Replace with your actual base URL
+  let baseUrl = 'https://yusui-platform-intel.gp-nonprod-na-0.conde.digital/v1'; 
 
   before(() => {
     cy.fixture("Sanity_test_for_all_brand.json").then((jsonData) => {

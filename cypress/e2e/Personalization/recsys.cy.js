@@ -35,9 +35,9 @@ describe("API Test from recsys JSON", () => {
   }).then((response) => {
       cy.log(`Status: ${response.status}`);
     if (response.status === 200) {
-      cy.log("✅ Passed (Status 200)");
+      cy.log("Passed (Status 200)");
     } else {
-      cy.log(`❌ Failed - Brand: ${queryParams.brand} | Copilot ID: ${queryParams.copilotId} | Status: ${response.status}`);
+      cy.log(` Failed - Brand: ${queryParams.brand} | Copilot ID: ${queryParams.copilotId} | Status: ${response.status}`);
 
        failCount++;
     }
@@ -47,7 +47,7 @@ describe("API Test from recsys JSON", () => {
         });
       });
       cy.then(() => {
-      cy.log(`🔴 Total Failed Cases: ${failCount}`);
+      cy.log(` Total Failed Cases: ${failCount}`);
     });
     });
 
