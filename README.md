@@ -94,33 +94,35 @@ Errors and mismatches are clearly logged with console messages.
 
 **##Code Walkthrough**
 **Define Base URL and Load JSON Input**
-let baseUrl = 'https://yusui-platform-intel.gp-nonprod-na-0.conde.digital/v1';
+```let baseUrl = 'https://yusui-platform-intel.gp-nonprod-na-0.conde.digital/v1';
 
 before(() => {
   cy.fixture("them-input-param.json").then((jsonData) => {
     Cypress.env("testData", jsonData);
   });
 });
+```
 Note : This loads the JSON test cases from fixtures/them-input-param.json into Cypress environment.
 
 **##Iterate Over Test Cases and Send GET Requests**
-it("Validates API Responses", () => {
+```it("Validates API Responses", () => {
   const testData = Cypress.env("testData");
   testData.forEach((testCase) => {
     const queryParams = { ... };
     cy.request({ method: "GET", url: baseUrl, qs: queryParams, timeout: 60000 })
+```
 Note : Each test case is constructed using parameters from the JSON input and sent as a GET request.
 
 **Validate Response Fields**
-.then((response) => {
+```.then((response) => {
   expect(response.status).to.eq(200);
   const actualResults = response.body.data.map(item => ({ strategy, url, brand, language }));
-
+```
 **Perform Field-Level Assertions**
-expect(expected.strategy).to.include(actualItem.strategy);
+```expect(expected.strategy).to.include(actualItem.strategy);
 expect(actualItem.brand).to.eq(expected.brand);
 expect(actualItem.language).to.eq(expected.language);
-
+```
 **Includes validation for:**
 Strategy
 Brand
