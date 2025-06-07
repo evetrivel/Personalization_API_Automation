@@ -1,0 +1,579 @@
+[
+  {
+    "TestCase_ID": "ID_01",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_02",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_03",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-nativearticle-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_04",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-gallery-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  
+  {
+    "TestCase_ID": "ID_05",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_06",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-recipe-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_07",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-teen-vote-2020-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_08",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_09",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-article-bottom-recirc-bkt-a",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_10",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-gallery-bottom-recirc-bkt-a",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_11",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_12",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-teen-vote-2020-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_13",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "teen-vogue-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_14",
+    "Brand": "teenvogue",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "67e1e05d7057d9983d3d49e4",
+    "url": "https://www.teenvogue.com/story/bbc-boarders-everything-you-need-to-know",
+    "applicationID": "cne-interlude-teenvogue",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "teenvogue",
+      "language": "en-US"
+    }
+  }
+]
+
+

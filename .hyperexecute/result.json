@@ -1,0 +1,200 @@
+{
+    "id": "aef2695a-d9eb-4e53-8ade-88b5feb54233",
+    "remark": "Job failed as encountered a Test level failure",
+    "created_at": "2025-06-03T09:40:36Z",
+    "update_at": "2025-06-03T09:43:39Z",
+    "global_timeout": 150,
+    "tunnel_name": "",
+    "start_time": "2025-06-03T09:41:14Z",
+    "end_time": "2025-06-03T09:43:39Z",
+    "summary": {
+        "total_time": 145000000000,
+        "execution_time": 145000000000,
+        "total_tasks": 4,
+        "build_time_consumed": 267000000000,
+        "jobTestExecutionTime": "1m4s",
+        "failed_tasks": 2,
+        "total_stage_info": {
+            "prerun": {
+                "StageFailedPercent": 0,
+                "StagePassPercent": 100,
+                "TotalStage": 4
+            },
+            "scenario": {
+                "StageFailedPercent": 100,
+                "StagePassPercent": 0,
+                "TotalStage": 2
+            },
+            "test_discovery": {
+                "StageFailedPercent": 0,
+                "StagePassPercent": 100,
+                "TotalStage": 2
+            }
+        },
+        "status": "failed",
+        "job_link": "https://hyperexecute.lambdatest.com/hyperexecute/task?jobId=aef2695a-d9eb-4e53-8ade-88b5feb54233"
+    },
+    "tasks": [
+        {
+            "id": "HYPM-998272-1748943673335429353JTU",
+            "os": "mac",
+            "status": "completed",
+            "remark": "completed",
+            "debug": false,
+            "created_at": "2025-06-03T09:41:13Z",
+            "update_at": "2025-06-03T09:41:48Z",
+            "start_time": "2025-06-03T09:41:14Z",
+            "end_time": "2025-06-03T09:41:48Z",
+            "group_number": 1,
+            "stages": [
+                {
+                    "id": "293d8011-4d77-497f-a6ff-ef3c087e9220",
+                    "type": "test_discovery",
+                    "status": "completed",
+                    "name": "discovery",
+                    "iteration": 0,
+                    "link": "discovery.log",
+                    "created_at": "2025-06-03T09:41:47Z",
+                    "started_at": "2025-06-03T09:41:47Z",
+                    "updated_at": "2025-06-03T09:41:48Z",
+                    "order": 3,
+                    "task_number": 1
+                },
+                {
+                    "id": "3b676d3b-e292-4c66-a278-5b8960b2976d",
+                    "type": "prerun",
+                    "status": "completed",
+                    "name": "pre",
+                    "iteration": 0,
+                    "link": "pre.log",
+                    "created_at": "2025-06-03T09:41:19Z",
+                    "started_at": "2025-06-03T09:41:19Z",
+                    "updated_at": "2025-06-03T09:41:47Z",
+                    "order": 2,
+                    "task_number": 1
+                }
+            ]
+        },
+        {
+            "id": "HYPM-998272-1748943673379581947YHK",
+            "os": "mac",
+            "status": "completed",
+            "remark": "completed",
+            "debug": false,
+            "created_at": "2025-06-03T09:41:13Z",
+            "update_at": "2025-06-03T09:41:57Z",
+            "start_time": "2025-06-03T09:41:16Z",
+            "end_time": "2025-06-03T09:41:57Z",
+            "group_number": 2,
+            "stages": [
+                {
+                    "id": "546abbd0-a380-485a-858b-00197cadd873",
+                    "type": "prerun",
+                    "status": "completed",
+                    "name": "pre",
+                    "iteration": 0,
+                    "link": "pre.log",
+                    "created_at": "2025-06-03T09:41:25Z",
+                    "started_at": "2025-06-03T09:41:26Z",
+                    "updated_at": "2025-06-03T09:41:56Z",
+                    "order": 2,
+                    "task_number": 2
+                },
+                {
+                    "id": "797cfa4a-f4e3-4dbf-833b-ddf2cb0718b8",
+                    "type": "test_discovery",
+                    "status": "completed",
+                    "name": "discovery",
+                    "iteration": 0,
+                    "link": "discovery.log",
+                    "created_at": "2025-06-03T09:41:56Z",
+                    "started_at": "2025-06-03T09:41:56Z",
+                    "updated_at": "2025-06-03T09:41:56Z",
+                    "order": 3,
+                    "task_number": 2
+                }
+            ]
+        },
+        {
+            "id": "HYPM-998272-1748943708231997209UYT",
+            "os": "mac",
+            "status": "failed",
+            "remark": "Job failed as encountered a Test level failure",
+            "debug": false,
+            "created_at": "2025-06-03T09:41:48Z",
+            "update_at": "2025-06-03T09:43:39Z",
+            "start_time": "2025-06-03T09:41:50Z",
+            "end_time": "2025-06-03T09:43:39Z",
+            "group_number": 3,
+            "stages": [
+                {
+                    "id": "1fbcae45-3f25-4d2e-a226-b0b220b56a35",
+                    "type": "prerun",
+                    "status": "completed",
+                    "name": "pre",
+                    "iteration": 0,
+                    "link": "pre.log",
+                    "created_at": "2025-06-03T09:41:57Z",
+                    "started_at": "2025-06-03T09:41:57Z",
+                    "updated_at": "2025-06-03T09:42:25Z",
+                    "order": 2,
+                    "task_number": 3
+                },
+                {
+                    "id": "83ac7743-f9e5-48c4-80f6-5f1c4bed959c",
+                    "type": "scenario",
+                    "status": "failed",
+                    "name": "Running on macOS",
+                    "iteration": 0,
+                    "link": "command.1.0.log",
+                    "created_at": "2025-06-03T09:42:25Z",
+                    "started_at": "2025-06-03T09:42:30Z",
+                    "updated_at": "2025-06-03T09:43:38Z",
+                    "order": 4,
+                    "task_number": 3
+                }
+            ]
+        },
+        {
+            "id": "HYPM-998272-1748943717230200058UTF",
+            "os": "mac",
+            "status": "failed",
+            "remark": "Job failed as encountered a Test level failure",
+            "debug": false,
+            "created_at": "2025-06-03T09:41:57Z",
+            "update_at": "2025-06-03T09:43:21Z",
+            "start_time": "2025-06-03T09:41:58Z",
+            "end_time": "2025-06-03T09:43:21Z",
+            "group_number": 4,
+            "stages": [
+                {
+                    "id": "41af57ae-a7e3-436a-844d-68dffe3480ba",
+                    "type": "scenario",
+                    "status": "failed",
+                    "name": "Running on macOS",
+                    "iteration": 0,
+                    "link": "command.1.0.log",
+                    "created_at": "2025-06-03T09:42:32Z",
+                    "started_at": "2025-06-03T09:42:35Z",
+                    "updated_at": "2025-06-03T09:43:21Z",
+                    "order": 4,
+                    "task_number": 4
+                },
+                {
+                    "id": "9748d5ba-733c-41e0-b3c1-57ad7cc9a533",
+                    "type": "prerun",
+                    "status": "completed",
+                    "name": "pre",
+                    "iteration": 0,
+                    "link": "pre.log",
+                    "created_at": "2025-06-03T09:42:03Z",
+                    "started_at": "2025-06-03T09:42:03Z",
+                    "updated_at": "2025-06-03T09:42:32Z",
+                    "order": 2,
+                    "task_number": 4
+                }
+            ]
+        }
+    ],
+    "test_ids": null
+}

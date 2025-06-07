@@ -1,0 +1,822 @@
+[
+  {
+    "TestCase_ID": "ID_01",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "cne-interlude-pitchfork",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_02",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_03",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_04",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-article-bottom-recirc-multitype",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_05",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-nativearticle-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_06",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_07",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-gallery-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_08",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-gallery-bottom-recirc-multitype",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_09",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-recipe-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_10",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-albums-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_11",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-albums-more-by-artist-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_12",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-news-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_13",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-tracks-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_14",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-tracks-more-by-artist-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_15",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-legacy",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_16",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_17",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-gallery-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_18",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-albums-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_19",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-tracks-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_20",
+    "Brand": "pitchfork",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6107f05e2463196521c90718",
+    "url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers",
+    "applicationID": "pitchfork-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  }
+]

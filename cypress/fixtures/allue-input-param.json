@@ -1,0 +1,507 @@
+[
+  {
+    "TestCase_ID": "ID_01",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05953",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_02",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05954",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_03",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05955",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-nativearticle-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_04",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05956",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-gallery-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_05",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05957",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-recipe-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+   
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_06",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05958",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-review-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_07",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05959",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_08",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05960",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-mobile-gallery",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_09",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05961",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_10",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05962",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allureRelatedRiser",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_11",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05963",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "cne-interlude-allure",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_12",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05964",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-article-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_13",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05965",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-nativearticle-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_14",
+    "Brand": "allure",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "61aa3d582611fd4454b05966",
+    "url": "https://www.allure.com/story/jennifer-lopez-latte-makeup-trend",
+    "applicationID": "allure-gallery-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "TestCase_ID": "ID_01",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_02",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_03",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-nativearticle-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_04",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-gallery-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_05",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_06",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-recipe-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_07",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-basically-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_08",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-basically-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_09",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-basically-gallery-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_10",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-basically-recipe-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_11",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-healthyish-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_12",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-healthyish-recipe-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_13",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-gallery-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_14",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-recipe-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_15",
+    "Brand": "bon-appetit",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "59b2f9126980921f60b9325e",
+    "url": "https://www.bonappetit.com/story/best-mandoline-slicer",
+    "applicationID": "bon-appetit-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+  }
+]

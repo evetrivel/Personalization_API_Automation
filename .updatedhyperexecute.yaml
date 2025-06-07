@@ -1,0 +1,197 @@
+version: "0.1"
+user: eniyan_vetrivel
+key: LT_QRl5Zr2WAfj62GMtmi7BuGFJyp6dwyzfJnTZVUhR4WpeXXZ
+matrix: {browser: [firefox, chrome], os: [mac]}
+testSuites: []
+pre: [npm ci, printenv]
+preDirectives:
+    commands: [npm ci, printenv]
+    maxRetries: 0
+    shell: ""
+    workingDirectory: ""
+postDirectives:
+    commands: []
+    shell: ""
+    workingDirectory: ""
+env:
+    HYPEREXECUTE_CUSTOM_BUILD: Personalization Cypress automation Regression test
+jobLabel:
+    - Personalization Cypress Regression Test
+runson: ${matrix.os}
+autosplit: true
+concurrency: 10
+testDiscovery:
+    macCommand: echo "Running on macOS"
+    mode: remote
+    type: raw
+testRunnerCommand: npx cypress run --config video=false --headless --spec "cypress/e2e/**/*.cy.{js,ts}"
+globalTimeout: 150
+tunnelOpts:
+    testsPerTunnel: 10
+testSuiteTimeout: 150
+testSuiteStep: 90
+cacheDirectories:
+    - node_modules
+cacheKey: '{{ checksum "package.json" }}'
+maxRetries: 0
+jobID: aef2695a-d9eb-4e53-8ade-88b5feb54233
+parallelism: 10
+macParallelism: 10
+macTestRunnerCommand: npx cypress run --config video=false --headless --spec "cypress/e2e/**/*.cy.{js,ts}"
+codeDirectory: cypress-api-test
+report: true
+framework:
+    name: ""
+    flags: []
+    discoveryFlags: []
+    discoveryMode: ""
+    discoveryType: ""
+    runnerFlags: []
+    workingDirectory: ""
+    isTestNGXMLSuite: false
+    defaultReports: false
+    args:
+        appPath: ""
+        testSuitePath: ""
+        xcTestPlanPath: ""
+        shards:
+            mappings: []
+        filters:
+            attributes: []
+        devices: []
+        deviceSelectionStrategy: ""
+        appId: ""
+        testSuiteAppId: ""
+        xcTestPlanId: ""
+        skipXMLOnRun: false
+        skipInstall: false
+        disableReleaseDevice: false
+        platformName: ""
+        isRealMobile: null
+        avoidAppLaunch: false
+        queueTimeout: 0
+        uninstallPreviousBuild: false
+        language: ""
+        locale: ""
+        preservedDevice: false
+        fixedIP: ""
+        resignApp: true
+        minorOsVersion: false
+        playwrightRD: false
+        mobileDC: null
+        skipUninstallPreviousBuild: false
+        isVirtualDevice: false
+        mitmProxy: false
+        networkHar: false
+        artifacts: false
+        otherApps: []
+        customData: {}
+        smartUI: null
+    additional_args: null
+    licenseKey: ""
+    userdefinediscovery: false
+    toscaArgs: null
+    version: ""
+    downloadURL: ""
+    baseCommand: ""
+cypressOps:
+    build: Personalization Cypress automation Regression test
+    tags:
+        - Hyperexecute
+        - Regression Execution Report
+    network: false
+    buildTags:
+        - Personalization Cypress Regression test Staging/prod Environment
+        - Regression Execution Report
+    geoLocation: ""
+    name: ""
+    performance: false
+    dedicatedProxy: false
+    geoLocationVendor: ""
+    runOnNx: false
+    smartUICaps:
+        smartUIProjectName: ""
+        smartUIProjectKey: ""
+        smartUIBuildName: ""
+        smartUIBaseline: false
+        smartUICompare: ""
+        smartUIOptions: {}
+    har: false
+    fullHar: false
+    accessibility: false
+    accessibilityWcagVersion: ""
+    accessibilityBestPractice: false
+    accessibilityNeedsReview: false
+    projectName: ""
+    projectKey: ""
+    projectAutoCreate: false
+    reporterConfigFile: ""
+    additionalcapabilities:
+        Build: Personalization Cypress automation Regression test
+        BuildTags:
+            - Personalization Cypress Regression test Staging/prod Environment
+            - Regression Execution Report
+        Tags:
+            - Hyperexecute
+            - Regression Execution Report
+cypress: true
+betaFeature:
+    setPartiallyCompletedAsCompleted: false
+triggerSource: CLI
+combineTasksInMatrixMode: false
+captureScreenRecordingForScenarios: false
+maxRetriesPreSteps: 0
+triggerMode: false
+sourcePayload:
+    verifySSL: true
+collectLocalGitData: true
+dynamicAllocation: false
+appium: null
+platformConfig: null
+differentialUpload:
+    enabled: false
+    ttlHours: null
+    forcedDisabled: false
+project:
+    id: ""
+    name: ""
+    type: custom
+meta: {}
+alwaysRunPostSteps: false
+errorCategorizedOnFailureOnly: false
+testDiscoveryResultV3: []
+storageType: ""
+localHTTPProxy: ""
+regionConfig:
+    vm: []
+    storage:
+        region: ""
+        enabled: false
+        name: ""
+        platform: azure
+waitForArtefactsUpload: false
+unzipPayload: false
+projectpath: ""
+accessibilityJob: false
+globalPre:
+    mode: ""
+    commands: []
+    maxRetries: 0
+    shell: ""
+    workingDirectory: ""
+    completed: false
+    runson: ""
+    cache: false
+    yamlPath: null
+    type: ""
+    location: ""
+globalPost:
+    mode: ""
+    commands: []
+    shell: ""
+    workingDirectory: ""
+    completed: false
+    runson: ""
+slackChannel: ""
+whiteLabelProductTag: ""
+sprofilePath: ""

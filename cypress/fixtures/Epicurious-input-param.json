@@ -1,0 +1,538 @@
+[
+  {
+    "TestCase_ID": "ID_02",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "applicationID": "cne-interlude-epicurious",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_03",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "applicationID": "epicurious-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_04",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "applicationID": "epicurious-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_05",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "applicationID": "epicurious-nativearticle-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_06",
+    "applicationID": "epicurious-gallery-bottom-recirc",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_07",
+    "applicationID": "epicurious-recipe-bottom-recirc",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_08",
+    "applicationID": "epicurious-cnevideo-bottom-recirc",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_09",
+    "applicationID": "epicurious-gallery-verso-hp-trending",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  
+  {
+    "TestCase_ID": "ID_10",
+    "applicationID": "epicurious-recipe-verso-hp-trending",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_11",
+    "applicationID": "epicurious-mobile-app-hp-trending",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_12",
+    "applicationID": "epicurious-article-bottom-recirc-bkt-a",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_13",
+    "applicationID": "epicurious-gallery-bottom-recirc-bkt-a",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_14",
+    "applicationID": "epicurious-video-watch-page-playlist",
+    "Brand": "epicurious",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "54a452ee19925f464b38f318",
+    "url": "https://www.epicurious.com/recipes/food/views/chocolate-cherry-cake",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "epicurious",
+      "language": "en-US"
+    }
+  }
+]
+
+

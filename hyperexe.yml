@@ -1,0 +1,40 @@
+autosplit: true
+cacheDirectories:
+  - node_modules
+cacheKey: '{{ checksum "package.json" }}'
+concurrency: 10
+cypress: true
+cypressOps:
+  Build: "Personalization Cypress automation Regression test"
+  BuildTags:
+    - "Personalization Cypress Regression test Staging/prod Environment"
+    - "Regression Execution Report"
+  Tags:
+    - "Hyperexecute"
+    - "Regression Execution Report"
+globalTimeout: 900
+jobLabel:
+  - "Personalization Cypress Regression Test"
+matrix:
+  browser:
+    - firefox
+    - chrome
+  os:
+    - mac
+maxRetries: 0
+parallelism: 10
+pre:
+  - npm ci
+  - printenv
+report: true
+retryOnFailure: false
+runson: ${matrix.os}
+testDiscovery:
+  macCommand: echo "Running on macOS"
+  mode: remote
+  type: raw
+testRunnerCommand: npx cypress run --config video=false --headless --spec "cypress/e2e/**/*.cy.{js,ts}"
+testSuiteStep: 90
+testSuiteTimeout: 900
+version: 0.1
+

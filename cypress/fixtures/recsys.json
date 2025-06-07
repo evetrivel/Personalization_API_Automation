@@ -1,0 +1,4404 @@
+[{
+  "copilotId": "657c27b2abeff4eeae807b1d",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "6542db83c11db0cc34162dc9",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "618940fe8373470f8394dfaa",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "678f20cb116c7084f79cbe50",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "63086bb6e016ccc57d54880c",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67921a5b09b45e1669a5351c",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "63b440b707fc9f4cb931506b",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6166ea2b56b7a2cb36fc72fe",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "678ffe84350fd34ab1f4e25d",
+  "brand": "vogue"
+},
+{
+  "copilotId": "63c543508942852787445c15",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "678798fa9e5362539d21fc66",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "674e7758df21733a015dfecc",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "63b851c1dbb4191b3f371eb2",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67449bef7635366badb4117d",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "678ecb714a6a78acd5e10248",
+  "brand": "vogue"
+},
+{
+  "copilotId": "675ad4a9f97146d5e2482c2e",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "678ed42887ea04c9bbdb378a",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "678e4849de7e73ea6b2ff7a3",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "61ee753c1b23234209f9eb82",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "678e4987d614afd82afcd5e1",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "678a5de5db330baa82a14f21",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "6781949c7e76ef4ec5ca6874",
+  "brand": "wired"
+},
+{
+  "copilotId": "6138a0f65ebdbf876576b6c6",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "66321d951cefdec4fceba557",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "678e7e5c506ac5fcd79c91d9",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "65084fc6065ca1d00a5d78fa",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "678e21227708d833ff3c5183",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "611be84ca954a4e571f6eb76",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "6732335ff7e74ef1832f048c",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "6788cdcb3015f5a07d262112",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "678e09bfde7e73ea6b2ff798",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "67615cefa41afccc04995f63",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "678a0e583387f8ecdaf4cd07",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "677eb24baf8e97e5d5583f2d",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "674e774de3ec74c3825a9ace",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "678b80911a6ea3dd6db970b5",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "678b1a1773d7d0f46f7c0bb9",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "65cc9f48e4cb49b36ee4ec12",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6787d822a4d75cf59d8e6f88",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "61e7e45f35f9462078b9aa12",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "677f8ce7c2bb6aaace9be81c",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67893a8128c8f1e91daeacfe",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "678a5ed3c9ba9211e17ee1a4",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6789040d5bc2f73ebd347755",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6787f9874a861011294e5abd",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "61ba32e9269442088357819b",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "61c2f5e08bbd1a334560065d",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "62cd8028fd9c37b4266881bd",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "628f6ce8b012eec47918d5e3",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "65a118d43b1e02864c4657b1",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "659bd2eb6ec29f577d34950c",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "614245247aed9debc2452b7f",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "678a24ea64acbf8ce8f8f9fc",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "5d13ae8593d83f0cfef860f7",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "6789174da74b0e3f75d46224",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "676551585bef007abfcca243",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67876d1b0f20a460ae5b9d31",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "6788881cf9281b4dac9acd3c",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6788a54c3ed26fd5de81ecdf",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6789296907ad59bb1663484f",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "5d13a979976fa346eaf3afba",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "5de67c19b4ac1c00080cd50b",
+  "brand": "wired"
+},
+{
+  "copilotId": "67865ef26b3b2431181492ce",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "678686807b77ae5cc78d8804",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "677a7cfdd0e8781edf7bb31e",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6780fc48df41878653beaee8",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "614d8f71063f479a9bc1d7fb",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6776c2ea154c530a69b53ad6",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "675facd330bd54c05d8cfac6",
+  "brand": "wired-japan"
+},
+{
+  "copilotId": "6778d1b0cd133f11ab6e984c",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "6776d3c6a65e57ac018ebbc7",
+  "brand": "vogue"
+},
+{
+  "copilotId": "67777955b8d9bc6c4bd5c15f",
+  "brand": "vogue-india"
+},
+{
+  "copilotId": "6721207ee6bb31ac64fe62e6",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "677b2aa8cb3b3b4f8b695c47",
+  "brand": "vogue"
+},
+{
+  "copilotId": "677b2b56cad07b1252864e91",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "677b1b52ae5af701eb541b4b",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "67776df26399e2d55e00e288",
+  "brand": "gq-taiwan"
+},
+{
+  "copilotId": "5b8ff23f828b792d4e4b50f0",
+  "brand": "wired"
+},
+{
+  "copilotId": "67654b65bceb15676809245f",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "5e0f6a99e154550008a498b6",
+  "brand": "allure"
+},
+{
+  "copilotId": "677b57a9472e46a2d097e562",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "57717a6a2554df47220a1940",
+  "brand": "allure"
+},
+{
+  "copilotId": "677ac27b65168abd834c75d1",
+  "brand": "vogue"
+},
+{
+  "copilotId": "646b6aa7b444d290f4e2b98a",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "59d68680edbe03000b6cc453",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "6138969954a5dc97887e83a7",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "677b4066d690c7926846113a",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "677b52f2ed7a6829e1e85883",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "63e358490b32fb88c58a4d04",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "67723892ce3b3df628b6bf64",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "677b3698feb7a4c3a01913c8",
+  "brand": "vogue"
+},
+{
+  "copilotId": "677b49b1ae5af701eb541b60",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "677b4868626a531491c28211",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "677b1e4c335fddde75efd889",
+  "brand": "vogue"
+},
+{
+  "copilotId": "677bd3196d2d2212ad45c5d0",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "6246df08ceb527a328de3864",
+  "brand": "wired"
+},
+{
+  "copilotId": "67772c019a870e802314fa82",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "675bad0240490c45fb841a1e",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67796a49a1f6c545b34a8ed9",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "6604022f662daf0b68de2c79",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "5d544b10d9c06a0008db30dd",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "61388bef2b5bbea00829168c",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6779afd3aaffbe11b2c8a892",
+  "brand": "vogue-india"
+},
+{
+  "copilotId": "677b5fa12b25994ceed274db",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "5b2bfa95a98055277ea83e1e",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "5947f4568dded7591d626b89",
+  "brand": "the-new-yorker"
+},
+{
+  "copilotId": "66e9b4b97b04805e352802a0",
+  "brand": "wired"
+},
+{
+  "copilotId": "677be878932eabc6b16f3333",
+  "brand": "gq-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "675824d58405988c8413a59c",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "677b5fff3793992026e8a886",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "6777b0b4b67223f1fd2d53ab",
+  "brand": "gq-taiwan"
+},
+{
+  "copilotId": "5d3f2e4877f7410008d5316c",
+  "brand": "wired"
+},
+{
+  "copilotId": "6138945a54a5dc97887e81fd",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "677c1e3896223c1111fb92f0",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "677aa54b28146f74bb2614bd",
+  "brand": "teen-vogue"
+},
+{
+  "copilotId": "659b911af25480e69f01a1f0",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "6414a614eba95d7f753dc74a",
+  "brand": "gq"
+},
+{
+  "copilotId": "677b54a4472c10f64b96ef74",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "676e71c4bf5b737d0a6ab004",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "5e70f10b596dd70008c85756",
+  "brand": "glamour"
+},
+{
+  "copilotId": "677aafb6c48b6cb08d9a17c9",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "676442138211bfc6235e091c",
+  "brand": "vogue"
+},
+{
+  "copilotId": "677b7a034ad12c4ea16b6efc",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "677ba7e809544928ca8f0345",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67770df6e80acd257187c584",
+  "brand": "the-new-yorker"
+},
+{
+  "copilotId": "67976704488ea010b7c1bba4",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "674e1636e9188334bfb0612e",
+  "brand": "vogue"
+},
+{
+  "copilotId": "67977fe366efd4dce7e7aebc",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679352f14842647ca1c2420c",
+  "brand": "architectural-digest-espana"
+},
+{
+  "copilotId": "67934be7ddceb4245c193b0a",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "67975d4c2cc789596f49248e",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "67924a5fd8ecd6ee9776dae7",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "67910a2f3377ac53f4404936",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6791711f570feeaef875702f",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "625e5cbcafd8a43d4f2035ce",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "678f823e9dd5d7a2b4fb7c3e",
+  "brand": "vogue-india"
+},
+{
+  "copilotId": "6141ea1b16e76df7934a891a",
+  "brand": "tatler"
+},
+{
+  "copilotId": "67957966df5bc5a62f2a32f8",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67975572e0897d3339fc1665",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "6138a51b8cb9467036e0f109",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6792510c2c16eb5a4eff9a5a",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "65f87c5beaf8f5aef8a934e8",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "679039c11c3166104934b3f0",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67925752dab766c0dbac430e",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "61f2dd4c473393eb59b6946d",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "679757b62883caca004e379a",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "678ecc9a3128e32fcf33607a",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "678f62fb354ff526211e3186",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "61388c265ebdbf876576a730",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "678e46aaf3f7ce9e9450eb72",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67975af37635700fa0df8490",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "63697afc53b3bfd9439e4e90",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "6791156d0f69aadb99c35baa",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "67926d414d1dadf6be465c8c",
+  "brand": "vogue"
+},
+{
+  "copilotId": "678fdf7b8b51a9a90e1b903c",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "63c7104f59303696f90d78aa",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "678936ff2a3866e470a7dee6",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "677fabee1d6c9703cb69a035",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "678f9050553df51e65e8c54f",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "641363b067020bda4c794819",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "63be7828150393d882414208",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "6797567c2c7750e0fb4c8270",
+  "brand": "architectural-digest-espana"
+},
+{
+  "copilotId": "653f73b3b877a27e9aaeefcc",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "616f738216c8b9c6f631834e",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "63da4f3d3e2f13e3d8e1a1a1",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "678954a1849f8a05c7c16deb",
+  "brand": "glamour"
+},
+{
+  "copilotId": "6797930239320298d43d8eeb",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "67920e9759c9b71c788a0f7f",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6790c32e1b3fbf4cd70394f4",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "67926917bfe0f2a7f7f614f8",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "60c36d15925cabe111be18b1",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "679761baa6d227eaeeb9203f",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "679795f64fa9918037c88e63",
+  "brand": "wired-en-espanol"
+},
+{
+  "copilotId": "6797a933a84c189739ce65c0",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "67976d5d6505b560968c7f02",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6797694bfb76acba4ba96812",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6794bc09179839fc4683d24d",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6789b9469d2f954f5772ae11",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67572903e6ffe6eca0c49c58",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "6797c85ccce7adef76513ba2",
+  "brand": "glamour-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "678b3f7a0ce1e835bc04b0d0",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "677f93e8e2819008d924532f",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "624d5f7ecd48abc9c9cd9a61",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "6138927c5ebdbf876576ad2d",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6138927c30654311017f6779",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "5d544f0a22090e0008a3e09e",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "640849d5a9a9eb94811a168b",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6762a277d5de270894a719df",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "63c7bf4ebe9210c1d5c6450a",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "678a927f71b2e2758c3db5ce",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "63c53b933b717a186514607f",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "6189384ef4c358180440a9f7",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67986375f249be6ff37dd902",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67974ac5e20eabb82d56aa33",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "67974c1348f8a942a2c622e4",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "5d138ed67fcc8e8bb781f54c",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "679747963ac68c687c3697f3",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "679465332ff6505e115e7a8c",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "6792912a3199b70da8b7bc98",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "67977b18da32f48e2586b1d1",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "5f5f9d2fc3d81943e4910e13",
+  "brand": "wired"
+},
+{
+  "copilotId": "6793f156889bc501861ef81b",
+  "brand": "gq"
+},
+{
+  "copilotId": "67989727e44c9ca667f3f694",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "67976e71a7fe9605f009fa41",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6798a45aa742b6e01da4677c",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "63737558b9706ebb73bf7016",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "61389a2c70a13dae5bdeaa7a",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6797d13025116c7366071839",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "67977dfe93991161aea82e0b",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "6797a6052b6c25dfb4ab09a6",
+  "brand": "vogue"
+},
+{
+  "copilotId": "679809bb547225b9c8011eb0",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679896aefac69572770cc2a9",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "5d544528e59828000877cb48",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "6798a5982a6772d8b0ac72eb",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "6568ca496ecc61708f73f501",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "61894786d9ae96d083cd1182",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "611be89fdb797d0116fd4436",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "679007541e7164d2c49641a3",
+  "brand": "vogue"
+},
+{
+  "copilotId": "61faf99263db7f9db370f83f",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "6798d38d927a910b1343fd1c",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67978103c348271461b08f51",
+  "brand": "bon-appetit"
+},
+{
+  "copilotId": "6797a028ea8ecc4456dc38aa",
+  "brand": "vogue"
+},
+{
+  "copilotId": "643da6a7a56ac09c294d3c3b",
+  "brand": "glamour"
+},
+{
+  "copilotId": "679616591d28b7ce51acca78",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "6796e7a26505b560968c7ecd",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "618937c2f4c358180440a88f",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6399ecd505d568518215e0ae",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "6798ee804888be984b9cd903",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "6797611e50bb0c066fa600d3",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "6795fa57fa3f692c941f4aec",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679387e272ef9484f66e658d",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "6797d52f223b7771137132a4",
+  "brand": "wired"
+},
+{
+  "copilotId": "6267c4f0a2b23ded283d9a92",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "5f4f314b2e4680a738444624",
+  "brand": "glamour"
+},
+{
+  "copilotId": "613896993bf019dd156876aa",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67938af2fd53ddbd95206507",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "67586994ebd3ec21351093e7",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "5aaac8a29105ac56e056f34f",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "679930d3fdaa824dd1f90818",
+  "brand": "wired-en-espanol"
+},
+{
+  "copilotId": "6798e63fc800bacfb8a23e27",
+  "brand": "bon-appetit"
+},
+{
+  "copilotId": "657b3fb8fdd3e630835434e0",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "6785c6bed1bfc3050805dd06",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "677d8d6a9c20569cd9f8080f",
+  "brand": "wired"
+},
+{
+  "copilotId": "6797fc10daa11a7ab72f6367",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "678a62b6fcf478610dfae52f",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "67989f361fd02b21ba91416d",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "638f1e6fef6226d00e7b0fd6",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "63e27e726fdf84fa80e6a329",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "6799e72c57944230b2576c86",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "6792c2f39caf86e6588778df",
+  "brand": "the-new-yorker"
+},
+{
+  "copilotId": "678f9b60a3f3709d515fa0cb",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "63dd1921a55dc5e0bb7ba453",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "61388b9c5ebdbf876576a588",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "65b7d61fe2d195b010b3f902",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "679948fd5d3af681aa2ec2bd",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "678cf2104cb0b3fa2d9cc119",
+  "brand": "wired-japan"
+},
+{
+  "copilotId": "6138966d2b5bbea008291fc0",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6524227b0b05d8e7d3930d64",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "620d2c155cb4c1bd09333b0d",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "679a19d5b3c71407c99695fb",
+  "brand": "bon-appetit"
+},
+{
+  "copilotId": "679a199c5e5491608287624a",
+  "brand": "epicurious"
+},
+{
+  "copilotId": "6796b4fafe3f35bf6634906c",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "5ad9f8845ac0d714a1b64321",
+  "brand": "wired"
+},
+{
+  "copilotId": "67974b4993991161aea82e08",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "6797acaef9dd5f54b0a8ffe6",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "61893d99f9cf3d171adacf28",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "5cd9a26365d95552e119469b",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "6204f302fa3b1a217eb0e750",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679b5c8f68476b0adcc1047b",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6141e665797f8a06f4b684a5",
+  "brand": "tatler"
+},
+{
+  "copilotId": "64b558d57eb40c2341eba88e",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "63f37d755fa9f26c27b633d9",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "61388bcf6c53c747be7bc136",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "679b3a7db6cde776580579a7",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679797a946b53175802da691",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "61e96b9cd01ac60c8df77d16",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "679a472dfcec1c57a4d1d026",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "6798fa116a06a11949bc7be2",
+  "brand": "gq"
+},
+{
+  "copilotId": "618bdbb62ff405acf22832a7",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "61893dffd90b1c76b9d58e55",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "678a330180083c9eb7b7f637",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "679273fb0eaea460af9c3dc0",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "6798106316ed6265cef3e065",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "620734b4f92d1f3e311a3cdd",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "640f3528c69040859acca99f",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "56549c695e7aeb7a6e217614",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "65b181df4c16d991791c43e8",
+  "brand": "glamour"
+},
+{
+  "copilotId": "65e853be735f2f9fbab1aabe",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "6792132f26daa9b3e40f2348",
+  "brand": "architectural-digest-france"
+},
+{
+  "copilotId": "61904c47e695721c79b93852",
+  "brand": "glamour"
+},
+{
+  "copilotId": "66eb3631886ec6c80dbdf6b0",
+  "brand": "glamour-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "679bb7c78839e8321198f9de",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "67943d84cbd9f75f3313f06b",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679a734e0bb6f32d29831776",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679437bbbf020ecc967988c6",
+  "brand": "allure"
+},
+{
+  "copilotId": "5d13ab66533a237dd4c6392a",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "6797d78c739be113cef41b84",
+  "brand": "vogue"
+},
+{
+  "copilotId": "6793cb3f8256a00c82ecb6b9",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "6793ea0736bcd83df2cbfa1a",
+  "brand": "gq-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "679a56480b9c939304900d5f",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "59407c8abf3eda5ed478a4b0",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "679bc17f0101cb601d5621b5",
+  "brand": "gq"
+},
+{
+  "copilotId": "63d78d9f33e05390bbcbce21",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "6797bfa2135b073a63fc44cc",
+  "brand": "vogue"
+},
+{
+  "copilotId": "67879e53a2c07ab40176e720",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67890d888351aec0fad2ea80",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6780e793ff0e5c8f4b10a8c0",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "6797ae202b6c25dfb4ab09b0",
+  "brand": "vogue"
+},
+{
+  "copilotId": "611bea2e042ccafe9a9adf18",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "6798dcbf1886338ee082bf5f",
+  "brand": "vogue"
+},
+{
+  "copilotId": "65d757ab3a5b6fd0241bf281",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6797d7073d8c496d66350cff",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "679c384c938350f80754e3f4",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c42df0f546b173e6ba1d9",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c43697b91d5457f13479b",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "6798833dcb56aa0a022c77e2",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "679b9c932396d53ab4e5c5cd",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "6797a3ce7d74477e983c2f4b",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "679775c56505b560968c7f05",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6798def1eecc014b34cc457f",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "6797bb11e3ab8facafa03ba5",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "5d6e4f0bb278300008c06341",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67971fa3fe3273fb95750e4e",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "678fa9cd48775753675e2c5f",
+  "brand": "architectural-digest-espana"
+},
+{
+  "copilotId": "6790b66cf3eb50cb626b4722",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "6203ffe15c47580ef2c1254f",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "67922482b516de3a53fa365b",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "603fc5ec959bf89ae44634de",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "678d6be2e1e0041c7441c40b",
+  "brand": "vogue"
+},
+{
+  "copilotId": "67973fc994291b91a64c3585",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67407e0b25ac181bb55279a4",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "61388c375ebdbf876576a74e",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "611bf127f902cc2d167b466c",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "6798da3d5b26be11b8821aa4",
+  "brand": "tatler"
+},
+{
+  "copilotId": "6629255413552590f9a1ce89",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "6141c6f09f9d1339639a54d3",
+  "brand": "tatler"
+},
+{
+  "copilotId": "65a94157b954734858d80b0e",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "64c9069965a92eac153a196f",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "6798c039e304f53ff28c141f",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "6798a2d734610229cd3f520e",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "66ea9e0de60e7b5eefe712bb",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "5d54c0b1ea03630008193f2f",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "67978374a7fe9605f009fa4b",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6798b6c5c3f0090153e10d12",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "6707c8e8833f228fa35aae45",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "6792bed21b0e5942ae34e507",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "679097de6712368560463af8",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679912dbca86ede4ba8c467b",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "6798ae1f201ea13ec626dcb0",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "678f6626329080a79e5d8f08",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "65e9c6ca9d3497a7c09ff5fd",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "6792663d3548215210cffa72",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "56c10448b4183ee17eebcd64",
+  "brand": "teen-vogue"
+},
+{
+  "copilotId": "678acf31a4bf3f5580fcd959",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "6797b05855503e7a76233d0e",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "67989b2f01f35c75a16f4c61",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "6787838418cfd6589b3bd8da",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6798fab2486792bdd71d3088",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "679908780cc42bca76483d40",
+  "brand": "wired-en-espanol"
+},
+{
+  "copilotId": "5efa041b94d44e25fd0f4f34",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "596e18fa5613850539d63455",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "6794d4bbce25c912091d8802",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679342227fadfea0fc208e50",
+  "brand": "gq-taiwan"
+},
+{
+  "copilotId": "67988f3b57981de1b99b0407",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "6798c1712d86291f04cc70a3",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "61388c652b5bbea008291771",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "65a1313bbaabbb673bbba295",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6798f84fc33e8ff256ec6197",
+  "brand": "wired"
+},
+{
+  "copilotId": "6798bb03d72b88b287a3ffde",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "65b2597e4d3f9f63804ff660",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6798f39d5160e2506a4b577b",
+  "brand": "glamour-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "5fa3f57bf5155deda4cb09a3",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67960cc0f60ba76a42b805bc",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "67892458e8d821965ac23c79",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "67970f5f759198854653520d",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "67970a286505b560968c7ed5",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "61fbdb685db7bf18a1303925",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "6798f500542cab51a0acbe2c",
+  "brand": "gq"
+},
+{
+  "copilotId": "6797ab1c27751f9cfe5f1c6e",
+  "brand": "vogue"
+},
+{
+  "copilotId": "67939f5b8426fc6f232a6626",
+  "brand": "teen-vogue"
+},
+{
+  "copilotId": "5fc800047bd0022e294d215c",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "6799b7f9c9b0d2a7c840a97e",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6790aa7dae056710e438b8f9",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6799e2e6a9ad8bc4e86f0f7c",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "678e2914c551d9365db8ec1c",
+  "brand": "wired"
+},
+{
+  "copilotId": "6799ce1d75486ac90002dee6",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6138902c4501b1fdc56b9f30",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "613895c76c53c747be7bcad9",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6799ff1d7850e98f74a4ae53",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "62c59dce89f4fe973337a10b",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "6797c342dbcb16e0ca35826b",
+  "brand": "gq"
+},
+{
+  "copilotId": "6798c3be2510b7179d8eedda",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "5b3149674606c7480e11a501",
+  "brand": "allure"
+},
+{
+  "copilotId": "628b42e0a580a9ed424d3e14",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "5fc64ed51f2d19da6c85ef01",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "672a02bda95bec5f6f90b86e",
+  "brand": "wired"
+},
+{
+  "copilotId": "62488bc3a753dbd32700bafc",
+  "brand": "architectural-digest-italia"
+},
+{
+  "copilotId": "66337a04c4b30a593ebc29be",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67864ec0b09266ff52e89259",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6446eb0c26739c2578449d3c",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "5d28c6ec66bca60008dad935",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "621f36f00e4996786249a760",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "678838719dc223fad8a7f5bf",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "6463908723689cbbe1bbab10",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "679aee3b55daf9e0e2681067",
+  "brand": "wired"
+},
+{
+  "copilotId": "617950cd6a60c54e8f89d351",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "5d13ac079fa6010e95839d24",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "6512ab11379343a7369a2cfe",
+  "brand": "tatler"
+},
+{
+  "copilotId": "6141e91d02938e52354ba7f9",
+  "brand": "tatler"
+},
+{
+  "copilotId": "633465e43615c1d9a5fd6982",
+  "brand": "tatler"
+},
+{
+  "copilotId": "679cccad82f7d64472507610",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "5d13977d7fcc8eb18f81fdaa",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "640bc03e796ccca26bca5f82",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "5d138f2b2881cc516f0a7ad8",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67983c6b7e83058d6ab2f652",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "65faa89fb81cf8cad9fefdcb",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "679b54e345f54f7fef8cc7d9",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "5d13a73bd7a70157ccbbb9b9",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "679b326c06241903bac168b4",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "61893c77d90b1c76b9d58d97",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "64da38d597fb82c42e50e595",
+  "brand": "world-of-interiors"
+},
+{
+  "copilotId": "6141d13344f4ad8dcb348b99",
+  "brand": "tatler"
+},
+{
+  "copilotId": "6752086d85aa7e95bde2aaaf",
+  "brand": "vogue"
+},
+{
+  "copilotId": "679ab9ca619c6826b07be680",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "6793e38d925304c642aa8855",
+  "brand": "vogue"
+},
+{
+  "copilotId": "60e861bab710ef1e877f990a",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "679a508f9bca278a51729aec",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "679252771e41fdd9fede9e5d",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "5a05ea161467076cb14b0d6b",
+  "brand": "glamour"
+},
+{
+  "copilotId": "679d20df64b0bdc3a40fc384",
+  "brand": "glamour"
+},
+{
+  "copilotId": "678e3e8ef9fbec1e40cf8284",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6791fe6bde10cc07b7cbb1cb",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "679d5cdfd4d04267b17d1729",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6799fbae710ba948b0f98ff7",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "616f70a5d94dedf63452cfa1",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "6787d42e01f5aa547218e06a",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6797df79e9ae1f48fead51ce",
+  "brand": "the-new-yorker"
+},
+{
+  "copilotId": "61fa9426e55ef4c16c9ed091",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "67921a92639515d67b4c4699",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "6634e20132217a898f6944f4",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "6799ef75825e7eee2f96c73a",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "678299f5a73d8ec48e9b4344",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "62e7af78fe138bb2241e74f8",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "679b436107696147f50d2f76",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "679b3b75333cf5925e35018f",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "61fb16f228bbd1b96fb67d10",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "64f0715705c42008ad5dbb5a",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "676d36015678db323325a51f",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "5d13acea3b38536e780e9b80",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67996c989b42d9d4cf5a1059",
+  "brand": "vogue"
+},
+{
+  "copilotId": "679b07db3ea3171350026d8a",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "61388d719734ef64a15ee2a4",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "63eb4b894ab3000103fb64e5",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "677fb86e4adde803612272b4",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "61b789ae3c1570da1524870d",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "64e6220f233ba3f57109f339",
+  "brand": "tatler"
+},
+{
+  "copilotId": "678e3ab9ed8e3c5f1d44e22b",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "67934cc5b83b5f68a754b679",
+  "brand": "gq-taiwan"
+},
+{
+  "copilotId": "679a545c210f31c01dae2f4c",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "641393492efc81f52a54c6b1",
+  "brand": "wired"
+},
+{
+  "copilotId": "6799fc1c031c6874ac0c7409",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67984c4fc4540fb05a981a98",
+  "brand": "wired-japan"
+},
+{
+  "copilotId": "67921531b65acd9f158e3396",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "5d54c409c7c40e00085c3869",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "5e8207ab8714920008e10d42",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "645d08d3e0f7040c8202e92f",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "65659b68c5f1e3102e5629fc",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "679a5586bd0b9ec421378a3f",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "611bf0458c1b7286f1c11e47",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "679a8de2bec4700044655e3b",
+  "brand": "vogue"
+},
+{
+  "copilotId": "5d548722a0149000088e546f",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "61683b32bc33127d98fe1071",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "63b701233c40c93e41fddead",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "679dd8d0dff62f57b98d9911",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "679b8ae41eae08691f30f705",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "6798a65971a10ce4eda97c57",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "5eccebb1affc6618c4a302b5",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "64da396197fb82c42e50e596",
+  "brand": "world-of-interiors"
+},
+{
+  "copilotId": "61894380aa6a21034f13718b",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6141e50ceb8b78290b17d8f4",
+  "brand": "tatler"
+},
+{
+  "copilotId": "679b5152ccc1697f09ad368b",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "650c1b10a823aec6505e3a88",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "679b9f34bb89f479bbd18a6d",
+  "brand": "epicurious"
+},
+{
+  "copilotId": "679789d89c6abade7696df62",
+  "brand": "wired"
+},
+{
+  "copilotId": "5c4ee11643fcf820c5d8bda0",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "679b9df8f81d8c7b6522228f",
+  "brand": "vogue"
+},
+{
+  "copilotId": "67975b3f288e1a42ea18a66b",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "5d13ad2f4d217bb91c4bef3a",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "6784bbbbd008e019cc640c07",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "679a4893101997d5540386fd",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "679c618083305c33af7a87c5",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679b7990d6f4b6ea89612300",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6786f8e3e54e9fc7a6a04ac2",
+  "brand": "bon-appetit"
+},
+{
+  "copilotId": "65fdacaec3944c92c7785f47",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "64ad80e72d2f64fb4d90b3a8",
+  "brand": "tatler"
+},
+{
+  "copilotId": "63d83a4e38cf710097af6168",
+  "brand": "glamour"
+},
+{
+  "copilotId": "679eaa50bb15b1a2d427a440",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679c3ea4fd948edb06eda6ef",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "60c75d33b3898c083e89953f",
+  "brand": "architectural-digest-france"
+},
+{
+  "copilotId": "667c7f5991c13f81231fb85d",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6425a818c8bf4cfa9269dfa2",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "679946f78a0c1983a3cd8e29",
+  "brand": "gq"
+},
+{
+  "copilotId": "678e4edc5d9a75a7f33cee61",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "62eb83639443a91548da5889",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "62b449b7c3e54683dd9cfdbd",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "5a2028ec28ed476e39429d7b",
+  "brand": "glamour"
+},
+{
+  "copilotId": "679b8784193dc6f3b94b0d21",
+  "brand": "wired-en-espanol"
+},
+{
+  "copilotId": "679af22156511a09b4a3a976",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "6797e2dd28d314cb486ad4f5",
+  "brand": "gq"
+},
+{
+  "copilotId": "679b8babb65321f31d02a836",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "679b4fcc1f641e61aa2268c1",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "679d4d85b9d0657cb63e6b76",
+  "brand": "epicurious"
+},
+{
+  "copilotId": "611bec18abe0ca68331f94e5",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "61fb0ce6f6b806549a63885d",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "679f951ffa1769843ca5a22f",
+  "brand": "vogue"
+},
+{
+  "copilotId": "679ce66032d3e146a5ae3608",
+  "brand": "pitchfork"
+},
+{
+  "copilotId": "613892b72bec5fcec32c1165",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "679f85dcbb16c79fc78261f0",
+  "brand": "vogue"
+},
+{
+  "copilotId": "67a01f1060a93c215309fee6",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "679a57707a1c5a1705c1fe67",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "61fb0ce6256f262d4b54c98d",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "62bda39273c086255ae00acf",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "67a013439e8f7b63df2f1438",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "55e79890cd709ad62e903387",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "5d2be31a886b6e00089864a2",
+  "brand": "glamour"
+},
+{
+  "copilotId": "65c06d5796738dc4158b17c9",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "6787bc468fadbfa6d11d8afc",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "5f802386e71fda43834cae13",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "679a68aa133e750b8243609a",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "67a054eb1c2c06103aa4e0cf",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "679bc8b021eafff93b500089",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "6193d76a7036f65827e0cc1f",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "643ffc4aa8478149acdb8ad8",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a088cc28b4aa922695c3a7",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "67a0627f00f87e4352fd4a43",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6020fc67cf7faabf0129ffa3",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "602a73d12c8a63e895f4082e",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "679d0a2d6f0aef5f20ddc434",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "679c3589938350f80754e3f3",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c36540f546b173e6ba1d8",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c3375c63473afd8fc7c59",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c448d0f546b173e6ba1da",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679ab3ef81aa90b30d6df87a",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "679c3eb921600d26cce9464b",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "67a093c19a7794baef474b2c",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "679e1bef6eeb822c50ceffee",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67928efaea2828ea3024cdcc",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "60943a3c94d91bbf997a303b",
+  "brand": "glamour"
+},
+{
+  "copilotId": "603e0f6a6ea5d542cb3f0e2f",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67a0befbd23c516b6ec14bc8",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "679b867e5b543b626c13822f",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a0c149087239b43c2bbf7a",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "657980507d9e7f4a1f654397",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "5e6f54c01ff6dc0008f3d6e0",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "679c38e9a29f5157b5a3084c",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c3782c63473afd8fc7c5a",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c36f921600d26cce94649",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c3e2c9d5d6781b4ce4aa2",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679b3dfa1dd286996c38d543",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "678538e6e000cb01d7943a35",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "679c3c31c63473afd8fc7c5c",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c466a83305c33af7a87c2",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679c3d889d5d6781b4ce4aa1",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "6744b4ef25fac3d0b069a563",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "611be7bfa106ea5ed3099f82",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "679c3ba3c63473afd8fc7c5b",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c3a0c938350f80754e3f5",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c44089d5d6781b4ce4aa4",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c3f44a29f5157b5a3084d",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c3fe2c63473afd8fc7c5d",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "61fb1758bcb29d6c3d51c49e",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "5e8326dbcc49500008e69207",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "65393b0255b72fa593726d0c",
+  "brand": "glamour"
+},
+{
+  "copilotId": "679bcfe2f99173e3c3f61fe2",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "65b7b6c6b18e8e400939c702",
+  "brand": "vogue"
+},
+{
+  "copilotId": "679b61eaa57837c06e13a3dd",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "63f6730796633521865a2694",
+  "brand": "gq"
+},
+{
+  "copilotId": "6453dda4956bd7a79f28a173",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6138a15930654311017f70fb",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "65b8eed70443a75adbd39b25",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67a1b0deb7abce5d66508166",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "611bede8042ccafe9a9ae33a",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "679b4a057b51c20438a82067",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "61ee76c91fdda18934e9446c",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "67a190facee22b79101b66d3",
+  "brand": "gq-taiwan"
+},
+{
+  "copilotId": "67a1cfb8d8210a549ff23a58",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "679c3b187b91d5457f13479a",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679c42499d5d6781b4ce4aa3",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "679917c507d1bd601572ba3f",
+  "brand": "architectural-digest-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "67a240723722cb48090fd429",
+  "brand": "vogue"
+},
+{
+  "copilotId": "622b1defc818337971b23860",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "6791ffdc0ced2ba0c8834eea",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "64356eea8b0ea1b3a0bfd33e",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679c973004ffab6f9eaede21",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "63bd2d9fbf19850cbc3e0b69",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6787d9705dba6f7a7dd6bf0b",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "679c6fd3a8373b517c85483a",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679c9a1bf01c20196d040fd9",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "629f099a6b8ed97de4d2d6bb",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "6200f693502f52d083106723",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679a086f0498072225666a7c",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "5d1394d83bedf2fa74db6655",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "679c9286068821d70419e3fd",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "6796ab99b14689d895a99680",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "67935c42b5ecb1bff3c6bdf0",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6787e15194d96e7f4c72fdd4",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67a3211d8a3f70e78acc3981",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a1e043f1b0750905328d52",
+  "brand": "gq-taiwan"
+},
+{
+  "copilotId": "65fc4c458482d1bb5337271f",
+  "brand": "vogue"
+},
+{
+  "copilotId": "61ae439e60aaca16040972f0",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "679a4ca2a944607be37796fe",
+  "brand": "wired"
+},
+{
+  "copilotId": "63288c92f49be878755b85f1",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a1faa9becc1bba58167bdd",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679ab5ad50463698bdbe4172",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "6799f3378458d46a264632ae",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "64de3c1398164a842988e22c",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "65e9e685d7652c6593540e0e",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "63723d4f198b22e340ce58ad",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "67a35e948a96aba76e693824",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "61893776f4c358180440a7bd",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "623984619042007b7dcc59be",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "6189451f51c95671034bb995",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6787bb7339f3e87022f9c234",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "67979f8485aaf90ae46fc713",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "54de55346450ad091fd99d3c",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "614dd9041d29f507cd989f17",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "63ca681b45a761578c62a9f4",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679e16bbacdcba9f03cc8dd6",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6790d33dbdac3ad72e9e14ec",
+  "brand": "architectural-digest-india"
+},
+{
+  "copilotId": "61376178f130191a954c6e23",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "6793c3bb11af8df78c2ce041",
+  "brand": "architectural-digest-france"
+},
+{
+  "copilotId": "679a4337c68dee219ae87048",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6799c50b9afaaeb34b64fb10",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679a52f9576941de9d23b684",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "6364e3779c00cf817f32d374",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "63ca7ef363cc857b1dc9ac97",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "65a1725924b594937010a7b9",
+  "brand": "allure"
+},
+{
+  "copilotId": "679a6031b55f48dbee51a5d8",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "6796ddbc8db0811c3320c13b",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "5fe7279abf1e93b4bc13c06f",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "6295bc7cd96afe3fad6579bb",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "64d253554830c4518d428dc6",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "617c107e6c6dfffb186abe5a",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "679375baaed7593043024437",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67a4445f7babe24c7a0f18c5",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "677d51e1880e6777eff263e6",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "6799f222101997d554038619",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "679a430a54d32494b8753abc",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "679124ca9c60965dfa7aa409",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "679754f2fe3273fb95750e64",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "56b8dd176e3fe7686ad8cffd",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "6141e21802938e52354ba3a1",
+  "brand": "tatler"
+},
+{
+  "copilotId": "67a5d889ebf9c0bab155f254",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "61388ffee2e190b1f7b25f0b",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67989a22f8696378e4b06272",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "611be8aa6ab96bf3ecf1ed26",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "67766c483210bf6ce210cc0a",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "651ab151bcef2120b98a239a",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6137812d3decec3303bad350",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "675c32732e3cb8babd4c3e17",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "679bb24c72d21595e8a5c734",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "611be9cb042ccafe9a9ade98",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "67972ef79e62f49bdb9e3a2f",
+  "brand": "gq-middle-east"
+},
+{
+  "copilotId": "60756e9901c7a446252d4c27",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "679a030702c26f70cd6326ed",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "679a2ba2f26d20c05f1f3ea4",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "61f6707396523c62ea4d30d8",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "6207b94bfa3b1a217eb0e97e",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "63d90ce12504bcb07394614c",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6796db89e03d44365df3f54f",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679a0d7bef1f986568a2eaa1",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "5e79d080a36302000869f3c6",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "678a86539b48033f71f7e9d4",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6799c1fcc9b0d2a7c840a980",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679a60681a0c24f34b998e00",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "6788df1877cda899252debab",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "679b674bab0d6ea21c90e832",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "679901e93ebea9a96e6f1b21",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "679cbf488949f890f7712f09",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "67853f64a90b2065c19d4456",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "679b9024f201c6edae4a7f4c",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "67999bc77850e98f74a4ae10",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679998349afaaeb34b64fb03",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679cbc59834c198122d8b4c6",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "679bacf0c7aa49be20e60986",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "634d760d2b699f5381fa523d",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "6799eca4ef1f986568a2ea9e",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "61262da3f2b5dd45772ebc1a",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "61530830d7f4080afe1df784",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "63891766cb8b11e2fa049253",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "6756e887d62d2dbc75e05ec3",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "679c8ea33d91d34e6c194a59",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "67980e220e3de7924e369526",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679cb76da383e16f48f8ea94",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "611bebe73e186825295c29d0",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "679c3cb921600d26cce9464a",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "634827eafc8f71c28f2520fc",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "64c232a9d8c083bf85029876",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "6797c2d4918eb62c3d8a3ba4",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "5e70f45b5dc3b10008890708",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "679cb878fb9367c7c70d5831",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "679ce666aa6fb3688a933b1b",
+  "brand": "tatler"
+},
+{
+  "copilotId": "6798bef54c58673d72079a9b",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "5db9c51560e1f6000849ec49",
+  "brand": "glamour"
+},
+{
+  "copilotId": "6763fd293870dbce569d1f9d",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "6477c75414e3921f4e7c80bb",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679a476bb718e134a2970fa3",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "6138a1ee5341d7d4e342ba13",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6189383d62b737ababca0dd6",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67a350e7a12990397069ea75",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "679d38bf44e08a5dc54d3682",
+  "brand": "architectural-digest-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "67a5b3464227587db24a6d95",
+  "brand": "vogue-india"
+},
+{
+  "copilotId": "6764708612caa2663b8f2660",
+  "brand": "architectural-digest-espana"
+},
+{
+  "copilotId": "5aeb210a4eef286ed17e4266",
+  "brand": "wired"
+},
+{
+  "copilotId": "63cae99ffc525019264e16a2",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67868bda0bd611779a895b73",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "5d547b06e598280008780221",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "621cb4ba5fd959d63d427ac8",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "67a6295aa2c8f5e6ef3ad9bc",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "5d547f4f2443fe00081588bf",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "6508555a011e495ded098097",
+  "brand": "wired"
+},
+{
+  "copilotId": "641b807a5eaa19f7b2292a7f",
+  "brand": "glamour"
+},
+{
+  "copilotId": "67a6549249aeee1b965dfe1c",
+  "brand": "gq-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "65bbbc411f803cb71e977d38",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67a66d23317992c92a872c88",
+  "brand": "vogue"
+},
+{
+  "copilotId": "6790ac876712368560463b07",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679c726bae1c05ef53fd6bf8",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a4a28019afad8712277d9e",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679c96312a179f84c947976e",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "5ec58eed5bea2fa8333c4edd",
+  "brand": "wired"
+},
+{
+  "copilotId": "61388c0e70a13dae5bde9f21",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "667be44dc964cc4f0f0176b0",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "679376dfea2bd61315ee4a24",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "62a37ca748d54f8622c13f78",
+  "brand": "allure"
+},
+{
+  "copilotId": "679a523765726d8619d74fb4",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67a7957528bd6c8f47893e74",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "679d200005fe904d04f1a332",
+  "brand": "gq-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "62acae77497f6b4abc579655",
+  "brand": "gq"
+},
+{
+  "copilotId": "679de12ea064cd4ad5c18e36",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "67a5a678a2b48285063c4677",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "62a6c6ecfedcd7f8c4c16290",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "611be8748c1b7286f1c113ec",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "61dee5ecaf964ed49b0463ff",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "6741d3169a226b7b713005c2",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "62d95ee22dc4bd9c582de952",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "63db9bd74ad8dc0246ed0028",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "679c5c793de75bea3b615f1d",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a92ab874cb1ebee778e585",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679c601f3c8d2ae6f9eb29c9",
+  "brand": "wired-japan"
+},
+{
+  "copilotId": "613761cdea50dbd37eadec97",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "679d5aaa37c7ba9f29f4a109",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "679cb3de495cee8200e49e8e",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "678130d246611e2b33fa2076",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "679443713616100707cdcc49",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "679b9de95ab81583eb903db4",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "607895413c4558580f4abffa",
+  "brand": "wired"
+},
+{
+  "copilotId": "611be7d6042ccafe9a9ad8bc",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "6797875445b8b310350fb1c4",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "61377a02d7c7024f9175f799",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "624eed0cf5862ede28c6438c",
+  "brand": "tatler"
+},
+{
+  "copilotId": "67a9cb61410ed927661d389b",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "6138966d1145ea59e77e6615",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a9afd6f81620d8093f85b9",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67a5e2490f1046e88f1ceb0a",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "67a9cd04fe00b8313ee52c0f",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "67a230a7071e6c061111f088",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "67a9b92ab13a51d0d562cbba",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "67a222a53445aa6937090bf1",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "67a9b86baece4e2035ead5e9",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6290c58f2f95d145359eabf8",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a9bb802af9eb4200db9d2a",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "679c6b4e5c352a0e7d840ffd",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67981aba8418f3b850427b4a",
+  "brand": "wired"
+},
+{
+  "copilotId": "611be76ea106ea5ed3099e3f",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "67934409e38fb426c4a53db1",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "67a4cc221f532c4526f028ff",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "5d138fc0b6fee904a6c9e239",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "60c74315ea3dbb18d63bdaca",
+  "brand": "architectural-digest-espana"
+},
+{
+  "copilotId": "65ae55e16af46f1e9ef04a59",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67aa272acbb94447b3664774",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "6798c35b251fbeb61e4c070d",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "679ec99ab2a06a7df3250a27",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "651a739aafbc443510061e13",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67a091971fe321e1ac28e631",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "66e2f673fbefd7b53237c57d",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "678fc8aa626e1038e5caa2c3",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "616f7d57d94dedf63452d985",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67a61d657324abf6d81b69c7",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67ab2b396fe46af39642de15",
+  "brand": "bon-appetit"
+},
+{
+  "copilotId": "67a08d4d20a02b7d14b175f2",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "67a06e231ef23f0a75cc4a28",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "5edf7779ac737c8f46ebc4a3",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "6011417b93f134a59b85081d",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "67ab65525980db7083684917",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "679d51f73055a2c6a388a7e2",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "5d13a0039fa60103c1839123",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67ab6ad55980db708368491f",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "679c93516d1832e49d9170c3",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "61388c872b5bbea0082917c8",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "679ed3f3c4c858fc8cd77768",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a02645a5b4ce39bfcb6ecf",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "67935fc10f638e2962a3692f",
+  "brand": "gq-taiwan"
+},
+{
+  "copilotId": "57717caa8d432b9e20f8cd55",
+  "brand": "allure"
+},
+{
+  "copilotId": "63dcc2738595b13facd6dea3",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "6655cdd2513033315f768338",
+  "brand": "conde-nast-traveller-germany"
+},
+{
+  "copilotId": "61f7b237ba3a918a9e319e38",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "67a095cd65d3f5e38b1acf32",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "679ff22192d275d6646aa31f",
+  "brand": "gq-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "67a09b9a32d7cb5e0b70897c",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a04f7d20a02b7d14b17548",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "678e839b11597f057b892816",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "679d3c53287bce76425680ba",
+  "brand": "glamour-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "679c3b962ab5d7b3b4f37ea7",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "679ffe1fa0cf0fa3b3c1f0d3",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "678e597e4e5183e220739c12",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "67a06ceb28b4aa922695c3a6",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "67a05b240848a16f9fb6425b",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a064b81d1e647f3fff876f",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "5d138f219fa6011e5d837f5b",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "679ff8c3609d3ef754a8720f",
+  "brand": "vogue"
+},
+{
+  "copilotId": "67a097641508ad4de0677d26",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "61894d947ec4df9dbbfec84d",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "679c92c6fe04127bfdf0148b",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "6767ddd340d071a735d08f55",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679cc68ac6c064de9528d26a",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67ad53a4c8150fbc3b3b7134",
+  "brand": "wired-japan"
+},
+{
+  "copilotId": "67a061dd3617efc93e428f4f",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "5ed79f8a6a9a0b00086453a4",
+  "brand": "allure"
+},
+{
+  "copilotId": "622bb0bdc058caaa16716bbb",
+  "brand": "self"
+},
+{
+  "copilotId": "67a05f5301a4b60c2380ed5a",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "616f74925aadbca7aab7b8ab",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "6799fc5a780f5f7cb64bf376",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "67a08dfa8bd105d19420ded8",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67a0ab5313255371fcd3096c",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67ade37a851571d795f928f5",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "67adbf47740d535143808d2b",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67ac8d60664f8ea328f81f29",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "6797a971212e2752f9d3fa34",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67a09dd8f96c2a20993527aa",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679dd5f50f2e5ee272becf2e",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "57ec56915ded9f3d758c06ef",
+  "brand": "allure"
+},
+{
+  "copilotId": "6137612d030de94d067fc22f",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "64103af85cb733b41c8dd76b",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "616f6ff91c489cc5b47fac53",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "61f2c65df0bb30ee5d50e65b",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "5d139ca6b3005e1bf17c52c2",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67ac8688be1f8e5d016b6288",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "5cee830c456a1f1d1c36ae17",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "67ad97c27082fa28b8df749a",
+  "brand": "glamour"
+},
+{
+  "copilotId": "61e7eb6e2729ce78c8430353",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "678ab383b269af0de45f185b",
+  "brand": "wired"
+},
+{
+  "copilotId": "5d7922029d23140008b92b42",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67adf4a294ef5f712c8798a1",
+  "brand": "vogue-germany"
+},
+{
+  "copilotId": "60d37067054484c84ef3fef0",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "6603d883a1d063ca28851cbc",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679c9aef89731473eeec5817",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "6075a1303b14ce9d953f9788",
+  "brand": "wired"
+},
+{
+  "copilotId": "665f24b4e481e8194db8634c",
+  "brand": "wired"
+},
+{
+  "copilotId": "5e7a485bb8a84a0009a47372",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "67a0c18be4cbb88a390990e1",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "5a96c413c6516a534a5307e2",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "63889033dfad58835d70a14a",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "67ae989b3492496f608906e2",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "611bf426ae2ff768cb2535e6",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "67a0e259c385e4c4526821ed",
+  "brand": "architectural-digest-france"
+},
+{
+  "copilotId": "67936dddd0ec8d4343bd2851",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "67ac9b0f3e745ce0e6534bfd",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67aece50a734be44d1a1958f",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "63482fe435e4b486f35b5193",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "67ae178e9c0bb6a19aeb2838",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "64cacf18f8e132617e767954",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67a0fc06ceac6dec68894a3e",
+  "brand": "vogue-india"
+},
+{
+  "copilotId": "67aef90055c698dcaa1a58b0",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67adaad2b2194019492b412a",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "598399b479b7e962c32c43de",
+  "brand": "allure"
+},
+{
+  "copilotId": "61389c6f5ebdbf876576b3e7",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6476eb0d47d1d87e2cab3409",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "622b1162eb46c38200386c58",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "6537c74234bc7534c18cad09",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a10319092c27158cc3fa1f",
+  "brand": "wired-en-espanol"
+},
+{
+  "copilotId": "67a19d0b33e803a5e3271475",
+  "brand": "gq-india"
+},
+{
+  "copilotId": "678694171e8c3fcd57c60098",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67af4734fd627357dd94f5ec",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "67ae3602dd9823151f9b67d8",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "679afb13a09bf5ecbeaa42d5",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "63dd1eedc5f54218e0cd2533",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "6222101539a64d60fcb2f96b",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "5a257e09dd2c1d7f1b5b5e3f",
+  "brand": "gq"
+},
+{
+  "copilotId": "63d7987f1cf604a2977703d0",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a1d7e8c048a2803879ade9",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "6797dd29317fc04ea641283d",
+  "brand": "architectural-digest-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "63492521930114075ca40fac",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "67af1e45758e4c2922fc2c98",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "5b9ff8b99840ff2d9b5063d4",
+  "brand": "wired"
+},
+{
+  "copilotId": "679b517358e7711bb6d31b0b",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "67a0966ad08f140cbfeaa341",
+  "brand": "gq-india"
+},
+{
+  "copilotId": "64e35425fa3b399487152381",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "67b0c8d5e99fa0d9753742b7",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "656dc67a565edfa58c417887",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "679dcf078d814d9773c0ecb2",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "65776731115a4e9fcb097565",
+  "brand": "wired"
+},
+{
+  "copilotId": "6799c9fcdae50df330673d38",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "6289e62e7711eb6c093c42b4",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "639c641996f5c9dbf9231951",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67995c705d8a4b315c00c2ed",
+  "brand": "wired"
+},
+{
+  "copilotId": "5c348aa39cdc47258d2b0643",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "67aefe5b4350167a2062cca7",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "616f698e303e546fa78ff47a",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "616f6989d94dedf63452c5d7",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "616f730b60f20fed760a28be",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67a1ea874bf80fedb991a7cf",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67b1cb8e60f24da453cefab6",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a21e0db6dbbc9698e9069e",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "64b80d4d6ed4423e6d230041",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "6138ab3330654311017f7694",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a0ce2de4cbb88a390990ea",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "67a217b694fd35235f581b32",
+  "brand": "gq"
+},
+{
+  "copilotId": "5d13ac33c265539416a379ee",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67b23da27955fdc00df6983a",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "674e7fe47158dca14f58324a",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "5f3bc1dd503430459301bc94",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "621a234ff64ffd51f74173b0",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "618938d8d9ae96d083cd0918",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67a0c9517ea96d63b412821b",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "679a038ae6ed536635dc98a9",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "618944779fad5833bd174274",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67a0ad20fd15556ad2bd6c3c",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "67adbd6fc715817d98d40d18",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "642d218eb8e4a7e198eafbca",
+  "brand": "architectural-digest-espana"
+},
+{
+  "copilotId": "658451560dc01ef2143c480f",
+  "brand": "gq-italia"
+},
+{
+  "copilotId": "622b2e8db2893eddc53f15f4",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "618940dff6eb732bf13e45b4",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67929dd32401c03f1aca4aa8",
+  "brand": "gq"
+},
+{
+  "copilotId": "67ad041386160257dbd9c3c3",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "6138ab462b5bbea008292c49",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a09bfb7e307094f8af5fa2",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67b33ad2cbc3cb136042f847",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "625ec2894929b444a42d7bab",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "611bea44ae2ff768cb252c7a",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "64f9756b1b95e691bb1dddc3",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67b3601fb59193d40506a04a",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "5d139e0cd7a7017817bbae26",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67b35c9bf43b4bf0fe5a67ae",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "67350e478236e9f01de4b20e",
+  "brand": "wired"
+},
+{
+  "copilotId": "67a1d68b4bf80fedb991a7cc",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a22d44cc898d26359f58c1",
+  "brand": "wired"
+},
+{
+  "copilotId": "67b3f4cd9bf714727fd48c3b",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "679e222203665903ceaeb0ac",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "6138927c3bf019dd156873b2",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "640071e96e5fcf30cd06453e",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "67a49c437ef5a0ab80f9288e",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67aa35faf0061358d049e17d",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "63fb6b4f02125fecdd7f1c81",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "606e0b5352b3243981ebad64",
+  "brand": "allure"
+},
+{
+  "copilotId": "663bee0e4b76e1047117286f",
+  "brand": "allure"
+},
+{
+  "copilotId": "6203970bfcb60dc72e4b2f39",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67aa355fdce667acaebc7916",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "67b4669460d6af1e0ba3c8f9",
+  "brand": "bon-appetit"
+},
+{
+  "copilotId": "67a0c1642ff837bd1e41ded7",
+  "brand": "vanity-fair-france"
+},
+{
+  "copilotId": "67a23252e4ad8ea4136f40bc",
+  "brand": "pitchfork"
+},
+{
+  "copilotId": "618942927a5ec7dd3a8b372d",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "65f6da95fa6193402b6e0be9",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67b4c693917b72f7ceacfeb8",
+  "brand": "tatler"
+},
+{
+  "copilotId": "657afe8fd07d552d08959d63",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a2ecd98a3f70e78acc397f",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a1b5734301797fbefd472b",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "67b400b7f44d8aa67aac512e",
+  "brand": "conde-nast-traveler-india"
+},
+{
+  "copilotId": "610303d54f8dc6fac6ff2a5b",
+  "brand": "vogue"
+},
+{
+  "copilotId": "679fff78a5b4ce39bfcb6e66",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "679dd83ce4044400382e9616",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a0dee9c6f573e99e27a7e3",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "63ef3b1d528e11c2089a6b9e",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67a2cf075eb9aa0891acb7b0",
+  "brand": "wired-japan"
+},
+{
+  "copilotId": "67a2cfc25ce9e96e06af2f68",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67b2ab4cbbc034715be47f09",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "63fdfd7e249266e530bd7074",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a33f092feca3daf6ba0c60",
+  "brand": "epicurious"
+},
+{
+  "copilotId": "646c603228fb36ae38730d79",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67b5b7aeafe37bee8b538444",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a3d392de9dd36d77173410",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "67b460f445eb6a2ba732ac48",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "6384927dc3af4cd95ed2d5ef",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67b3766632675d2eee521a24",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67a0a85ad5e03319660ccd27",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "61377bb93decec3303bacc61",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "62826591b16db596b28c220b",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "6470a53b0074668b178366b2",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "67b497eeaad167c23b004da9",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "67ab86558aea8761fc736592",
+  "brand": "architectural-digest-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "61fafa6567a08706394da5a7",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "67b5d09cb2b35a95451eb071",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "6189448da4c7bfe01adff458",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "679f9637b0c3115e2a14f427",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67b4b5d52ca948d23ab9da1c",
+  "brand": "glamour"
+},
+{
+  "copilotId": "6189404f7c63ccf003960f3b",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67a0a2eebe8b40573c52e191",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "6790e5193d0abc1fa82b44e0",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a136526d8aec951aad7fa2",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67a2e751f52f2de6c51cf85c",
+  "brand": "gq-taiwan"
+},
+{
+  "copilotId": "611bee5af6bd8f17556db3cc",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "61893addfd526e0f5307f45a",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67ab5cba5934643a1e0a2906",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "66c62696110616704604f1ac",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "660fa332678b7c71af0f0dcd",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67adfb6ca15f41cc714a904e",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "67a2a0d046a41139fa8baa1d",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67444751404a6d32d14bb714",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67ab86cc8aea8761fc736599",
+  "brand": "architectural-digest-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "64ccb5f152eeed311960a686",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "62cd71771040c14a5ebb5c74",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "6075784c622fe80b9cbb195b",
+  "brand": "gq-france"
+},
+{
+  "copilotId": "646ea007fbf6040bdedd7ed0",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "67b46c4d2524c117229aa2fc",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "67a1cb8bc64299c3b0133cf5",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "6782a64655271c7f4a47a900",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "67b681d445c697ee75ba2b17",
+  "brand": "vogue-mexico-y-latinoamerica"
+},
+{
+  "copilotId": "64df39a65c95a13af88a16e6",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "67b73f695d797d5fda92a460",
+  "brand": "architectural-digest-india"
+},
+{
+  "copilotId": "6185063afe3bd32419af581f",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "67b653250c5abdfb71001cfd",
+  "brand": "allure"
+},
+{
+  "copilotId": "67935c11490272c18caaf1bc",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "621221ba5cb4c1bd09333b9d",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "678fbc73de812d422aa4e273",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "6304d786f9ce11e5f77b5252",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "6358e151a91410a60461641a",
+  "brand": "glamour-germany"
+},
+{
+  "copilotId": "67a3425ff5028242c0822343",
+  "brand": "bon-appetit"
+},
+{
+  "copilotId": "613761156936668f30c3e0bc",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "67922c5bcc9988ee32a112f4",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "67a34351b08ac3e27882f280",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "63e5e2a9dbb08f3c15cbae69",
+  "brand": "vogue-india"
+},
+{
+  "copilotId": "58bf14d8e8feb4227787a7fc",
+  "brand": "architectural-digest"
+},
+{
+  "copilotId": "67a25fb01c16a0891804b4ea",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "67a36916efbb7ca9ccc5cd07",
+  "brand": "vogue-paris"
+},
+{
+  "copilotId": "5d13ae6b3b3853feb60e9cec",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67b62874b717b9d88e2cc626",
+  "brand": "vanity-fair"
+},
+{
+  "copilotId": "67a35d8d262b488385d64898",
+  "brand": "vogue-italia"
+},
+{
+  "copilotId": "655dd678d9be39dd741b3b70",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "67b7c1d7e4fcc5c6c474443e",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67b6a01cafe37bee8b538450",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67b74912616aed1eda35249f",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "611bea543e186825295c27d2",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "5e95aca4525b920008162c8f",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "611bf204aac234341a8949c9",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "67b74ed698a786996e93a449",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67b6354f1d0dc4df41a4b94e",
+  "brand": "vogue-india"
+},
+{
+  "copilotId": "64148a27e37d8809760d036f",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "6373afc239bef50601cc311a",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "6189410daa6a21034f137040",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "677e37e6d797b37a2970f0fb",
+  "brand": "conde-nast-traveller-germany"
+},
+{
+  "copilotId": "6401aff3f3303e43972cb38f",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67a38cc40554191ed153210f",
+  "brand": "tatler"
+},
+{
+  "copilotId": "576c42404a3399cb31f9da5c",
+  "brand": "conde-nast-traveler"
+},
+{
+  "copilotId": "67a2e84db4654236692376b2",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "5e2afb8e48c04300088e6ad3",
+  "brand": "glamour"
+},
+{
+  "copilotId": "67a3b6951ae37152835acca3",
+  "brand": "vogue"
+},
+{
+  "copilotId": "62277283965d1c9a613358ed",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "67a355ace2126bee87f86ed1",
+  "brand": "vogue-taiwan"
+},
+{
+  "copilotId": "67a07f10811707ede1f78229",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a473b76fe1f16982cecda3",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "67a3dfb0022474eb1dab0c31",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "67a3531eb4654236692376c9",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a38cb78e41d376ca5640e4",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "67929ce95233220128800ffa",
+  "brand": "gq"
+},
+{
+  "copilotId": "61388bcc6c53c747be7bc11e",
+  "brand": "glamour-uk"
+},
+{
+  "copilotId": "67a38fd65fa2aa651a4a48da",
+  "brand": "vogue"
+},
+{
+  "copilotId": "63bf14733ea39d485e757921",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "611beb9069410e829d87e32d",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "67a3adc27c982746ad770b25",
+  "brand": "vogue"
+},
+{
+  "copilotId": "6436c0d4c97251b0090bb7a4",
+  "brand": "conde-nast-traveler-uk"
+},
+{
+  "copilotId": "5ece8c5c021450fbe673d912",
+  "brand": "gq-uk"
+},
+{
+  "copilotId": "6204f5eefa3b1a217eb0e751",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "679d203a42d9dede15f552aa",
+  "brand": "wired"
+},
+{
+  "copilotId": "678e5785b9e2859010d0e7e2",
+  "brand": "conde-nast-traveler-espana"
+},
+{
+  "copilotId": "67a0b3c695bb36b8882363a1",
+  "brand": "house-and-garden"
+},
+{
+  "copilotId": "67a4bf38b202932c999bb556",
+  "brand": "vogue-uk"
+},
+{
+  "copilotId": "640b565ec4d66cc242470b9f",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "63d38e1d8c138073fd69d690",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67a322fdb4654236692376c1",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "637b5c56fa98195cc35abdf5",
+  "brand": "gq-germany"
+},
+{
+  "copilotId": "63dcde9a6e1bf5177e59e292",
+  "brand": "vanity-fair-espana"
+},
+{
+  "copilotId": "67a46b609dada0039bfe0996",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67a47226cb338c087038b7d4",
+  "brand": "glamour-espana"
+},
+{
+  "copilotId": "67a4b278dc38417d3416f96e",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "63c90268d6173214718d1e8b",
+  "brand": "gq-espana"
+},
+{
+  "copilotId": "67a4974ea56a708170d263bd",
+  "brand": "gq-japan"
+},
+{
+  "copilotId": "67a42360cb132099e6e109fd",
+  "brand": "allure"
+},
+{
+  "copilotId": "65ce09775593a11affde852a",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "5fa18da15af72fbef34c4085",
+  "brand": "glamour"
+},
+{
+  "copilotId": "679a85422ff030de2054fa1e",
+  "brand": "wired"
+},
+{
+  "copilotId": "64ecad8dad18357a56903970",
+  "brand": "glamour"
+},
+{
+  "copilotId": "6628dbfcf4e5e8de7051afcf",
+  "brand": "vogue-espana"
+},
+{
+  "copilotId": "648028de052d68f7e64256df",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "674f285082ee9d0e19097ac2",
+  "brand": "wired"
+},
+{
+  "copilotId": "67a3972eaa533d271e134e35",
+  "brand": "wired-italia"
+},
+{
+  "copilotId": "63ea2172738dad0e03548449",
+  "brand": "la-cucina-italiana-italy"
+},
+{
+  "copilotId": "67a482ba17db31a8b6ba834d",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "67a3869912c0484fe3495a37",
+  "brand": "vanity-fair-italia"
+},
+{
+  "copilotId": "66b3bc2dcddf6b2f9d833413",
+  "brand": "wired"
+},
+{
+  "copilotId": "67a189276159e581a2cf2bf3",
+  "brand": "vogue-japan"
+},
+{
+  "copilotId": "679e49e2e3561ddd04640b29",
+  "brand": "architectural-digest-espana"
+},
+{
+  "copilotId": "646764f8a6025497ad889eeb",
+  "brand": "glamour-uk"
+}]

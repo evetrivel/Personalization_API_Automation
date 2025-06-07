@@ -1,0 +1,2666 @@
+[
+  {
+    "TestCase_ID": "ID_01",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_02",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_03",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-article-bottom-recirc-multitype",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_04",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-nativearticle-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_05",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-gallery-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_06",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-gallery-bottom-recirc-multitype",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_07",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-recipe-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_08",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_09",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-directory-apply-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_10",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-directory-apply-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_11",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-directory-apply-nativearticle-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_12",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-directory-apply-gallery-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_13",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-directory-apply-recipe-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_14",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-directory-apply-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_15",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-pro-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_16",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-pro-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_18",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-pro-recipe-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_19",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-clever-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_20",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_21",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-directory-apply-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_22",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-pro-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_23",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-clever-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_24",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-france-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_25",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-france-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_26",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-france-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_27",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "cne-interlude-architecturaldigest",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_28",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "cne-interlude-architecturaldigest-in",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_29",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "cne-interlude-architectural-digest-france",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_30",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_31",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-directory-apply-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_32",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-clever-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_33",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_34",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-france-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_35",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-riser",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_36",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "architectural-digest-ad-directory-apply-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_37",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-de-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_38",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-de-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_39",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-de-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_40",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-in-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_41",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-in-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_42",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-in-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_43",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-in-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_44",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-it-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_45",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-it-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_46",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-it-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_47",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-it-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_48",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-ru-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_49",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-ru-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_50",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-ru-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_51",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-ru-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_52",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "cne-interlude-ad-es",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_53",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "cne-interlude-ad-it",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_54",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "cne-interlude-ad-de",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_55",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "cne-interlude-ad-ru",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_56",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "cne-interlude-ad-mx",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_57",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "cne-interlude-ad-me",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_58",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-in-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_59",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-it-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_60",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-de-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_61",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-es-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_62",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-mx-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_63",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-ru-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_64",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-me-video-watch-page-playlist",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_65",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-es-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_66",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-es-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_67",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-es-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_68",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-es-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_69",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-mx-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_70",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-mx-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_71",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-mx-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_72",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-mx-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_73",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-de-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_74",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-me-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_75",
+    "Brand": "architectural-digest",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays": "-90",
+    "pagesize": 5,
+    "copilotId": "6579c3997952a3257c64e776",
+    "url": "https://www.architecturaldigest.com/story/everything-youve-ever-wondered-about-the-home-alone-house",
+    "applicationID": "ad-me-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  }
+]

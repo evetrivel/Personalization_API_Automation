@@ -1,0 +1,841 @@
+{"level":"debug","time":"2025-06-02T17:44:52.673+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T17:44:53.381+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T17:44:53.381+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWR91SEFC36CNMKTK4YN95Z6 \n"}
+{"level":"debug","time":"2025-06-02T17:44:56.271+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T17:44:56.276+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T17:44:56.277+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:44:56.277+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:44:56.280+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T17:44:57.050+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"error","time":"2025-06-02T17:44:57.702+0530","caller":"core/lifecycle.go:116","msg":"2025-06-02T17:44:51+05:30    error    \u001b[91mERR::YML::VAL\u001b[0m     Invalid yaml content: Cannot infer mac testDiscovery command, either provide global testDiscovery command or macCommand!!"}
+{"level":"debug","time":"2025-06-02T17:44:57.703+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T17:44:57.703+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"debug","time":"2025-06-02T17:44:57.703+0530","caller":"core/lifecycle.go:63","msg":"All lifecycle goroutines exited"}
+{"level":"debug","time":"2025-06-02T17:44:57.703+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error \u001b[91mERR::YML::VAL\u001b[0m     Invalid yaml content: Cannot infer mac testDiscovery command, either provide global testDiscovery command or macCommand!!"}
+{"level":"debug","time":"2025-06-02T17:44:57.703+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T17:45:19.300+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T17:45:20.187+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T17:45:20.188+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWR92KHF22HJ7ECZJM7TPJY9 \n"}
+{"level":"debug","time":"2025-06-02T17:45:22.712+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T17:45:22.718+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T17:45:22.719+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:45:22.720+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"error","time":"2025-06-02T17:45:22.722+0530","caller":"yamlconfigmanager/setup.go:168","msg":"2025-06-02T17:45:18+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 35: mapping values are not allowed in this context"}
+{"level":"error","time":"2025-06-02T17:45:22.722+0530","caller":"core/lifecycle.go:116","msg":"2025-06-02T17:45:18+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 35: mapping values are not allowed in this context"}
+{"level":"debug","time":"2025-06-02T17:45:22.722+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T17:45:22.722+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"debug","time":"2025-06-02T17:45:22.722+0530","caller":"core/lifecycle.go:63","msg":"All lifecycle goroutines exited"}
+{"level":"debug","time":"2025-06-02T17:45:22.722+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 35: mapping values are not allowed in this context"}
+{"level":"debug","time":"2025-06-02T17:45:22.722+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T17:45:51.729+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T17:45:52.406+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T17:45:52.407+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWR93K2Y8PH8AQB59ZW9Q8F5 \n"}
+{"level":"debug","time":"2025-06-02T17:45:54.493+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T17:45:54.500+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T17:45:54.500+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:45:54.500+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:45:54.503+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T17:45:55.344+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"error","time":"2025-06-02T17:45:55.996+0530","caller":"core/lifecycle.go:116","msg":"2025-06-02T17:45:50+05:30    error    \u001b[91mERR::YML::VAL\u001b[0m     Invalid yaml content: Hybrid mode cannot have static discovery, Please explicitly set testDiscovery mode as dynamic or remote!!"}
+{"level":"debug","time":"2025-06-02T17:45:55.996+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T17:45:55.996+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"debug","time":"2025-06-02T17:45:55.996+0530","caller":"core/lifecycle.go:63","msg":"All lifecycle goroutines exited"}
+{"level":"debug","time":"2025-06-02T17:45:55.996+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error \u001b[91mERR::YML::VAL\u001b[0m     Invalid yaml content: Hybrid mode cannot have static discovery, Please explicitly set testDiscovery mode as dynamic or remote!!"}
+{"level":"debug","time":"2025-06-02T17:45:55.996+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T17:46:49.444+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T17:46:50.200+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T17:46:50.200+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWR95BFDNXPNWKGBNXM8NV1J \n"}
+{"level":"debug","time":"2025-06-02T17:46:53.068+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T17:46:53.073+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T17:46:53.074+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:46:53.074+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:46:53.076+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T17:46:53.858+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"error","time":"2025-06-02T17:46:54.705+0530","caller":"core/lifecycle.go:116","msg":"2025-06-02T17:46:48+05:30    error    \u001b[91mERR::YML::VAL\u001b[0m     Invalid yaml content: Cannot infer mac testDiscovery command, either provide global testDiscovery command or macCommand!!"}
+{"level":"debug","time":"2025-06-02T17:46:54.705+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T17:46:54.705+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"debug","time":"2025-06-02T17:46:54.705+0530","caller":"core/lifecycle.go:63","msg":"All lifecycle goroutines exited"}
+{"level":"debug","time":"2025-06-02T17:46:54.705+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error \u001b[91mERR::YML::VAL\u001b[0m     Invalid yaml content: Cannot infer mac testDiscovery command, either provide global testDiscovery command or macCommand!!"}
+{"level":"debug","time":"2025-06-02T17:46:54.705+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T17:48:51.647+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T17:48:52.412+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T17:48:52.412+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWR992Z34Y4BPQP5MGM4CNV7 \n"}
+{"level":"debug","time":"2025-06-02T17:48:55.027+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T17:48:55.034+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T17:48:55.035+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:48:55.035+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:48:55.037+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T17:48:55.916+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"error","time":"2025-06-02T17:48:56.581+0530","caller":"core/lifecycle.go:116","msg":"2025-06-02T17:48:50+05:30    error    \u001b[91mERR::YML::VAL\u001b[0m     Invalid yaml content: Cannot infer mac testDiscovery command, either provide global testDiscovery command or macCommand!!"}
+{"level":"debug","time":"2025-06-02T17:48:56.581+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T17:48:56.582+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"debug","time":"2025-06-02T17:48:56.582+0530","caller":"core/lifecycle.go:63","msg":"All lifecycle goroutines exited"}
+{"level":"debug","time":"2025-06-02T17:48:56.582+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error \u001b[91mERR::YML::VAL\u001b[0m     Invalid yaml content: Cannot infer mac testDiscovery command, either provide global testDiscovery command or macCommand!!"}
+{"level":"debug","time":"2025-06-02T17:48:56.582+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T17:49:51.961+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T17:49:52.623+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T17:49:52.623+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWR9AXNPN2DF9351CKTC62VN \n"}
+{"level":"debug","time":"2025-06-02T17:49:55.444+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T17:49:55.450+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T17:49:55.451+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:49:55.451+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:49:55.453+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T17:49:56.416+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"warn","time":"2025-06-02T17:49:57.094+0530","caller":"yamlconfigmanager/setup.go:1184","msg":"Please ensure the value of testSuiteTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"warn","time":"2025-06-02T17:49:57.094+0530","caller":"yamlconfigmanager/setup.go:1193","msg":"Please ensure the value of globalTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"debug","time":"2025-06-02T17:49:57.094+0530","caller":"yamlconfigmanager/setup.go:541","msg":"Tunnel: %!t(<nil>)"}
+{"level":"info","time":"2025-06-02T17:49:57.094+0530","caller":"models/HypertestYamlConfig.go:874","msg":"\n\u001b[4m\u001b[1m\u001b[97mExecution Plan\u001b[0m\u001b[22m\u001b[24m"}
+{"level":"info","time":"2025-06-02T17:49:57.096+0530","caller":"models/HypertestYamlConfig.go:673","msg":"Mode:    \u001b[36mhybrid\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:49:57.096+0530","caller":"models/HypertestYamlConfig.go:727","msg":"Parallelism:    \u001b[36m Mac - 10  Default - 10\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:49:57.096+0530","caller":"models/HypertestYamlConfig.go:735","msg":"Runson:    \u001b[36m${matrix.os}\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:49:57.096+0530","caller":"models/HypertestYamlConfig.go:743","msg":"Concurrency:    \u001b[36m10\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:49:57.096+0530","caller":"models/HypertestYamlConfig.go:807","msg":"Report:    \u001b[36menabled\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:49:57.096+0530","caller":"models/HypertestYamlConfig.go:839","msg":"Cache Directories:"}
+{"level":"info","time":"2025-06-02T17:49:57.096+0530","caller":"models/HypertestYamlConfig.go:841","msg":"    \u001b[36mnode_modules\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:49:57.096+0530","caller":"models/HypertestYamlConfig.go:887","msg":""}
+{"level":"debug","time":"2025-06-02T17:49:57.096+0530","caller":"filevalidator/setup.go:49","msg":"Warning: Checking data.json file in current directory, no dataJsonPath found in .hyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T17:49:57.096+0530","caller":"filevalidator/setup.go:53","msg":"Warning: data.json file doesn't exist"}
+{"level":"debug","time":"2025-06-02T17:49:58.106+0530","caller":"core/lifecycle.go:517","msg":"Job ID: e3e45937-41e4-459a-b0e1-2c3817ac4e52"}
+{"level":"debug","time":"2025-06-02T17:49:58.106+0530","caller":"core/lifecycle.go:520","msg":"User - eniyan_vetrivel, triggered job with ID e3e45937-41e4-459a-b0e1-2c3817ac4e52 from CLI"}
+{"level":"debug","time":"2025-06-02T17:49:58.106+0530","caller":"events/manager.go:95","msg":"Starting event manager"}
+{"level":"debug","time":"2025-06-02T17:49:58.106+0530","caller":"events/manager.go:97","msg":"SSE enabled, getting SSE connection"}
+{"level":"debug","time":"2025-06-02T17:49:58.108+0530","caller":"archivemanager/setup.go:340","msg":"digestMap: map[]"}
+{"level":"debug","time":"2025-06-02T17:49:58.108+0530","caller":"archivemanager/setup.go:346","msg":"Creating archive of target directory: /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"debug","time":"2025-06-02T17:49:59.127+0530","caller":"events/manager.go:277","msg":"connection to hyperexecute server established successfully."}
+{"level":"debug","time":"2025-06-02T17:50:35.477+0530","caller":"core/lifecycle.go:660","msg":"Zip file size: 20.05 MB"}
+{"level":"debug","time":"2025-06-02T17:50:35.477+0530","caller":"core/lifecycle.go:670","msg":"Archive location: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-e3e45937-41e4-459a-b0e1-2c3817ac4e52.zip\n"}
+{"level":"debug","time":"2025-06-02T17:50:35.496+0530","caller":"storage/azure.go:59","msg":"Payload size: 20.05 MB, source path /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-e3e45937-41e4-459a-b0e1-2c3817ac4e52.zip"}
+{"level":"debug","time":"2025-06-02T17:50:35.497+0530","caller":"utils/azcopy.go:143","msg":"Downloading dependency binary ..................."}
+{"level":"debug","time":"2025-06-02T17:50:35.994+0530","caller":"utils/azcopy.go:100","msg":"Downloading dependency to upload files"}
+{"level":"info","time":"2025-06-02T17:50:45.341+0530","caller":"utils/azcopy.go:118","msg":"\u001b[91m\u001b[32m✔\u001b[0m Dependency binary downloaded successfully\u001b[0m"}
+{"level":"debug","time":"2025-06-02T17:50:45.341+0530","caller":"utils/azcopy.go:190","msg":"returning from fallback"}
+{"level":"info","time":"2025-06-02T17:50:49.396+0530","caller":"storage/azure.go:114","msg":"File upload completed in 13.918274125s"}
+{"level":"debug","time":"2025-06-02T17:50:49.396+0530","caller":"receptionmanager/setup.go:267","msg":"number of entries in runtimes: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T17:50:49.397+0530","caller":"receptionmanager/setup.go:296","msg":"number of entries in partialreports: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T17:50:49.398+0530","caller":"receptionmanager/setup.go:184","msg":"Uploading yaml : /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T17:50:49.401+0530","caller":"storage/azure.go:59","msg":"Payload size: 4.83 kB, source path /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"info","time":"2025-06-02T17:50:59.469+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.071468583s"}
+{"level":"debug","time":"2025-06-02T17:50:59.474+0530","caller":"core/lifecycle.go:697","msg":"Successfully deleted code archive: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-e3e45937-41e4-459a-b0e1-2c3817ac4e52.zip\n"}
+{"level":"debug","time":"2025-06-02T17:50:59.479+0530","caller":"storage/azure.go:59","msg":"Payload size: 913 B, source path mask-e3e45937-41e4-459a-b0e1-2c3817ac4e52.yaml"}
+{"level":"info","time":"2025-06-02T17:51:09.545+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.069420042s"}
+{"level":"debug","time":"2025-06-02T17:51:12.197+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748866870519478146IPU"}
+{"level":"debug","time":"2025-06-02T17:51:12.198+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748866870519478146IPU"}
+{"level":"debug","time":"2025-06-02T17:51:12.198+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748866870585304056LWU"}
+{"level":"debug","time":"2025-06-02T17:51:12.198+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748866870585304056LWU"}
+{"level":"info","time":"2025-06-02T17:51:14.701+0530","caller":"jobmanager/sse_setup.go:85","msg":"\nJob \u001b[1m\u001b[4me3e45937-41e4-459a-b0e1-2c3817ac4e52\u001b[24m\u001b[22m has started \u001b[97mRUNNING\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:51:14.701+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=e3e45937-41e4-459a-b0e1-2c3817ac4e52\u001b[0m\u001b[24m\n"}
+{"level":"error","time":"2025-06-02T17:51:16.991+0530","caller":"jobmanager/sse_setup.go:109","msg":"2025-06-02T17:49:51+05:30    error    \u001b[91mERR::JOB::STS\u001b[0m     Job lambda_error!"}
+{"level":"debug","time":"2025-06-02T17:51:16.991+0530","caller":"jobmanager/sse_setup.go:141","msg":"\n\nJob status"}
+{"level":"info","time":"2025-06-02T17:51:16.991+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748866870519478146IPU has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"info","time":"2025-06-02T17:51:16.992+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748866870585304056LWU has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"debug","time":"2025-06-02T17:51:16.992+0530","caller":"core/lifecycle.go:875","msg":"Context canceled"}
+{"level":"info","time":"2025-06-02T17:51:16.992+0530","caller":"core/lifecycle.go:878","msg":"\u001b[2mStopping pipeline gracefully\u001b[22m"}
+{"level":"error","time":"2025-06-02T17:51:16.992+0530","caller":"core/lifecycle.go:881","msg":"2025-06-02T17:49:51+05:30    error    Exiting with error: Lambda error found."}
+{"level":"info","time":"2025-06-02T17:51:16.992+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=e3e45937-41e4-459a-b0e1-2c3817ac4e52\u001b[0m\u001b[24m\n"}
+{"level":"debug","time":"2025-06-02T17:51:16.993+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T17:51:16.993+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"info","time":"2025-06-02T17:51:17.642+0530","caller":"jobmanager/JobSummaryManager.go:54","msg":"\n\u001b[101m LAMBDA_ERROR \u001b[0m\n"}
+{"level":"info","time":"2025-06-02T17:51:17.642+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTest Execution Time\u001b[22m:                  \u001b[91m0s\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mJob Duration Time\u001b[22m:                    2s"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Tasks\u001b[22m:                          2"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mCumulative Time Consumed\u001b[22m:             3s"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Stages\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass discovery stage percentage\u001b[22m:      0.00%"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed discovery stage percentage\u001b[22m:    0.00%"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass pre stage percentage\u001b[22m:            0.00%"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed pre stage percentage\u001b[22m:          0.00%"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass test stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed test stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass post stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed post stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed Tasks\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T17:51:17.643+0530","caller":"jobmanager/JobSummaryManager.go:58","msg":""}
+{"level":"debug","time":"2025-06-02T17:51:46.994+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T17:51:46.994+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error Lambda error found."}
+{"level":"debug","time":"2025-06-02T17:58:00.443+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T17:58:32.128+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T17:58:32.128+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWR9STNMRP88PCQZPHMQWMX9 \n"}
+{"level":"debug","time":"2025-06-02T17:58:34.761+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T17:58:34.768+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T17:58:34.769+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:58:34.769+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T17:58:34.771+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T17:58:35.652+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"warn","time":"2025-06-02T17:58:36.461+0530","caller":"yamlconfigmanager/setup.go:1184","msg":"Please ensure the value of testSuiteTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"warn","time":"2025-06-02T17:58:36.461+0530","caller":"yamlconfigmanager/setup.go:1193","msg":"Please ensure the value of globalTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"debug","time":"2025-06-02T17:58:36.461+0530","caller":"yamlconfigmanager/setup.go:541","msg":"Tunnel: %!t(<nil>)"}
+{"level":"info","time":"2025-06-02T17:58:36.461+0530","caller":"models/HypertestYamlConfig.go:874","msg":"\n\u001b[4m\u001b[1m\u001b[97mExecution Plan\u001b[0m\u001b[22m\u001b[24m"}
+{"level":"info","time":"2025-06-02T17:58:36.462+0530","caller":"models/HypertestYamlConfig.go:673","msg":"Mode:    \u001b[36mhybrid\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:58:36.462+0530","caller":"models/HypertestYamlConfig.go:727","msg":"Parallelism:    \u001b[36m Mac - 10  Default - 10\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:58:36.462+0530","caller":"models/HypertestYamlConfig.go:735","msg":"Runson:    \u001b[36m${matrix.os}\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:58:36.462+0530","caller":"models/HypertestYamlConfig.go:743","msg":"Concurrency:    \u001b[36m10\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:58:36.462+0530","caller":"models/HypertestYamlConfig.go:807","msg":"Report:    \u001b[36menabled\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:58:36.462+0530","caller":"models/HypertestYamlConfig.go:839","msg":"Cache Directories:"}
+{"level":"info","time":"2025-06-02T17:58:36.462+0530","caller":"models/HypertestYamlConfig.go:841","msg":"    \u001b[36mnode_modules\u001b[0m"}
+{"level":"info","time":"2025-06-02T17:58:36.463+0530","caller":"models/HypertestYamlConfig.go:887","msg":""}
+{"level":"debug","time":"2025-06-02T17:58:36.463+0530","caller":"filevalidator/setup.go:49","msg":"Warning: Checking data.json file in current directory, no dataJsonPath found in .hyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T17:58:36.463+0530","caller":"filevalidator/setup.go:53","msg":"Warning: data.json file doesn't exist"}
+{"level":"debug","time":"2025-06-02T17:58:37.309+0530","caller":"core/lifecycle.go:517","msg":"Job ID: fceb8325-402d-4eb4-9d35-28e8ce600f58"}
+{"level":"debug","time":"2025-06-02T17:58:37.309+0530","caller":"core/lifecycle.go:520","msg":"User - eniyan_vetrivel, triggered job with ID fceb8325-402d-4eb4-9d35-28e8ce600f58 from CLI"}
+{"level":"debug","time":"2025-06-02T17:58:37.309+0530","caller":"events/manager.go:95","msg":"Starting event manager"}
+{"level":"debug","time":"2025-06-02T17:58:37.311+0530","caller":"events/manager.go:97","msg":"SSE enabled, getting SSE connection"}
+{"level":"debug","time":"2025-06-02T17:58:37.311+0530","caller":"archivemanager/setup.go:340","msg":"digestMap: map[]"}
+{"level":"debug","time":"2025-06-02T17:58:37.311+0530","caller":"archivemanager/setup.go:346","msg":"Creating archive of target directory: /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"debug","time":"2025-06-02T17:58:38.381+0530","caller":"events/manager.go:277","msg":"connection to hyperexecute server established successfully."}
+{"level":"debug","time":"2025-06-02T17:58:40.841+0530","caller":"core/lifecycle.go:660","msg":"Zip file size: 20.05 MB"}
+{"level":"debug","time":"2025-06-02T17:58:40.841+0530","caller":"core/lifecycle.go:670","msg":"Archive location: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-fceb8325-402d-4eb4-9d35-28e8ce600f58.zip\n"}
+{"level":"debug","time":"2025-06-02T17:58:40.878+0530","caller":"storage/azure.go:59","msg":"Payload size: 20.05 MB, source path /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-fceb8325-402d-4eb4-9d35-28e8ce600f58.zip"}
+{"level":"info","time":"2025-06-02T17:58:52.995+0530","caller":"storage/azure.go:114","msg":"File upload completed in 12.153820292s"}
+{"level":"debug","time":"2025-06-02T17:58:52.995+0530","caller":"receptionmanager/setup.go:267","msg":"number of entries in runtimes: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T17:58:52.996+0530","caller":"receptionmanager/setup.go:296","msg":"number of entries in partialreports: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T17:58:52.997+0530","caller":"receptionmanager/setup.go:184","msg":"Uploading yaml : /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T17:58:53.000+0530","caller":"storage/azure.go:59","msg":"Payload size: 4.83 kB, source path /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"info","time":"2025-06-02T17:59:03.076+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.07925475s"}
+{"level":"debug","time":"2025-06-02T17:59:03.080+0530","caller":"core/lifecycle.go:697","msg":"Successfully deleted code archive: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-fceb8325-402d-4eb4-9d35-28e8ce600f58.zip\n"}
+{"level":"debug","time":"2025-06-02T17:59:03.087+0530","caller":"storage/azure.go:59","msg":"Payload size: 913 B, source path mask-fceb8325-402d-4eb4-9d35-28e8ce600f58.yaml"}
+{"level":"info","time":"2025-06-02T17:59:13.161+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.07932425s"}
+{"level":"debug","time":"2025-06-02T17:59:15.161+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748867353924472336SFW"}
+{"level":"debug","time":"2025-06-02T17:59:15.161+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748867353924472336SFW"}
+{"level":"debug","time":"2025-06-02T17:59:15.161+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748867353960768982FEJ"}
+{"level":"debug","time":"2025-06-02T17:59:15.161+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748867353960768982FEJ"}
+{"level":"info","time":"2025-06-02T18:00:36.164+0530","caller":"jobmanager/sse_setup.go:85","msg":"\nJob \u001b[1m\u001b[4mfceb8325-402d-4eb4-9d35-28e8ce600f58\u001b[24m\u001b[22m has started \u001b[97mRUNNING\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:00:36.165+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=fceb8325-402d-4eb4-9d35-28e8ce600f58\u001b[0m\u001b[24m\n"}
+{"level":"error","time":"2025-06-02T18:00:45.810+0530","caller":"jobmanager/sse_setup.go:109","msg":"2025-06-02T17:57:59+05:30    error    \u001b[91mERR::JOB::STS\u001b[0m     Job lambda_error!"}
+{"level":"debug","time":"2025-06-02T18:00:45.810+0530","caller":"jobmanager/sse_setup.go:141","msg":"\n\nJob status"}
+{"level":"info","time":"2025-06-02T18:00:45.810+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748867353924472336SFW has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"info","time":"2025-06-02T18:00:45.810+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748867353960768982FEJ has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"debug","time":"2025-06-02T18:00:45.811+0530","caller":"core/lifecycle.go:875","msg":"Context canceled"}
+{"level":"info","time":"2025-06-02T18:00:45.811+0530","caller":"core/lifecycle.go:878","msg":"\u001b[2mStopping pipeline gracefully\u001b[22m"}
+{"level":"error","time":"2025-06-02T18:00:45.811+0530","caller":"core/lifecycle.go:881","msg":"2025-06-02T17:57:59+05:30    error    Exiting with error: Lambda error found."}
+{"level":"info","time":"2025-06-02T18:00:45.811+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=fceb8325-402d-4eb4-9d35-28e8ce600f58\u001b[0m\u001b[24m\n"}
+{"level":"debug","time":"2025-06-02T18:00:45.811+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T18:00:45.811+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"info","time":"2025-06-02T18:00:46.540+0530","caller":"jobmanager/JobSummaryManager.go:54","msg":"\n\u001b[101m LAMBDA_ERROR \u001b[0m\n"}
+{"level":"info","time":"2025-06-02T18:00:46.540+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTest Execution Time\u001b[22m:                  \u001b[91m0s\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mJob Duration Time\u001b[22m:                    9s"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Tasks\u001b[22m:                          2"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mCumulative Time Consumed\u001b[22m:             5s"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Stages\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass discovery stage percentage\u001b[22m:      0.00%"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed discovery stage percentage\u001b[22m:    0.00%"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass pre stage percentage\u001b[22m:            0.00%"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed pre stage percentage\u001b[22m:          0.00%"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass test stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed test stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass post stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed post stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed Tasks\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T18:00:46.541+0530","caller":"jobmanager/JobSummaryManager.go:58","msg":""}
+{"level":"debug","time":"2025-06-02T18:01:15.813+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error Lambda error found."}
+{"level":"debug","time":"2025-06-02T18:01:15.812+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T18:19:15.172+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T18:19:15.947+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T18:19:15.947+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWRB0QPBQVS13QH6T5VP40G4 \n"}
+{"level":"debug","time":"2025-06-02T18:19:18.519+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T18:19:18.531+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T18:19:18.532+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexecute.yml"}
+{"level":"error","time":"2025-06-02T18:19:18.532+0530","caller":"core/lifecycle.go:116","msg":"2025-06-02T18:19:14+05:30    error    \u001b[91mERR::NO::HTY\u001b[0m     Unable to find hyperexecute config file.    No file found at location hyperexecute.yml"}
+{"level":"debug","time":"2025-06-02T18:19:18.533+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T18:19:18.533+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"debug","time":"2025-06-02T18:19:18.533+0530","caller":"core/lifecycle.go:63","msg":"All lifecycle goroutines exited"}
+{"level":"debug","time":"2025-06-02T18:19:18.533+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error \u001b[91mERR::NO::HTY\u001b[0m     Unable to find hyperexecute config file.    No file found at location hyperexecute.yml"}
+{"level":"debug","time":"2025-06-02T18:19:18.533+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T18:19:57.914+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T18:19:58.582+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T18:19:58.582+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWRB21FTBM66EEEQE1JC2K65 \n"}
+{"level":"debug","time":"2025-06-02T18:20:01.439+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T18:20:01.449+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T18:20:01.449+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T18:20:01.450+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T18:20:01.452+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T18:20:02.311+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"warn","time":"2025-06-02T18:20:03.110+0530","caller":"yamlconfigmanager/setup.go:1184","msg":"Please ensure the value of testSuiteTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"warn","time":"2025-06-02T18:20:03.111+0530","caller":"yamlconfigmanager/setup.go:1193","msg":"Please ensure the value of globalTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"debug","time":"2025-06-02T18:20:03.111+0530","caller":"yamlconfigmanager/setup.go:541","msg":"Tunnel: %!t(<nil>)"}
+{"level":"info","time":"2025-06-02T18:20:03.111+0530","caller":"models/HypertestYamlConfig.go:874","msg":"\n\u001b[4m\u001b[1m\u001b[97mExecution Plan\u001b[0m\u001b[22m\u001b[24m"}
+{"level":"info","time":"2025-06-02T18:20:03.112+0530","caller":"models/HypertestYamlConfig.go:673","msg":"Mode:    \u001b[36mhybrid\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:20:03.112+0530","caller":"models/HypertestYamlConfig.go:727","msg":"Parallelism:    \u001b[36m Mac - 10  Default - 10\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:20:03.112+0530","caller":"models/HypertestYamlConfig.go:735","msg":"Runson:    \u001b[36m${matrix.os}\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:20:03.112+0530","caller":"models/HypertestYamlConfig.go:743","msg":"Concurrency:    \u001b[36m10\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:20:03.112+0530","caller":"models/HypertestYamlConfig.go:807","msg":"Report:    \u001b[36menabled\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:20:03.112+0530","caller":"models/HypertestYamlConfig.go:839","msg":"Cache Directories:"}
+{"level":"info","time":"2025-06-02T18:20:03.112+0530","caller":"models/HypertestYamlConfig.go:841","msg":"    \u001b[36mnode_modules\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:20:03.112+0530","caller":"models/HypertestYamlConfig.go:887","msg":""}
+{"level":"debug","time":"2025-06-02T18:20:03.112+0530","caller":"filevalidator/setup.go:49","msg":"Warning: Checking data.json file in current directory, no dataJsonPath found in .hyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T18:20:03.112+0530","caller":"filevalidator/setup.go:53","msg":"Warning: data.json file doesn't exist"}
+{"level":"debug","time":"2025-06-02T18:20:04.107+0530","caller":"core/lifecycle.go:517","msg":"Job ID: 46bb3b67-8e65-4490-b20d-4e010a3805e9"}
+{"level":"debug","time":"2025-06-02T18:20:04.107+0530","caller":"core/lifecycle.go:520","msg":"User - eniyan_vetrivel, triggered job with ID 46bb3b67-8e65-4490-b20d-4e010a3805e9 from CLI"}
+{"level":"debug","time":"2025-06-02T18:20:04.107+0530","caller":"events/manager.go:95","msg":"Starting event manager"}
+{"level":"debug","time":"2025-06-02T18:20:04.107+0530","caller":"events/manager.go:97","msg":"SSE enabled, getting SSE connection"}
+{"level":"debug","time":"2025-06-02T18:20:04.108+0530","caller":"archivemanager/setup.go:340","msg":"digestMap: map[]"}
+{"level":"debug","time":"2025-06-02T18:20:04.108+0530","caller":"archivemanager/setup.go:346","msg":"Creating archive of target directory: /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"debug","time":"2025-06-02T18:20:05.137+0530","caller":"events/manager.go:277","msg":"connection to hyperexecute server established successfully."}
+{"level":"debug","time":"2025-06-02T18:20:07.880+0530","caller":"core/lifecycle.go:660","msg":"Zip file size: 22.61 MB"}
+{"level":"debug","time":"2025-06-02T18:20:07.880+0530","caller":"core/lifecycle.go:670","msg":"Archive location: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-46bb3b67-8e65-4490-b20d-4e010a3805e9.zip\n"}
+{"level":"debug","time":"2025-06-02T18:20:07.912+0530","caller":"storage/azure.go:59","msg":"Payload size: 22.61 MB, source path /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-46bb3b67-8e65-4490-b20d-4e010a3805e9.zip"}
+{"level":"info","time":"2025-06-02T18:20:20.026+0530","caller":"storage/azure.go:114","msg":"File upload completed in 12.14653725s"}
+{"level":"debug","time":"2025-06-02T18:20:20.027+0530","caller":"receptionmanager/setup.go:267","msg":"number of entries in runtimes: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T18:20:20.027+0530","caller":"receptionmanager/setup.go:296","msg":"number of entries in partialreports: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T18:20:20.029+0530","caller":"receptionmanager/setup.go:184","msg":"Uploading yaml : /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T18:20:20.031+0530","caller":"storage/azure.go:59","msg":"Payload size: 4.83 kB, source path /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"info","time":"2025-06-02T18:20:30.098+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.068894625s"}
+{"level":"debug","time":"2025-06-02T18:20:30.102+0530","caller":"core/lifecycle.go:697","msg":"Successfully deleted code archive: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-46bb3b67-8e65-4490-b20d-4e010a3805e9.zip\n"}
+{"level":"debug","time":"2025-06-02T18:20:30.110+0530","caller":"storage/azure.go:59","msg":"Payload size: 913 B, source path mask-46bb3b67-8e65-4490-b20d-4e010a3805e9.yaml"}
+{"level":"info","time":"2025-06-02T18:20:40.190+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.085462458s"}
+{"level":"debug","time":"2025-06-02T18:20:42.265+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748868641051814845EMG"}
+{"level":"debug","time":"2025-06-02T18:20:42.265+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748868641051814845EMG"}
+{"level":"debug","time":"2025-06-02T18:20:42.265+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748868641095317735OIK"}
+{"level":"debug","time":"2025-06-02T18:20:42.265+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748868641095317735OIK"}
+{"level":"info","time":"2025-06-02T18:21:40.600+0530","caller":"jobmanager/sse_setup.go:85","msg":"\nJob \u001b[1m\u001b[4m46bb3b67-8e65-4490-b20d-4e010a3805e9\u001b[24m\u001b[22m has started \u001b[97mRUNNING\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:21:40.600+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=46bb3b67-8e65-4490-b20d-4e010a3805e9\u001b[0m\u001b[24m\n"}
+{"level":"error","time":"2025-06-02T18:21:43.680+0530","caller":"jobmanager/sse_setup.go:109","msg":"2025-06-02T18:19:57+05:30    error    \u001b[91mERR::JOB::STS\u001b[0m     Job lambda_error!"}
+{"level":"debug","time":"2025-06-02T18:21:43.681+0530","caller":"jobmanager/sse_setup.go:141","msg":"\n\nJob status"}
+{"level":"info","time":"2025-06-02T18:21:43.681+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748868641051814845EMG has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"info","time":"2025-06-02T18:21:43.681+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748868641095317735OIK has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"debug","time":"2025-06-02T18:21:43.681+0530","caller":"core/lifecycle.go:875","msg":"Context canceled"}
+{"level":"info","time":"2025-06-02T18:21:43.682+0530","caller":"core/lifecycle.go:878","msg":"\u001b[2mStopping pipeline gracefully\u001b[22m"}
+{"level":"error","time":"2025-06-02T18:21:43.682+0530","caller":"core/lifecycle.go:881","msg":"2025-06-02T18:19:57+05:30    error    Exiting with error: Lambda error found."}
+{"level":"info","time":"2025-06-02T18:21:43.682+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=46bb3b67-8e65-4490-b20d-4e010a3805e9\u001b[0m\u001b[24m\n"}
+{"level":"debug","time":"2025-06-02T18:21:43.682+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T18:21:43.682+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"info","time":"2025-06-02T18:21:44.331+0530","caller":"jobmanager/JobSummaryManager.go:54","msg":"\n\u001b[101m LAMBDA_ERROR \u001b[0m\n"}
+{"level":"info","time":"2025-06-02T18:21:44.331+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTest Execution Time\u001b[22m:                  \u001b[91m0s\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:21:44.332+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mJob Duration Time\u001b[22m:                    2s"}
+{"level":"info","time":"2025-06-02T18:21:44.332+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Tasks\u001b[22m:                          2"}
+{"level":"info","time":"2025-06-02T18:21:44.332+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mCumulative Time Consumed\u001b[22m:             4s"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Stages\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass discovery stage percentage\u001b[22m:      0.00%"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed discovery stage percentage\u001b[22m:    0.00%"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass pre stage percentage\u001b[22m:            0.00%"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed pre stage percentage\u001b[22m:          0.00%"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass test stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed test stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass post stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed post stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed Tasks\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T18:21:44.333+0530","caller":"jobmanager/JobSummaryManager.go:58","msg":""}
+{"level":"debug","time":"2025-06-02T18:22:13.683+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T18:22:13.683+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error Lambda error found."}
+{"level":"debug","time":"2025-06-02T18:28:09.317+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T18:28:10.156+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T18:28:10.156+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWRBH19CKYR5563MEP31XY7V \n"}
+{"level":"debug","time":"2025-06-02T18:28:14.130+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T18:28:14.142+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T18:28:14.142+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T18:28:14.143+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T18:28:14.145+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T18:28:15.017+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"warn","time":"2025-06-02T18:28:15.868+0530","caller":"yamlconfigmanager/setup.go:1184","msg":"Please ensure the value of testSuiteTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"warn","time":"2025-06-02T18:28:15.868+0530","caller":"yamlconfigmanager/setup.go:1193","msg":"Please ensure the value of globalTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"debug","time":"2025-06-02T18:28:15.868+0530","caller":"yamlconfigmanager/setup.go:541","msg":"Tunnel: %!t(<nil>)"}
+{"level":"info","time":"2025-06-02T18:28:15.868+0530","caller":"models/HypertestYamlConfig.go:874","msg":"\n\u001b[4m\u001b[1m\u001b[97mExecution Plan\u001b[0m\u001b[22m\u001b[24m"}
+{"level":"info","time":"2025-06-02T18:28:15.869+0530","caller":"models/HypertestYamlConfig.go:673","msg":"Mode:    \u001b[36mhybrid\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:28:15.869+0530","caller":"models/HypertestYamlConfig.go:727","msg":"Parallelism:    \u001b[36m Mac - 10  Default - 10\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:28:15.869+0530","caller":"models/HypertestYamlConfig.go:735","msg":"Runson:    \u001b[36m${matrix.os}\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:28:15.870+0530","caller":"models/HypertestYamlConfig.go:743","msg":"Concurrency:    \u001b[36m10\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:28:15.870+0530","caller":"models/HypertestYamlConfig.go:807","msg":"Report:    \u001b[36menabled\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:28:15.870+0530","caller":"models/HypertestYamlConfig.go:839","msg":"Cache Directories:"}
+{"level":"info","time":"2025-06-02T18:28:15.870+0530","caller":"models/HypertestYamlConfig.go:841","msg":"    \u001b[36mnode_modules\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:28:15.870+0530","caller":"models/HypertestYamlConfig.go:887","msg":""}
+{"level":"debug","time":"2025-06-02T18:28:15.870+0530","caller":"filevalidator/setup.go:49","msg":"Warning: Checking data.json file in current directory, no dataJsonPath found in .hyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T18:28:15.870+0530","caller":"filevalidator/setup.go:53","msg":"Warning: data.json file doesn't exist"}
+{"level":"debug","time":"2025-06-02T18:28:16.702+0530","caller":"core/lifecycle.go:517","msg":"Job ID: 2d1d3992-1cf2-4b9c-b147-fa70acb3dfc8"}
+{"level":"debug","time":"2025-06-02T18:28:16.702+0530","caller":"core/lifecycle.go:520","msg":"User - eniyan_vetrivel, triggered job with ID 2d1d3992-1cf2-4b9c-b147-fa70acb3dfc8 from CLI"}
+{"level":"debug","time":"2025-06-02T18:28:16.702+0530","caller":"events/manager.go:95","msg":"Starting event manager"}
+{"level":"debug","time":"2025-06-02T18:28:16.703+0530","caller":"events/manager.go:97","msg":"SSE enabled, getting SSE connection"}
+{"level":"debug","time":"2025-06-02T18:28:16.704+0530","caller":"archivemanager/setup.go:340","msg":"digestMap: map[]"}
+{"level":"debug","time":"2025-06-02T18:28:16.704+0530","caller":"archivemanager/setup.go:346","msg":"Creating archive of target directory: /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"debug","time":"2025-06-02T18:28:17.775+0530","caller":"events/manager.go:277","msg":"connection to hyperexecute server established successfully."}
+{"level":"debug","time":"2025-06-02T18:28:20.715+0530","caller":"core/lifecycle.go:660","msg":"Zip file size: 20.05 MB"}
+{"level":"debug","time":"2025-06-02T18:28:20.715+0530","caller":"core/lifecycle.go:670","msg":"Archive location: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-2d1d3992-1cf2-4b9c-b147-fa70acb3dfc8.zip\n"}
+{"level":"debug","time":"2025-06-02T18:28:20.742+0530","caller":"storage/azure.go:59","msg":"Payload size: 20.05 MB, source path /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-2d1d3992-1cf2-4b9c-b147-fa70acb3dfc8.zip"}
+{"level":"info","time":"2025-06-02T18:28:32.837+0530","caller":"storage/azure.go:114","msg":"File upload completed in 12.121186917s"}
+{"level":"debug","time":"2025-06-02T18:28:32.837+0530","caller":"receptionmanager/setup.go:267","msg":"number of entries in runtimes: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T18:28:32.837+0530","caller":"receptionmanager/setup.go:296","msg":"number of entries in partialreports: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T18:28:32.838+0530","caller":"receptionmanager/setup.go:184","msg":"Uploading yaml : /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T18:28:32.840+0530","caller":"storage/azure.go:59","msg":"Payload size: 4.83 kB, source path /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"info","time":"2025-06-02T18:28:42.909+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.070861875s"}
+{"level":"debug","time":"2025-06-02T18:28:42.912+0530","caller":"core/lifecycle.go:697","msg":"Successfully deleted code archive: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-2d1d3992-1cf2-4b9c-b147-fa70acb3dfc8.zip\n"}
+{"level":"debug","time":"2025-06-02T18:28:42.918+0530","caller":"storage/azure.go:59","msg":"Payload size: 913 B, source path mask-2d1d3992-1cf2-4b9c-b147-fa70acb3dfc8.yaml"}
+{"level":"info","time":"2025-06-02T18:28:52.979+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.065699333s"}
+{"level":"debug","time":"2025-06-02T18:28:55.291+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748869133863314202ZXS"}
+{"level":"debug","time":"2025-06-02T18:28:55.291+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748869133863314202ZXS"}
+{"level":"debug","time":"2025-06-02T18:28:55.291+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748869133936175441COX"}
+{"level":"debug","time":"2025-06-02T18:28:55.292+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748869133936175441COX"}
+{"level":"info","time":"2025-06-02T18:29:43.419+0530","caller":"jobmanager/sse_setup.go:85","msg":"\nJob \u001b[1m\u001b[4m2d1d3992-1cf2-4b9c-b147-fa70acb3dfc8\u001b[24m\u001b[22m has started \u001b[97mRUNNING\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:29:43.419+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=2d1d3992-1cf2-4b9c-b147-fa70acb3dfc8\u001b[0m\u001b[24m\n"}
+{"level":"error","time":"2025-06-02T18:29:46.607+0530","caller":"jobmanager/sse_setup.go:109","msg":"2025-06-02T18:28:08+05:30    error    \u001b[91mERR::JOB::STS\u001b[0m     Job lambda_error!"}
+{"level":"debug","time":"2025-06-02T18:29:46.607+0530","caller":"jobmanager/sse_setup.go:141","msg":"\n\nJob status"}
+{"level":"info","time":"2025-06-02T18:29:46.607+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748869133863314202ZXS has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"info","time":"2025-06-02T18:29:46.607+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748869133936175441COX has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"debug","time":"2025-06-02T18:29:46.607+0530","caller":"core/lifecycle.go:875","msg":"Context canceled"}
+{"level":"info","time":"2025-06-02T18:29:46.607+0530","caller":"core/lifecycle.go:878","msg":"\u001b[2mStopping pipeline gracefully\u001b[22m"}
+{"level":"error","time":"2025-06-02T18:29:46.607+0530","caller":"core/lifecycle.go:881","msg":"2025-06-02T18:28:08+05:30    error    Exiting with error: Lambda error found."}
+{"level":"info","time":"2025-06-02T18:29:46.607+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=2d1d3992-1cf2-4b9c-b147-fa70acb3dfc8\u001b[0m\u001b[24m\n"}
+{"level":"debug","time":"2025-06-02T18:29:46.607+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T18:29:46.607+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"info","time":"2025-06-02T18:29:47.519+0530","caller":"jobmanager/JobSummaryManager.go:54","msg":"\n\u001b[101m LAMBDA_ERROR \u001b[0m\n"}
+{"level":"info","time":"2025-06-02T18:29:47.519+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTest Execution Time\u001b[22m:                  \u001b[91m0s\u001b[0m"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mJob Duration Time\u001b[22m:                    2s"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Tasks\u001b[22m:                          2"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mCumulative Time Consumed\u001b[22m:             4s"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Stages\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass discovery stage percentage\u001b[22m:      0.00%"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed discovery stage percentage\u001b[22m:    0.00%"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass pre stage percentage\u001b[22m:            0.00%"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed pre stage percentage\u001b[22m:          0.00%"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass test stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed test stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass post stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed post stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed Tasks\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T18:29:47.520+0530","caller":"jobmanager/JobSummaryManager.go:58","msg":""}
+{"level":"debug","time":"2025-06-02T18:30:16.607+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T18:30:16.607+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error Lambda error found."}
+{"level":"debug","time":"2025-06-02T19:18:21.023+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T19:18:21.678+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T19:18:21.678+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWRECYF94TJYEVB7ZJ7F9FEK \n"}
+{"level":"debug","time":"2025-06-02T19:18:24.160+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T19:18:24.173+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T19:18:24.174+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T19:18:24.174+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T19:18:24.176+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T19:18:24.950+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"warn","time":"2025-06-02T19:18:25.598+0530","caller":"yamlconfigmanager/setup.go:1184","msg":"Please ensure the value of testSuiteTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"warn","time":"2025-06-02T19:18:25.598+0530","caller":"yamlconfigmanager/setup.go:1193","msg":"Please ensure the value of globalTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"debug","time":"2025-06-02T19:18:25.598+0530","caller":"yamlconfigmanager/setup.go:541","msg":"Tunnel: %!t(<nil>)"}
+{"level":"info","time":"2025-06-02T19:18:25.598+0530","caller":"models/HypertestYamlConfig.go:874","msg":"\n\u001b[4m\u001b[1m\u001b[97mExecution Plan\u001b[0m\u001b[22m\u001b[24m"}
+{"level":"info","time":"2025-06-02T19:18:25.599+0530","caller":"models/HypertestYamlConfig.go:673","msg":"Mode:    \u001b[36mhybrid\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:18:25.599+0530","caller":"models/HypertestYamlConfig.go:727","msg":"Parallelism:    \u001b[36m Mac - 10  Default - 10\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:18:25.599+0530","caller":"models/HypertestYamlConfig.go:735","msg":"Runson:    \u001b[36m${matrix.os}\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:18:25.599+0530","caller":"models/HypertestYamlConfig.go:743","msg":"Concurrency:    \u001b[36m10\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:18:25.599+0530","caller":"models/HypertestYamlConfig.go:807","msg":"Report:    \u001b[36menabled\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:18:25.599+0530","caller":"models/HypertestYamlConfig.go:839","msg":"Cache Directories:"}
+{"level":"info","time":"2025-06-02T19:18:25.599+0530","caller":"models/HypertestYamlConfig.go:841","msg":"    \u001b[36mnode_modules\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:18:25.599+0530","caller":"models/HypertestYamlConfig.go:887","msg":""}
+{"level":"debug","time":"2025-06-02T19:18:25.599+0530","caller":"filevalidator/setup.go:49","msg":"Warning: Checking data.json file in current directory, no dataJsonPath found in .hyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T19:18:25.600+0530","caller":"filevalidator/setup.go:53","msg":"Warning: data.json file doesn't exist"}
+{"level":"debug","time":"2025-06-02T19:18:26.381+0530","caller":"core/lifecycle.go:517","msg":"Job ID: 44e34034-48bd-43ca-89f2-6ffd45889231"}
+{"level":"debug","time":"2025-06-02T19:18:26.381+0530","caller":"core/lifecycle.go:520","msg":"User - eniyan_vetrivel, triggered job with ID 44e34034-48bd-43ca-89f2-6ffd45889231 from CLI"}
+{"level":"debug","time":"2025-06-02T19:18:26.381+0530","caller":"events/manager.go:95","msg":"Starting event manager"}
+{"level":"debug","time":"2025-06-02T19:18:26.381+0530","caller":"events/manager.go:97","msg":"SSE enabled, getting SSE connection"}
+{"level":"debug","time":"2025-06-02T19:18:26.382+0530","caller":"archivemanager/setup.go:340","msg":"digestMap: map[]"}
+{"level":"debug","time":"2025-06-02T19:18:26.382+0530","caller":"archivemanager/setup.go:346","msg":"Creating archive of target directory: /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"debug","time":"2025-06-02T19:18:27.359+0530","caller":"events/manager.go:277","msg":"connection to hyperexecute server established successfully."}
+{"level":"debug","time":"2025-06-02T19:18:29.966+0530","caller":"core/lifecycle.go:660","msg":"Zip file size: 22.38 MB"}
+{"level":"debug","time":"2025-06-02T19:18:29.966+0530","caller":"core/lifecycle.go:670","msg":"Archive location: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-44e34034-48bd-43ca-89f2-6ffd45889231.zip\n"}
+{"level":"debug","time":"2025-06-02T19:18:30.010+0530","caller":"storage/azure.go:59","msg":"Payload size: 22.38 MB, source path /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-44e34034-48bd-43ca-89f2-6ffd45889231.zip"}
+{"level":"info","time":"2025-06-02T19:18:50.119+0530","caller":"storage/azure.go:114","msg":"File upload completed in 20.153363208s"}
+{"level":"debug","time":"2025-06-02T19:18:50.120+0530","caller":"receptionmanager/setup.go:267","msg":"number of entries in runtimes: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T19:18:50.120+0530","caller":"receptionmanager/setup.go:296","msg":"number of entries in partialreports: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T19:18:50.121+0530","caller":"receptionmanager/setup.go:184","msg":"Uploading yaml : /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T19:18:50.124+0530","caller":"storage/azure.go:59","msg":"Payload size: 4.83 kB, source path /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"info","time":"2025-06-02T19:19:00.200+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.078550916s"}
+{"level":"debug","time":"2025-06-02T19:19:00.204+0530","caller":"core/lifecycle.go:697","msg":"Successfully deleted code archive: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-44e34034-48bd-43ca-89f2-6ffd45889231.zip\n"}
+{"level":"debug","time":"2025-06-02T19:19:00.210+0530","caller":"storage/azure.go:59","msg":"Payload size: 913 B, source path mask-44e34034-48bd-43ca-89f2-6ffd45889231.yaml"}
+{"level":"info","time":"2025-06-02T19:19:10.290+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.083291416s"}
+{"level":"debug","time":"2025-06-02T19:19:12.357+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748872151110860642HKA"}
+{"level":"debug","time":"2025-06-02T19:19:12.357+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748872151110860642HKA"}
+{"level":"debug","time":"2025-06-02T19:19:12.357+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748872151168212831DWI"}
+{"level":"debug","time":"2025-06-02T19:19:12.357+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748872151168212831DWI"}
+{"level":"info","time":"2025-06-02T19:19:15.902+0530","caller":"jobmanager/sse_setup.go:85","msg":"\nJob \u001b[1m\u001b[4m44e34034-48bd-43ca-89f2-6ffd45889231\u001b[24m\u001b[22m has started \u001b[97mRUNNING\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:19:15.902+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=44e34034-48bd-43ca-89f2-6ffd45889231\u001b[0m\u001b[24m\n"}
+{"level":"error","time":"2025-06-02T19:19:19.331+0530","caller":"jobmanager/sse_setup.go:109","msg":"2025-06-02T19:18:20+05:30    error    \u001b[91mERR::JOB::STS\u001b[0m     Job lambda_error!"}
+{"level":"debug","time":"2025-06-02T19:19:19.331+0530","caller":"jobmanager/sse_setup.go:141","msg":"\n\nJob status"}
+{"level":"info","time":"2025-06-02T19:19:19.331+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748872151110860642HKA has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"info","time":"2025-06-02T19:19:19.331+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748872151168212831DWI has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"debug","time":"2025-06-02T19:19:19.331+0530","caller":"core/lifecycle.go:875","msg":"Context canceled"}
+{"level":"info","time":"2025-06-02T19:19:19.332+0530","caller":"core/lifecycle.go:878","msg":"\u001b[2mStopping pipeline gracefully\u001b[22m"}
+{"level":"error","time":"2025-06-02T19:19:19.332+0530","caller":"core/lifecycle.go:881","msg":"2025-06-02T19:18:20+05:30    error    Exiting with error: Lambda error found."}
+{"level":"info","time":"2025-06-02T19:19:19.332+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=44e34034-48bd-43ca-89f2-6ffd45889231\u001b[0m\u001b[24m\n"}
+{"level":"debug","time":"2025-06-02T19:19:19.332+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T19:19:19.332+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"info","time":"2025-06-02T19:19:19.983+0530","caller":"jobmanager/JobSummaryManager.go:54","msg":"\n\u001b[101m LAMBDA_ERROR \u001b[0m\n"}
+{"level":"info","time":"2025-06-02T19:19:19.983+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTest Execution Time\u001b[22m:                  \u001b[91m0s\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mJob Duration Time\u001b[22m:                    3s"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Tasks\u001b[22m:                          2"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mCumulative Time Consumed\u001b[22m:             6s"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Stages\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass discovery stage percentage\u001b[22m:      0.00%"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed discovery stage percentage\u001b[22m:    0.00%"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass pre stage percentage\u001b[22m:            0.00%"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed pre stage percentage\u001b[22m:          0.00%"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass test stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed test stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass post stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed post stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed Tasks\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T19:19:19.985+0530","caller":"jobmanager/JobSummaryManager.go:58","msg":""}
+{"level":"debug","time":"2025-06-02T19:19:49.333+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error Lambda error found."}
+{"level":"debug","time":"2025-06-02T19:19:49.333+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T19:20:18.557+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T19:20:19.210+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T19:20:19.211+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWREGH94EYF2CTGNN2B1DJAD \n"}
+{"level":"debug","time":"2025-06-02T19:20:21.650+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T19:20:21.661+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T19:20:21.661+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T19:20:21.662+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T19:20:21.664+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T19:20:22.441+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"warn","time":"2025-06-02T19:20:23.107+0530","caller":"yamlconfigmanager/setup.go:1184","msg":"Please ensure the value of testSuiteTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"warn","time":"2025-06-02T19:20:23.107+0530","caller":"yamlconfigmanager/setup.go:1193","msg":"Please ensure the value of globalTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"debug","time":"2025-06-02T19:20:23.108+0530","caller":"yamlconfigmanager/setup.go:541","msg":"Tunnel: %!t(<nil>)"}
+{"level":"info","time":"2025-06-02T19:20:23.108+0530","caller":"models/HypertestYamlConfig.go:874","msg":"\n\u001b[4m\u001b[1m\u001b[97mExecution Plan\u001b[0m\u001b[22m\u001b[24m"}
+{"level":"info","time":"2025-06-02T19:20:23.109+0530","caller":"models/HypertestYamlConfig.go:673","msg":"Mode:    \u001b[36mhybrid\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:20:23.109+0530","caller":"models/HypertestYamlConfig.go:727","msg":"Parallelism:    \u001b[36m Mac - 10  Default - 10\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:20:23.109+0530","caller":"models/HypertestYamlConfig.go:735","msg":"Runson:    \u001b[36m${matrix.os}\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:20:23.109+0530","caller":"models/HypertestYamlConfig.go:743","msg":"Concurrency:    \u001b[36m10\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:20:23.109+0530","caller":"models/HypertestYamlConfig.go:807","msg":"Report:    \u001b[36menabled\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:20:23.109+0530","caller":"models/HypertestYamlConfig.go:839","msg":"Cache Directories:"}
+{"level":"info","time":"2025-06-02T19:20:23.109+0530","caller":"models/HypertestYamlConfig.go:841","msg":"    \u001b[36mnode_modules\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:20:23.109+0530","caller":"models/HypertestYamlConfig.go:887","msg":""}
+{"level":"debug","time":"2025-06-02T19:20:23.109+0530","caller":"filevalidator/setup.go:49","msg":"Warning: Checking data.json file in current directory, no dataJsonPath found in .hyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T19:20:23.109+0530","caller":"filevalidator/setup.go:53","msg":"Warning: data.json file doesn't exist"}
+{"level":"debug","time":"2025-06-02T19:20:23.903+0530","caller":"core/lifecycle.go:517","msg":"Job ID: 12058884-28b5-4679-bb25-ddc8ccc54206"}
+{"level":"debug","time":"2025-06-02T19:20:23.903+0530","caller":"core/lifecycle.go:520","msg":"User - eniyan_vetrivel, triggered job with ID 12058884-28b5-4679-bb25-ddc8ccc54206 from CLI"}
+{"level":"debug","time":"2025-06-02T19:20:23.905+0530","caller":"archivemanager/setup.go:340","msg":"digestMap: map[]"}
+{"level":"debug","time":"2025-06-02T19:20:23.905+0530","caller":"archivemanager/setup.go:346","msg":"Creating archive of target directory: /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"debug","time":"2025-06-02T19:20:23.903+0530","caller":"events/manager.go:95","msg":"Starting event manager"}
+{"level":"debug","time":"2025-06-02T19:20:23.905+0530","caller":"events/manager.go:97","msg":"SSE enabled, getting SSE connection"}
+{"level":"debug","time":"2025-06-02T19:20:25.204+0530","caller":"events/manager.go:277","msg":"connection to hyperexecute server established successfully."}
+{"level":"debug","time":"2025-06-02T19:20:27.826+0530","caller":"core/lifecycle.go:660","msg":"Zip file size: 22.38 MB"}
+{"level":"debug","time":"2025-06-02T19:20:27.826+0530","caller":"core/lifecycle.go:670","msg":"Archive location: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-12058884-28b5-4679-bb25-ddc8ccc54206.zip\n"}
+{"level":"debug","time":"2025-06-02T19:20:27.850+0530","caller":"storage/azure.go:59","msg":"Payload size: 22.38 MB, source path /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-12058884-28b5-4679-bb25-ddc8ccc54206.zip"}
+{"level":"info","time":"2025-06-02T19:20:47.972+0530","caller":"storage/azure.go:114","msg":"File upload completed in 20.146621417s"}
+{"level":"debug","time":"2025-06-02T19:20:47.973+0530","caller":"receptionmanager/setup.go:267","msg":"number of entries in runtimes: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T19:20:47.974+0530","caller":"receptionmanager/setup.go:296","msg":"number of entries in partialreports: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T19:20:47.975+0530","caller":"receptionmanager/setup.go:184","msg":"Uploading yaml : /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T19:20:47.978+0530","caller":"storage/azure.go:59","msg":"Payload size: 4.83 kB, source path /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"info","time":"2025-06-02T19:20:58.052+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.0767165s"}
+{"level":"debug","time":"2025-06-02T19:20:58.057+0530","caller":"core/lifecycle.go:697","msg":"Successfully deleted code archive: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-12058884-28b5-4679-bb25-ddc8ccc54206.zip\n"}
+{"level":"debug","time":"2025-06-02T19:20:58.062+0530","caller":"storage/azure.go:59","msg":"Payload size: 913 B, source path mask-12058884-28b5-4679-bb25-ddc8ccc54206.yaml"}
+{"level":"info","time":"2025-06-02T19:21:08.138+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.07892575s"}
+{"level":"debug","time":"2025-06-02T19:21:10.220+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748872268964826998TIQ"}
+{"level":"debug","time":"2025-06-02T19:21:10.220+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748872268964826998TIQ"}
+{"level":"debug","time":"2025-06-02T19:21:10.220+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748872269020397751ZSB"}
+{"level":"debug","time":"2025-06-02T19:21:10.220+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748872269020397751ZSB"}
+{"level":"info","time":"2025-06-02T19:21:13.375+0530","caller":"jobmanager/sse_setup.go:85","msg":"\nJob \u001b[1m\u001b[4m12058884-28b5-4679-bb25-ddc8ccc54206\u001b[24m\u001b[22m has started \u001b[97mRUNNING\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:21:13.375+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=12058884-28b5-4679-bb25-ddc8ccc54206\u001b[0m\u001b[24m\n"}
+{"level":"error","time":"2025-06-02T19:21:16.925+0530","caller":"jobmanager/sse_setup.go:109","msg":"2025-06-02T19:20:17+05:30    error    \u001b[91mERR::JOB::STS\u001b[0m     Job lambda_error!"}
+{"level":"debug","time":"2025-06-02T19:21:16.925+0530","caller":"jobmanager/sse_setup.go:141","msg":"\n\nJob status"}
+{"level":"info","time":"2025-06-02T19:21:16.925+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748872268964826998TIQ has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"info","time":"2025-06-02T19:21:16.926+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748872269020397751ZSB has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"debug","time":"2025-06-02T19:21:16.926+0530","caller":"core/lifecycle.go:875","msg":"Context canceled"}
+{"level":"info","time":"2025-06-02T19:21:16.926+0530","caller":"core/lifecycle.go:878","msg":"\u001b[2mStopping pipeline gracefully\u001b[22m"}
+{"level":"error","time":"2025-06-02T19:21:16.926+0530","caller":"core/lifecycle.go:881","msg":"2025-06-02T19:20:17+05:30    error    Exiting with error: Lambda error found."}
+{"level":"info","time":"2025-06-02T19:21:16.926+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=12058884-28b5-4679-bb25-ddc8ccc54206\u001b[0m\u001b[24m\n"}
+{"level":"debug","time":"2025-06-02T19:21:16.927+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T19:21:16.927+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"info","time":"2025-06-02T19:21:17.578+0530","caller":"jobmanager/JobSummaryManager.go:54","msg":"\n\u001b[101m LAMBDA_ERROR \u001b[0m\n"}
+{"level":"info","time":"2025-06-02T19:21:17.578+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTest Execution Time\u001b[22m:                  \u001b[91m0s\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mJob Duration Time\u001b[22m:                    3s"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Tasks\u001b[22m:                          2"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mCumulative Time Consumed\u001b[22m:             5s"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Stages\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass discovery stage percentage\u001b[22m:      0.00%"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed discovery stage percentage\u001b[22m:    0.00%"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass pre stage percentage\u001b[22m:            0.00%"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed pre stage percentage\u001b[22m:          0.00%"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass test stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed test stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass post stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed post stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed Tasks\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T19:21:17.579+0530","caller":"jobmanager/JobSummaryManager.go:58","msg":""}
+{"level":"debug","time":"2025-06-02T19:21:46.928+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error Lambda error found."}
+{"level":"debug","time":"2025-06-02T19:21:46.928+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T19:24:14.607+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T19:24:15.257+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T19:24:15.257+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWREQQS92WEXZDGB531A2JV9 \n"}
+{"level":"debug","time":"2025-06-02T19:24:17.707+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T19:24:17.719+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T19:24:17.720+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T19:24:17.721+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T19:24:17.723+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T19:24:18.502+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"warn","time":"2025-06-02T19:24:19.164+0530","caller":"yamlconfigmanager/setup.go:1184","msg":"Please ensure the value of testSuiteTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"warn","time":"2025-06-02T19:24:19.165+0530","caller":"yamlconfigmanager/setup.go:1193","msg":"Please ensure the value of globalTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"debug","time":"2025-06-02T19:24:19.165+0530","caller":"yamlconfigmanager/setup.go:541","msg":"Tunnel: %!t(<nil>)"}
+{"level":"info","time":"2025-06-02T19:24:19.165+0530","caller":"models/HypertestYamlConfig.go:874","msg":"\n\u001b[4m\u001b[1m\u001b[97mExecution Plan\u001b[0m\u001b[22m\u001b[24m"}
+{"level":"info","time":"2025-06-02T19:24:19.166+0530","caller":"models/HypertestYamlConfig.go:673","msg":"Mode:    \u001b[36mhybrid\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:24:19.166+0530","caller":"models/HypertestYamlConfig.go:727","msg":"Parallelism:    \u001b[36m Mac - 10  Default - 10\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:24:19.166+0530","caller":"models/HypertestYamlConfig.go:735","msg":"Runson:    \u001b[36m${matrix.os}\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:24:19.166+0530","caller":"models/HypertestYamlConfig.go:743","msg":"Concurrency:    \u001b[36m10\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:24:19.166+0530","caller":"models/HypertestYamlConfig.go:807","msg":"Report:    \u001b[36menabled\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:24:19.166+0530","caller":"models/HypertestYamlConfig.go:839","msg":"Cache Directories:"}
+{"level":"info","time":"2025-06-02T19:24:19.166+0530","caller":"models/HypertestYamlConfig.go:841","msg":"    \u001b[36mnode_modules\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:24:19.166+0530","caller":"models/HypertestYamlConfig.go:887","msg":""}
+{"level":"debug","time":"2025-06-02T19:24:19.166+0530","caller":"filevalidator/setup.go:49","msg":"Warning: Checking data.json file in current directory, no dataJsonPath found in .hyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T19:24:19.167+0530","caller":"filevalidator/setup.go:53","msg":"Warning: data.json file doesn't exist"}
+{"level":"debug","time":"2025-06-02T19:24:19.966+0530","caller":"core/lifecycle.go:517","msg":"Job ID: 81037cfe-8220-4e76-a397-1b62de441bee"}
+{"level":"debug","time":"2025-06-02T19:24:19.966+0530","caller":"core/lifecycle.go:520","msg":"User - eniyan_vetrivel, triggered job with ID 81037cfe-8220-4e76-a397-1b62de441bee from CLI"}
+{"level":"debug","time":"2025-06-02T19:24:19.966+0530","caller":"events/manager.go:95","msg":"Starting event manager"}
+{"level":"debug","time":"2025-06-02T19:24:19.967+0530","caller":"events/manager.go:97","msg":"SSE enabled, getting SSE connection"}
+{"level":"debug","time":"2025-06-02T19:24:19.967+0530","caller":"archivemanager/setup.go:340","msg":"digestMap: map[]"}
+{"level":"debug","time":"2025-06-02T19:24:19.967+0530","caller":"archivemanager/setup.go:346","msg":"Creating archive of target directory: /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"debug","time":"2025-06-02T19:24:20.964+0530","caller":"events/manager.go:277","msg":"connection to hyperexecute server established successfully."}
+{"level":"debug","time":"2025-06-02T19:24:23.647+0530","caller":"core/lifecycle.go:660","msg":"Zip file size: 22.38 MB"}
+{"level":"debug","time":"2025-06-02T19:24:23.647+0530","caller":"core/lifecycle.go:670","msg":"Archive location: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-81037cfe-8220-4e76-a397-1b62de441bee.zip\n"}
+{"level":"debug","time":"2025-06-02T19:24:23.679+0530","caller":"storage/azure.go:59","msg":"Payload size: 22.38 MB, source path /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-81037cfe-8220-4e76-a397-1b62de441bee.zip"}
+{"level":"info","time":"2025-06-02T19:24:47.811+0530","caller":"storage/azure.go:114","msg":"File upload completed in 24.163905125s"}
+{"level":"debug","time":"2025-06-02T19:24:47.812+0530","caller":"receptionmanager/setup.go:267","msg":"number of entries in runtimes: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T19:24:47.812+0530","caller":"receptionmanager/setup.go:296","msg":"number of entries in partialreports: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T19:24:47.814+0530","caller":"receptionmanager/setup.go:184","msg":"Uploading yaml : /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T19:24:47.816+0530","caller":"storage/azure.go:59","msg":"Payload size: 4.83 kB, source path /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"info","time":"2025-06-02T19:24:57.917+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.1035035s"}
+{"level":"debug","time":"2025-06-02T19:24:57.920+0530","caller":"core/lifecycle.go:697","msg":"Successfully deleted code archive: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-81037cfe-8220-4e76-a397-1b62de441bee.zip\n"}
+{"level":"debug","time":"2025-06-02T19:24:57.927+0530","caller":"storage/azure.go:59","msg":"Payload size: 913 B, source path mask-81037cfe-8220-4e76-a397-1b62de441bee.yaml"}
+{"level":"info","time":"2025-06-02T19:25:08.009+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.086455667s"}
+{"level":"debug","time":"2025-06-02T19:25:10.120+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748872508835327115OTW"}
+{"level":"debug","time":"2025-06-02T19:25:10.120+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748872508835327115OTW"}
+{"level":"debug","time":"2025-06-02T19:25:10.120+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748872508896847545MEM"}
+{"level":"debug","time":"2025-06-02T19:25:10.120+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748872508896847545MEM"}
+{"level":"info","time":"2025-06-02T19:25:12.676+0530","caller":"jobmanager/sse_setup.go:85","msg":"\nJob \u001b[1m\u001b[4m81037cfe-8220-4e76-a397-1b62de441bee\u001b[24m\u001b[22m has started \u001b[97mRUNNING\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:25:12.676+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=81037cfe-8220-4e76-a397-1b62de441bee\u001b[0m\u001b[24m\n"}
+{"level":"info","time":"2025-06-02T19:25:16.363+0530","caller":"jobmanager/sse_setup.go:87","msg":"\nJob \u001b[1m\u001b[4m81037cfe-8220-4e76-a397-1b62de441bee\u001b[24m\u001b[22m has \u001b[101m LAMBDA_ERROR \u001b[0m"}
+{"level":"info","time":"2025-06-02T19:25:16.363+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=81037cfe-8220-4e76-a397-1b62de441bee\u001b[0m\u001b[24m\n"}
+{"level":"error","time":"2025-06-02T19:25:16.374+0530","caller":"jobmanager/sse_setup.go:109","msg":"2025-06-02T19:24:13+05:30    error    \u001b[91mERR::JOB::STS\u001b[0m     Job lambda_error!"}
+{"level":"debug","time":"2025-06-02T19:25:16.375+0530","caller":"jobmanager/sse_setup.go:141","msg":"\n\nJob status"}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"jobmanager/sse_setup.go:154","msg":"\n Job Labels: \u001b[103m\u001b[1m\u001b[30mPersonalization Cypress Regression Test\u001b[0m\u001b[22m\u001b[0m "}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"jobmanager/sse_setup.go:156","msg":" ID: 81037cfe-8220-4e76-a397-1b62de441bee\n Status: \u001b[101m LAMBDA_ERROR \u001b[0m\n Remark: Job has ran into a Lambda Error. Platform level issue, please contact support.\n OrgID: 998272\n Created: 2025-06-02 13:54:19 +0000 UTC\n Updated: 2025-06-02 13:55:13 +0000 UTC\n global timeout: 150\n testsuite timeout: 150\n retry on failure: false\n start time: 2025-06-02 13:55:10 +0000 UTC\n end time: 2025-06-02 13:55:13 +0000 UTC\n duration: 3s"}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"jobmanager/sse_setup.go:162","msg":"\n\nTask status\n"}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"jobmanager/sse_setup.go:168","msg":" ID: HYPM-998272-1748872508835327115OTW\n Status: lambda_error\n Remark: Oops! Looks like we were not able to get your test scripts for execution\n Created: 2025-06-02 13:55:09 +0000 UTC\n Updated: 2025-06-02 13:55:13 +0000 UTC\n context: {\"os\": \"mac\", \"_jobId\": \"81037cfe-8220-4e76-a397-1b62de441bee\", \"_taskId\": \"HYPM-998272-1748872508835327115OTW\", \"browser\": \"firefox\", \"_sanctumIntent\": \"hyperexecute-mac\", \"_adbEspressoSupport\": \"true\", \"_whiteLabelProductTag\": \"\"}\n tunnel name: \n os: mac\n start time: 2025-06-02 13:55:11 +0000 UTC\n end time: 2025-06-02 13:55:13 +0000 UTC\n duration: 2s"}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"jobmanager/sse_setup.go:173","msg":"\n"}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"jobmanager/sse_setup.go:168","msg":" ID: HYPM-998272-1748872508896847545MEM\n Status: lambda_error\n Remark: Oops! Looks like we were not able to get your test scripts for execution\n Created: 2025-06-02 13:55:09 +0000 UTC\n Updated: 2025-06-02 13:55:12 +0000 UTC\n context: {\"os\": \"mac\", \"_jobId\": \"81037cfe-8220-4e76-a397-1b62de441bee\", \"_taskId\": \"HYPM-998272-1748872508896847545MEM\", \"browser\": \"chrome\", \"_sanctumIntent\": \"hyperexecute-mac\", \"_adbEspressoSupport\": \"true\", \"_whiteLabelProductTag\": \"\"}\n tunnel name: \n os: mac\n start time: 2025-06-02 13:55:10 +0000 UTC\n end time: 2025-06-02 13:55:12 +0000 UTC\n duration: 2s"}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"jobmanager/sse_setup.go:173","msg":"\n"}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748872508835327115OTW has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"core/lifecycle.go:798","msg":"taskID:HYPM-998272-1748872508896847545MEM has errored with remark: Oops! Looks like we were not able to get your test scripts for execution\n"}
+{"level":"debug","time":"2025-06-02T19:25:16.375+0530","caller":"core/lifecycle.go:875","msg":"Context canceled"}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"core/lifecycle.go:878","msg":"\u001b[2mStopping pipeline gracefully\u001b[22m"}
+{"level":"error","time":"2025-06-02T19:25:16.375+0530","caller":"core/lifecycle.go:881","msg":"2025-06-02T19:24:13+05:30    error    Exiting with error: Lambda error found."}
+{"level":"info","time":"2025-06-02T19:25:16.375+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=81037cfe-8220-4e76-a397-1b62de441bee\u001b[0m\u001b[24m\n"}
+{"level":"debug","time":"2025-06-02T19:25:16.376+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T19:25:16.376+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:54","msg":"\n\u001b[101m LAMBDA_ERROR \u001b[0m\n"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTest Execution Time\u001b[22m:                  \u001b[91m0s\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mJob Duration Time\u001b[22m:                    3s"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Tasks\u001b[22m:                          2"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mCumulative Time Consumed\u001b[22m:             4s"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Stages\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass discovery stage percentage\u001b[22m:      0.00%"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed discovery stage percentage\u001b[22m:    0.00%"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass pre stage percentage\u001b[22m:            0.00%"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed pre stage percentage\u001b[22m:          0.00%"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass test stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed test stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass post stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed post stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T19:25:17.021+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed Tasks\u001b[22m:                         0"}
+{"level":"info","time":"2025-06-02T19:25:17.022+0530","caller":"jobmanager/JobSummaryManager.go:58","msg":""}
+{"level":"debug","time":"2025-06-02T19:25:46.377+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-02T19:25:46.377+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error Lambda error found."}
+{"level":"debug","time":"2025-06-02T19:36:51.796+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-02T19:36:52.448+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-02T19:36:52.449+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWRFEV7MQTPH3S9A7QZWAK70 \n"}
+{"level":"debug","time":"2025-06-02T19:36:54.900+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-02T19:36:54.911+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-02T19:36:54.912+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T19:36:54.912+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-02T19:36:54.914+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-02T19:36:55.685+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"warn","time":"2025-06-02T19:36:56.330+0530","caller":"yamlconfigmanager/setup.go:1184","msg":"Please ensure the value of testSuiteTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"warn","time":"2025-06-02T19:36:56.330+0530","caller":"yamlconfigmanager/setup.go:1193","msg":"Please ensure the value of globalTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"debug","time":"2025-06-02T19:36:56.330+0530","caller":"yamlconfigmanager/setup.go:541","msg":"Tunnel: %!t(<nil>)"}
+{"level":"info","time":"2025-06-02T19:36:56.330+0530","caller":"models/HypertestYamlConfig.go:874","msg":"\n\u001b[4m\u001b[1m\u001b[97mExecution Plan\u001b[0m\u001b[22m\u001b[24m"}
+{"level":"info","time":"2025-06-02T19:36:56.330+0530","caller":"models/HypertestYamlConfig.go:673","msg":"Mode:    \u001b[36mhybrid\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:36:56.330+0530","caller":"models/HypertestYamlConfig.go:727","msg":"Parallelism:    \u001b[36m Mac - 10  Default - 10\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:36:56.330+0530","caller":"models/HypertestYamlConfig.go:735","msg":"Runson:    \u001b[36m${matrix.os}\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:36:56.331+0530","caller":"models/HypertestYamlConfig.go:743","msg":"Concurrency:    \u001b[36m10\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:36:56.331+0530","caller":"models/HypertestYamlConfig.go:807","msg":"Report:    \u001b[36menabled\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:36:56.331+0530","caller":"models/HypertestYamlConfig.go:839","msg":"Cache Directories:"}
+{"level":"info","time":"2025-06-02T19:36:56.331+0530","caller":"models/HypertestYamlConfig.go:841","msg":"    \u001b[36mnode_modules\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:36:56.331+0530","caller":"models/HypertestYamlConfig.go:887","msg":""}
+{"level":"debug","time":"2025-06-02T19:36:56.331+0530","caller":"filevalidator/setup.go:49","msg":"Warning: Checking data.json file in current directory, no dataJsonPath found in .hyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T19:36:56.331+0530","caller":"filevalidator/setup.go:53","msg":"Warning: data.json file doesn't exist"}
+{"level":"debug","time":"2025-06-02T19:36:57.120+0530","caller":"core/lifecycle.go:517","msg":"Job ID: 0a123bd2-8572-4ac7-8728-094cc5ff4a3c"}
+{"level":"debug","time":"2025-06-02T19:36:57.120+0530","caller":"core/lifecycle.go:520","msg":"User - eniyan_vetrivel, triggered job with ID 0a123bd2-8572-4ac7-8728-094cc5ff4a3c from CLI"}
+{"level":"debug","time":"2025-06-02T19:36:57.120+0530","caller":"events/manager.go:95","msg":"Starting event manager"}
+{"level":"debug","time":"2025-06-02T19:36:57.120+0530","caller":"events/manager.go:97","msg":"SSE enabled, getting SSE connection"}
+{"level":"debug","time":"2025-06-02T19:36:57.121+0530","caller":"archivemanager/setup.go:340","msg":"digestMap: map[]"}
+{"level":"debug","time":"2025-06-02T19:36:57.121+0530","caller":"archivemanager/setup.go:346","msg":"Creating archive of target directory: /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"debug","time":"2025-06-02T19:36:57.215+0530","caller":"core/lifecycle.go:660","msg":"Zip file size: 1.80 MB"}
+{"level":"debug","time":"2025-06-02T19:36:57.215+0530","caller":"core/lifecycle.go:670","msg":"Archive location: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-0a123bd2-8572-4ac7-8728-094cc5ff4a3c.zip\n"}
+{"level":"debug","time":"2025-06-02T19:36:57.229+0530","caller":"storage/azure.go:59","msg":"Payload size: 1.80 MB, source path /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-0a123bd2-8572-4ac7-8728-094cc5ff4a3c.zip"}
+{"level":"debug","time":"2025-06-02T19:36:58.140+0530","caller":"events/manager.go:277","msg":"connection to hyperexecute server established successfully."}
+{"level":"info","time":"2025-06-02T19:37:09.329+0530","caller":"storage/azure.go:114","msg":"File upload completed in 12.113918042s"}
+{"level":"debug","time":"2025-06-02T19:37:09.329+0530","caller":"receptionmanager/setup.go:267","msg":"number of entries in runtimes: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T19:37:09.330+0530","caller":"receptionmanager/setup.go:296","msg":"number of entries in partialreports: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-02T19:37:09.331+0530","caller":"receptionmanager/setup.go:184","msg":"Uploading yaml : /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2025-06-02T19:37:09.332+0530","caller":"storage/azure.go:59","msg":"Payload size: 4.83 kB, source path /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"info","time":"2025-06-02T19:37:19.394+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.063666916s"}
+{"level":"debug","time":"2025-06-02T19:37:19.396+0530","caller":"core/lifecycle.go:697","msg":"Successfully deleted code archive: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-0a123bd2-8572-4ac7-8728-094cc5ff4a3c.zip\n"}
+{"level":"debug","time":"2025-06-02T19:37:19.401+0530","caller":"storage/azure.go:59","msg":"Payload size: 913 B, source path mask-0a123bd2-8572-4ac7-8728-094cc5ff4a3c.yaml"}
+{"level":"info","time":"2025-06-02T19:37:29.477+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.079168584s"}
+{"level":"debug","time":"2025-06-02T19:37:31.460+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748873250221856370CSL"}
+{"level":"debug","time":"2025-06-02T19:37:31.460+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748873250221856370CSL"}
+{"level":"debug","time":"2025-06-02T19:37:31.460+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748873250269456535NAU"}
+{"level":"debug","time":"2025-06-02T19:37:31.460+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748873250269456535NAU"}
+{"level":"info","time":"2025-06-02T19:37:33.435+0530","caller":"jobmanager/sse_setup.go:85","msg":"\nJob \u001b[1m\u001b[4m0a123bd2-8572-4ac7-8728-094cc5ff4a3c\u001b[24m\u001b[22m has started \u001b[97mRUNNING\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:37:33.435+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=0a123bd2-8572-4ac7-8728-094cc5ff4a3c\u001b[0m\u001b[24m\n"}
+{"level":"info","time":"2025-06-02T19:37:34.067+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [1]  \u001b[2mcache-download (2s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-02T19:37:35.880+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [2]  \u001b[2mcache-download (3s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-02T19:38:00.485+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [2]  \u001b[2mpre (24s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-02T19:38:01.188+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [2]  \u001b[2mdiscovery (1s)\u001b[22m\n"}
+{"level":"debug","time":"2025-06-02T19:38:07.334+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748873286170756551MYA"}
+{"level":"debug","time":"2025-06-02T19:38:07.335+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748873286170756551MYA"}
+{"level":"info","time":"2025-06-02T19:38:07.828+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [1]  \u001b[2mpre (34s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-02T19:38:08.122+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [1]  \u001b[2mdiscovery (1s)\u001b[22m\n"}
+{"level":"debug","time":"2025-06-02T19:38:10.833+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748873289664259479KTD"}
+{"level":"debug","time":"2025-06-02T19:38:10.833+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748873289664259479KTD"}
+{"level":"info","time":"2025-06-02T19:38:13.030+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [3]  \u001b[2mcache-download (2s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-02T19:38:16.152+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [4]  \u001b[2mcache-download (2s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-02T19:38:45.488+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [3]  \u001b[2mpre (32s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-02T19:39:26.233+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [4]  \u001b[2mpre (1m10s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-02T19:39:39.705+0530","caller":"terminal/terminal.go:187","msg":"\u001b[91mx\u001b[0m [3]  \u001b[2mRunning on macOS (49s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-02T19:40:32.546+0530","caller":"terminal/terminal.go:187","msg":"\u001b[91mx\u001b[0m [4]  \u001b[2mRunning on macOS (1m2s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-02T19:40:35.415+0530","caller":"jobmanager/sse_setup.go:87","msg":"\nJob \u001b[1m\u001b[4m0a123bd2-8572-4ac7-8728-094cc5ff4a3c\u001b[24m\u001b[22m has \u001b[101m FAILED \u001b[0m"}
+{"level":"info","time":"2025-06-02T19:40:35.416+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=0a123bd2-8572-4ac7-8728-094cc5ff4a3c\u001b[0m\u001b[24m\n"}
+{"level":"error","time":"2025-06-02T19:40:35.427+0530","caller":"jobmanager/sse_setup.go:128","msg":"2025-06-02T19:36:51+05:30    error    \u001b[91mERR::JOB::STS\u001b[0m     Job failed!"}
+{"level":"debug","time":"2025-06-02T19:40:35.427+0530","caller":"jobmanager/sse_setup.go:141","msg":"\n\nJob status"}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:154","msg":"\n Job Labels: \u001b[103m\u001b[1m\u001b[30mPersonalization Cypress Regression Test\u001b[0m\u001b[22m\u001b[0m "}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:156","msg":" ID: 0a123bd2-8572-4ac7-8728-094cc5ff4a3c\n Status: \u001b[101m FAILED \u001b[0m\n Remark: Job failed as encountered a Test level failure\n OrgID: 998272\n Created: 2025-06-02 14:06:57 +0000 UTC\n Updated: 2025-06-02 14:10:32 +0000 UTC\n global timeout: 150\n testsuite timeout: 150\n retry on failure: false\n start time: 2025-06-02 14:07:31 +0000 UTC\n end time: 2025-06-02 14:10:32 +0000 UTC\n duration: 3m1s"}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:162","msg":"\n\nTask status\n"}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:168","msg":" ID: HYPM-998272-1748873250221856370CSL\n Status: completed\n Remark: completed\n Created: 2025-06-02 14:07:30 +0000 UTC\n Updated: 2025-06-02 14:08:09 +0000 UTC\n context: {\"os\": \"mac\", \"_jobId\": \"0a123bd2-8572-4ac7-8728-094cc5ff4a3c\", \"_taskId\": \"HYPM-998272-1748873250221856370CSL\", \"browser\": \"firefox\", \"_sanctumIntent\": \"hyperexecute-mac\", \"_adbEspressoSupport\": \"true\", \"_whiteLabelProductTag\": \"\"}\n tunnel name: \n os: mac\n start time: 2025-06-02 14:07:31 +0000 UTC\n end time: 2025-06-02 14:08:09 +0000 UTC\n duration: 38s"}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:173","msg":"\n"}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:168","msg":" ID: HYPM-998272-1748873250269456535NAU\n Status: completed\n Remark: completed\n Created: 2025-06-02 14:07:30 +0000 UTC\n Updated: 2025-06-02 14:08:06 +0000 UTC\n context: {\"os\": \"mac\", \"_jobId\": \"0a123bd2-8572-4ac7-8728-094cc5ff4a3c\", \"_taskId\": \"HYPM-998272-1748873250269456535NAU\", \"browser\": \"chrome\", \"_sanctumIntent\": \"hyperexecute-mac\", \"_adbEspressoSupport\": \"true\", \"_whiteLabelProductTag\": \"\"}\n tunnel name: \n os: mac\n start time: 2025-06-02 14:07:32 +0000 UTC\n end time: 2025-06-02 14:08:06 +0000 UTC\n duration: 34s"}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:173","msg":"\n"}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:168","msg":" ID: HYPM-998272-1748873286170756551MYA\n Status: failed\n Remark: Job failed as encountered a Test level failure\n Created: 2025-06-02 14:08:06 +0000 UTC\n Updated: 2025-06-02 14:09:39 +0000 UTC\n context: {\"os\": \"mac\", \"_jobId\": \"0a123bd2-8572-4ac7-8728-094cc5ff4a3c\", \"_taskId\": \"HYPM-998272-1748873286170756551MYA\", \"browser\": \"chrome\", \"_sanctumIntent\": \"hyperexecute-mac\", \"_adbEspressoSupport\": \"true\", \"_whiteLabelProductTag\": \"\"}\n tunnel name: \n os: mac\n start time: 2025-06-02 14:08:08 +0000 UTC\n end time: 2025-06-02 14:09:39 +0000 UTC\n duration: 1m31s"}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:173","msg":"\n"}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:168","msg":" ID: HYPM-998272-1748873289664259479KTD\n Status: failed\n Remark: Job failed as encountered a Test level failure\n Created: 2025-06-02 14:08:09 +0000 UTC\n Updated: 2025-06-02 14:10:32 +0000 UTC\n context: {\"os\": \"mac\", \"_jobId\": \"0a123bd2-8572-4ac7-8728-094cc5ff4a3c\", \"_taskId\": \"HYPM-998272-1748873289664259479KTD\", \"browser\": \"firefox\", \"_sanctumIntent\": \"hyperexecute-mac\", \"_adbEspressoSupport\": \"true\", \"_whiteLabelProductTag\": \"\"}\n tunnel name: \n os: mac\n start time: 2025-06-02 14:08:11 +0000 UTC\n end time: 2025-06-02 14:10:32 +0000 UTC\n duration: 2m21s"}
+{"level":"info","time":"2025-06-02T19:40:35.428+0530","caller":"jobmanager/sse_setup.go:173","msg":"\n"}
+{"level":"info","time":"2025-06-02T19:40:35.429+0530","caller":"core/lifecycle.go:782","msg":"taskId:HYPM-998272-1748873286170756551MYA has failed with remark: Job failed as encountered a Test level failure\n"}
+{"level":"info","time":"2025-06-02T19:40:35.429+0530","caller":"core/lifecycle.go:782","msg":"taskId:HYPM-998272-1748873289664259479KTD has failed with remark: Job failed as encountered a Test level failure\n"}
+{"level":"debug","time":"2025-06-02T19:40:35.430+0530","caller":"core/lifecycle.go:875","msg":"Context canceled"}
+{"level":"info","time":"2025-06-02T19:40:35.430+0530","caller":"core/lifecycle.go:878","msg":"\u001b[2mStopping pipeline gracefully\u001b[22m"}
+{"level":"error","time":"2025-06-02T19:40:35.430+0530","caller":"core/lifecycle.go:881","msg":"2025-06-02T19:36:51+05:30    error    Exiting with error: Failed tasks found."}
+{"level":"info","time":"2025-06-02T19:40:35.430+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=0a123bd2-8572-4ac7-8728-094cc5ff4a3c\u001b[0m\u001b[24m\n"}
+{"level":"debug","time":"2025-06-02T19:40:35.430+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-02T19:40:35.430+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"info","time":"2025-06-02T19:40:36.089+0530","caller":"jobmanager/JobSummaryManager.go:54","msg":"\n\u001b[101m FAILED \u001b[0m\n"}
+{"level":"info","time":"2025-06-02T19:40:36.089+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTest Execution Time\u001b[22m:                  \u001b[91m1m38s\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mJob Duration Time\u001b[22m:                    3m1s"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Tasks\u001b[22m:                          4"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mCumulative Time Consumed\u001b[22m:             5m4s"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Stages\u001b[22m:                         8"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass discovery stage percentage\u001b[22m:      100.00%"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed discovery stage percentage\u001b[22m:    0.00%"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass pre stage percentage\u001b[22m:            \u001b[92m100.00%\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed pre stage percentage\u001b[22m:          0.00%"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass test stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed test stage percentage\u001b[22m:         \u001b[91m100.00%\u001b[0m"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass post stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed post stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed Tasks\u001b[22m:                         2"}
+{"level":"info","time":"2025-06-02T19:40:36.090+0530","caller":"jobmanager/JobSummaryManager.go:58","msg":""}
+{"level":"debug","time":"2025-06-02T19:41:05.432+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error Failed tasks found."}
+{"level":"debug","time":"2025-06-02T19:41:05.432+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}
+{"level":"debug","time":"2025-06-03T15:10:21.743+0530","caller":"cmd/bin.go:144","msg":"cli os: darwin, cli arch: arm64"}
+{"level":"debug","time":"2025-06-03T15:10:24.363+0530","caller":"cmd/bin.go:153","msg":"Upstream version details: {Name:cli Min:0.2.195 Max:0.2.279} "}
+{"level":"info","time":"2025-06-03T15:10:24.363+0530","caller":"cmd/bin.go:201","msg":"Generating TraceID for tracking request: 01JWTJKG5FGG4DSPPMZ8CFM0Q6 \n"}
+{"level":"debug","time":"2025-06-03T15:10:29.299+0530","caller":"core/lifecycle.go:108","msg":"Setting environment"}
+{"level":"debug","time":"2025-06-03T15:10:29.301+0530","caller":"core/lifecycle.go:111","msg":"Parsing config"}
+{"level":"debug","time":"2025-06-03T15:10:29.301+0530","caller":"yamlconfigmanager/setup.go:719","msg":"Custom location for .hyperexecute.yaml specified. Using: hyperexe.yml"}
+{"level":"debug","time":"2025-06-03T15:10:29.301+0530","caller":"yamlconfigmanager/setup.go:117","msg":"using hyperexecute config from : hyperexe.yml"}
+{"level":"debug","time":"2025-06-03T15:10:29.305+0530","caller":"yamlconfigmanager/setup.go:1882","msg":"Environment variable not set against the variable - matrix.os mentioned in yaml"}
+{"level":"debug","time":"2025-06-03T15:10:33.897+0530","caller":"yamlconfigmanager/setup.go:2119","msg":"Autodetecting test type in files of path : /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"warn","time":"2025-06-03T15:10:35.853+0530","caller":"yamlconfigmanager/setup.go:1184","msg":"Please ensure the value of testSuiteTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"warn","time":"2025-06-03T15:10:35.854+0530","caller":"yamlconfigmanager/setup.go:1193","msg":"Please ensure the value of globalTimeout is set within 150 min. Overriding the specified value to 150 min."}
+{"level":"debug","time":"2025-06-03T15:10:35.854+0530","caller":"yamlconfigmanager/setup.go:541","msg":"Tunnel: %!t(<nil>)"}
+{"level":"info","time":"2025-06-03T15:10:35.854+0530","caller":"models/HypertestYamlConfig.go:874","msg":"\n\u001b[4m\u001b[1m\u001b[97mExecution Plan\u001b[0m\u001b[22m\u001b[24m"}
+{"level":"info","time":"2025-06-03T15:10:35.854+0530","caller":"models/HypertestYamlConfig.go:673","msg":"Mode:    \u001b[36mhybrid\u001b[0m"}
+{"level":"info","time":"2025-06-03T15:10:35.854+0530","caller":"models/HypertestYamlConfig.go:727","msg":"Parallelism:    \u001b[36m Mac - 10  Default - 10\u001b[0m"}
+{"level":"info","time":"2025-06-03T15:10:35.854+0530","caller":"models/HypertestYamlConfig.go:735","msg":"Runson:    \u001b[36m${matrix.os}\u001b[0m"}
+{"level":"info","time":"2025-06-03T15:10:35.854+0530","caller":"models/HypertestYamlConfig.go:743","msg":"Concurrency:    \u001b[36m10\u001b[0m"}
+{"level":"info","time":"2025-06-03T15:10:35.854+0530","caller":"models/HypertestYamlConfig.go:807","msg":"Report:    \u001b[36menabled\u001b[0m"}
+{"level":"info","time":"2025-06-03T15:10:35.854+0530","caller":"models/HypertestYamlConfig.go:839","msg":"Cache Directories:"}
+{"level":"info","time":"2025-06-03T15:10:35.854+0530","caller":"models/HypertestYamlConfig.go:841","msg":"    \u001b[36mnode_modules\u001b[0m"}
+{"level":"info","time":"2025-06-03T15:10:35.855+0530","caller":"models/HypertestYamlConfig.go:887","msg":""}
+{"level":"debug","time":"2025-06-03T15:10:35.855+0530","caller":"filevalidator/setup.go:49","msg":"Warning: Checking data.json file in current directory, no dataJsonPath found in .hyperexecute.yaml"}
+{"level":"debug","time":"2025-06-03T15:10:35.855+0530","caller":"filevalidator/setup.go:53","msg":"Warning: data.json file doesn't exist"}
+{"level":"debug","time":"2025-06-03T15:10:38.003+0530","caller":"core/lifecycle.go:517","msg":"Job ID: aef2695a-d9eb-4e53-8ade-88b5feb54233"}
+{"level":"debug","time":"2025-06-03T15:10:38.003+0530","caller":"core/lifecycle.go:520","msg":"User - eniyan_vetrivel, triggered job with ID aef2695a-d9eb-4e53-8ade-88b5feb54233 from CLI"}
+{"level":"debug","time":"2025-06-03T15:10:38.003+0530","caller":"events/manager.go:95","msg":"Starting event manager"}
+{"level":"debug","time":"2025-06-03T15:10:38.003+0530","caller":"events/manager.go:97","msg":"SSE enabled, getting SSE connection"}
+{"level":"debug","time":"2025-06-03T15:10:38.005+0530","caller":"archivemanager/setup.go:340","msg":"digestMap: map[]"}
+{"level":"debug","time":"2025-06-03T15:10:38.005+0530","caller":"archivemanager/setup.go:346","msg":"Creating archive of target directory: /Users/evetrivel/Documents/cypress-api-test"}
+{"level":"debug","time":"2025-06-03T15:10:38.241+0530","caller":"core/lifecycle.go:660","msg":"Zip file size: 1.80 MB"}
+{"level":"debug","time":"2025-06-03T15:10:38.241+0530","caller":"core/lifecycle.go:670","msg":"Archive location: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-aef2695a-d9eb-4e53-8ade-88b5feb54233.zip\n"}
+{"level":"debug","time":"2025-06-03T15:10:38.255+0530","caller":"storage/azure.go:59","msg":"Payload size: 1.80 MB, source path /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-aef2695a-d9eb-4e53-8ade-88b5feb54233.zip"}
+{"level":"debug","time":"2025-06-03T15:10:39.330+0530","caller":"events/manager.go:277","msg":"connection to hyperexecute server established successfully."}
+{"level":"info","time":"2025-06-03T15:10:52.381+0530","caller":"storage/azure.go:114","msg":"File upload completed in 14.140437916s"}
+{"level":"debug","time":"2025-06-03T15:10:52.382+0530","caller":"receptionmanager/setup.go:267","msg":"number of entries in runtimes: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-03T15:10:52.382+0530","caller":"receptionmanager/setup.go:296","msg":"number of entries in partialreports: 0, switching to new yaml format"}
+{"level":"debug","time":"2025-06-03T15:10:52.384+0530","caller":"receptionmanager/setup.go:184","msg":"Uploading yaml : /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2025-06-03T15:10:52.385+0530","caller":"storage/azure.go:59","msg":"Payload size: 4.83 kB, source path /Users/evetrivel/Documents/cypress-api-test/.updatedhyperexecute.yaml"}
+{"level":"info","time":"2025-06-03T15:11:02.451+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.066523833s"}
+{"level":"debug","time":"2025-06-03T15:11:02.456+0530","caller":"core/lifecycle.go:697","msg":"Successfully deleted code archive: /Users/evetrivel/Documents/cypress-api-test/hyperexecute-code-aef2695a-d9eb-4e53-8ade-88b5feb54233.zip\n"}
+{"level":"debug","time":"2025-06-03T15:11:02.462+0530","caller":"storage/azure.go:59","msg":"Payload size: 913 B, source path mask-aef2695a-d9eb-4e53-8ade-88b5feb54233.yaml"}
+{"level":"info","time":"2025-06-03T15:11:12.509+0530","caller":"storage/azure.go:114","msg":"File upload completed in 10.051052291s"}
+{"level":"debug","time":"2025-06-03T15:11:14.663+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748943673335429353JTU"}
+{"level":"debug","time":"2025-06-03T15:11:14.664+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748943673335429353JTU"}
+{"level":"debug","time":"2025-06-03T15:11:14.664+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748943673379581947YHK"}
+{"level":"debug","time":"2025-06-03T15:11:14.664+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748943673379581947YHK"}
+{"level":"info","time":"2025-06-03T15:11:16.972+0530","caller":"jobmanager/sse_setup.go:85","msg":"\nJob \u001b[1m\u001b[4maef2695a-d9eb-4e53-8ade-88b5feb54233\u001b[24m\u001b[22m has started \u001b[97mRUNNING\u001b[0m"}
+{"level":"info","time":"2025-06-03T15:11:16.972+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=aef2695a-d9eb-4e53-8ade-88b5feb54233\u001b[0m\u001b[24m\n"}
+{"level":"info","time":"2025-06-03T15:11:21.012+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [1]  \u001b[2mcache-download (5s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-03T15:11:26.951+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [2]  \u001b[2mcache-download (9s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-03T15:11:48.954+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [1]  \u001b[2mpre (29s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-03T15:11:49.204+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [1]  \u001b[2mdiscovery (1s)\u001b[22m\n"}
+{"level":"debug","time":"2025-06-03T15:11:49.531+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748943708231997209UYT"}
+{"level":"debug","time":"2025-06-03T15:11:49.531+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748943708231997209UYT"}
+{"level":"info","time":"2025-06-03T15:11:57.365+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [2]  \u001b[2mpre (30s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-03T15:11:58.093+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [2]  \u001b[2mdiscovery (1s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-03T15:11:58.284+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [3]  \u001b[2mcache-download (5s)\u001b[22m\n"}
+{"level":"debug","time":"2025-06-03T15:11:58.478+0530","caller":"jobmanager/sse_setup.go:199","msg":"Task id: HYPM-998272-1748943717230200058UTF"}
+{"level":"debug","time":"2025-06-03T15:11:58.478+0530","caller":"jobmanager/sse_setup.go:200","msg":"Sending new task alert to stage manager for taskId: HYPM-998272-1748943717230200058UTF"}
+{"level":"info","time":"2025-06-03T15:12:04.991+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [4]  \u001b[2mcache-download (5s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-03T15:12:26.953+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [3]  \u001b[2mpre (29s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-03T15:12:33.265+0530","caller":"terminal/terminal.go:187","msg":"\u001b[32m✔\u001b[0m [4]  \u001b[2mpre (29s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-03T15:13:22.566+0530","caller":"terminal/terminal.go:187","msg":"\u001b[91mx\u001b[0m [4]  \u001b[2mRunning on macOS (46s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-03T15:13:39.356+0530","caller":"terminal/terminal.go:187","msg":"\u001b[91mx\u001b[0m [3]  \u001b[2mRunning on macOS (1m8s)\u001b[22m\n"}
+{"level":"info","time":"2025-06-03T15:13:42.026+0530","caller":"jobmanager/sse_setup.go:87","msg":"\nJob \u001b[1m\u001b[4maef2695a-d9eb-4e53-8ade-88b5feb54233\u001b[24m\u001b[22m has \u001b[101m FAILED \u001b[0m"}
+{"level":"info","time":"2025-06-03T15:13:42.026+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=aef2695a-d9eb-4e53-8ade-88b5feb54233\u001b[0m\u001b[24m\n"}
+{"level":"error","time":"2025-06-03T15:13:42.037+0530","caller":"jobmanager/sse_setup.go:128","msg":"2025-06-03T15:10:18+05:30    error    \u001b[91mERR::JOB::STS\u001b[0m     Job failed!"}
+{"level":"debug","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:141","msg":"\n\nJob status"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:154","msg":"\n Job Labels: \u001b[103m\u001b[1m\u001b[30mPersonalization Cypress Regression Test\u001b[0m\u001b[22m\u001b[0m "}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:156","msg":" ID: aef2695a-d9eb-4e53-8ade-88b5feb54233\n Status: \u001b[101m FAILED \u001b[0m\n Remark: Job failed as encountered a Test level failure\n OrgID: 998272\n Created: 2025-06-03 09:40:36 +0000 UTC\n Updated: 2025-06-03 09:43:39 +0000 UTC\n global timeout: 150\n testsuite timeout: 150\n retry on failure: false\n start time: 2025-06-03 09:41:14 +0000 UTC\n end time: 2025-06-03 09:43:39 +0000 UTC\n duration: 2m25s"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:162","msg":"\n\nTask status\n"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:168","msg":" ID: HYPM-998272-1748943673335429353JTU\n Status: completed\n Remark: completed\n Created: 2025-06-03 09:41:13 +0000 UTC\n Updated: 2025-06-03 09:41:48 +0000 UTC\n context: {\"os\": \"mac\", \"_jobId\": \"aef2695a-d9eb-4e53-8ade-88b5feb54233\", \"_taskId\": \"HYPM-998272-1748943673335429353JTU\", \"browser\": \"firefox\", \"_sanctumIntent\": \"hyperexecute-mac\", \"_adbEspressoSupport\": \"true\", \"_whiteLabelProductTag\": \"\"}\n tunnel name: \n os: mac\n start time: 2025-06-03 09:41:14 +0000 UTC\n end time: 2025-06-03 09:41:48 +0000 UTC\n duration: 34s"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:173","msg":"\n"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:168","msg":" ID: HYPM-998272-1748943673379581947YHK\n Status: completed\n Remark: completed\n Created: 2025-06-03 09:41:13 +0000 UTC\n Updated: 2025-06-03 09:41:57 +0000 UTC\n context: {\"os\": \"mac\", \"_jobId\": \"aef2695a-d9eb-4e53-8ade-88b5feb54233\", \"_taskId\": \"HYPM-998272-1748943673379581947YHK\", \"browser\": \"chrome\", \"_sanctumIntent\": \"hyperexecute-mac\", \"_adbEspressoSupport\": \"true\", \"_whiteLabelProductTag\": \"\"}\n tunnel name: \n os: mac\n start time: 2025-06-03 09:41:16 +0000 UTC\n end time: 2025-06-03 09:41:57 +0000 UTC\n duration: 41s"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:173","msg":"\n"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:168","msg":" ID: HYPM-998272-1748943708231997209UYT\n Status: failed\n Remark: Job failed as encountered a Test level failure\n Created: 2025-06-03 09:41:48 +0000 UTC\n Updated: 2025-06-03 09:43:39 +0000 UTC\n context: {\"os\": \"mac\", \"_jobId\": \"aef2695a-d9eb-4e53-8ade-88b5feb54233\", \"_taskId\": \"HYPM-998272-1748943708231997209UYT\", \"browser\": \"firefox\", \"_sanctumIntent\": \"hyperexecute-mac\", \"_adbEspressoSupport\": \"true\", \"_whiteLabelProductTag\": \"\"}\n tunnel name: \n os: mac\n start time: 2025-06-03 09:41:50 +0000 UTC\n end time: 2025-06-03 09:43:39 +0000 UTC\n duration: 1m49s"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:173","msg":"\n"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:168","msg":" ID: HYPM-998272-1748943717230200058UTF\n Status: failed\n Remark: Job failed as encountered a Test level failure\n Created: 2025-06-03 09:41:57 +0000 UTC\n Updated: 2025-06-03 09:43:21 +0000 UTC\n context: {\"os\": \"mac\", \"_jobId\": \"aef2695a-d9eb-4e53-8ade-88b5feb54233\", \"_taskId\": \"HYPM-998272-1748943717230200058UTF\", \"browser\": \"chrome\", \"_sanctumIntent\": \"hyperexecute-mac\", \"_adbEspressoSupport\": \"true\", \"_whiteLabelProductTag\": \"\"}\n tunnel name: \n os: mac\n start time: 2025-06-03 09:41:58 +0000 UTC\n end time: 2025-06-03 09:43:21 +0000 UTC\n duration: 1m23s"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"jobmanager/sse_setup.go:173","msg":"\n"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"core/lifecycle.go:782","msg":"taskId:HYPM-998272-1748943708231997209UYT has failed with remark: Job failed as encountered a Test level failure\n"}
+{"level":"info","time":"2025-06-03T15:13:42.039+0530","caller":"core/lifecycle.go:782","msg":"taskId:HYPM-998272-1748943717230200058UTF has failed with remark: Job failed as encountered a Test level failure\n"}
+{"level":"debug","time":"2025-06-03T15:13:42.040+0530","caller":"core/lifecycle.go:875","msg":"Context canceled"}
+{"level":"info","time":"2025-06-03T15:13:42.040+0530","caller":"core/lifecycle.go:878","msg":"\u001b[2mStopping pipeline gracefully\u001b[22m"}
+{"level":"error","time":"2025-06-03T15:13:42.040+0530","caller":"core/lifecycle.go:881","msg":"2025-06-03T15:10:18+05:30    error    Exiting with error: Failed tasks found."}
+{"level":"info","time":"2025-06-03T15:13:42.040+0530","caller":"jobmanager/manager.go:143","msg":"Job Link: \u001b[4m\u001b[34mhttps://hyperexecute.lambdatest.com/hyperexecute/task?jobId=aef2695a-d9eb-4e53-8ade-88b5feb54233\u001b[0m\u001b[24m\n"}
+{"level":"debug","time":"2025-06-03T15:13:42.041+0530","caller":"core/lifecycle.go:59","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2025-06-03T15:13:42.041+0530","caller":"core/lifecycle.go:60","msg":"Waiting for the goroutines to exit"}
+{"level":"info","time":"2025-06-03T15:13:42.725+0530","caller":"jobmanager/JobSummaryManager.go:54","msg":"\n\u001b[101m FAILED \u001b[0m\n"}
+{"level":"info","time":"2025-06-03T15:13:42.725+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTest Execution Time\u001b[22m:                  \u001b[91m1m4s\u001b[0m"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mJob Duration Time\u001b[22m:                    2m25s"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Tasks\u001b[22m:                          4"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mCumulative Time Consumed\u001b[22m:             4m27s"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mTotal Stages\u001b[22m:                         8"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass discovery stage percentage\u001b[22m:      100.00%"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed discovery stage percentage\u001b[22m:    0.00%"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass pre stage percentage\u001b[22m:            \u001b[92m100.00%\u001b[0m"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed pre stage percentage\u001b[22m:          0.00%"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass test stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed test stage percentage\u001b[22m:         \u001b[91m100.00%\u001b[0m"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mPass post stage percentage\u001b[22m:           0.00%"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed post stage percentage\u001b[22m:         0.00%"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:113","msg":"    \u001b[1mFailed Tasks\u001b[22m:                         2"}
+{"level":"info","time":"2025-06-03T15:13:42.726+0530","caller":"jobmanager/JobSummaryManager.go:58","msg":""}
+{"level":"debug","time":"2025-06-03T15:14:12.041+0530","caller":"cmd/bin.go:397","msg":"Exiting application due to error Failed tasks found."}
+{"level":"debug","time":"2025-06-03T15:14:12.041+0530","caller":"cmd/bin.go:358","msg":"main: all goroutines have finished."}

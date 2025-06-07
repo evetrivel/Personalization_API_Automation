@@ -1,0 +1,542 @@
+[
+  {
+    "TestCase_ID": "ID_01",
+    "Brand": "allure",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "en-US",
+    "pagesize": 5,
+"numberOfDays":"-90",
+    "copilotId": "5cbe1a3b1e1ec0febc45524e",
+    "url": "https://www.allure.com",
+    "applicationID": "allure-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "allure",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_02",
+    "Brand": "glamour",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "en-US",
+    "pagesize": 5,
+"numberOfDays":"-90",
+    "copilotId": "67b96f4519bbbbe8d394514e",
+    "url": "https://www.glamour.com",
+    "applicationID": "glamour-article-bottom-recirc-multitype",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "glamour",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_03",
+    "Brand": "pitchfork",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "en-US",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "67a2401ffc488919209d5fa4",
+    "url": "https://www.pitchfork.com",
+    "applicationID": "pitchfork-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "pitchfork",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_04",
+    "Brand": "self",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "en-US",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "679a62525acd89d8c8cc8c6a",
+    "url": "https://www.self.com",
+    "applicationID": "self-trending-legacy",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "self",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_05",
+    "Brand": "architectural-digest",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "en-US",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "66c607a435401398ceafd5c7",
+    "url": "https://www.architectural-digest.com",
+    "applicationID": "architectural-digest-nativearticle-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "architectural-digest",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_06",
+    "Brand": "them",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "en-US",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "67ceeaf27dcf1808ef029566",
+    "url": "https://www.them.com",
+    "applicationID": "cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_07",
+    "Brand": "vanityfair",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "en-US",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "67be1a21cd12893e04087bed",
+    "url": "https://www.vanityfair.com",
+    "applicationID": "vanity-fair-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "vanity-fair",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_08",
+    "Brand": "bon-appetit",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "en-US",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "608323a9cf4acbdbd38e8130",
+    "url": "https://www.bon-appetit.com",
+    "applicationID": "bon-appetit-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "bon-appetit",
+      "language": "en-US"
+    }
+},
+    
+  
+  {
+    "TestCase_ID": "ID_10",
+    "Brand": "gq-italia",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "it-IT",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "67cab7457aafff432b4aa48d",
+    "url": "https://www.gq.com",
+    "applicationID": "gq-italia-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "gq-italia",
+      "language": "it-IT"
+    }
+  },
+  {
+    "TestCase_ID": "ID_11",
+    "Brand": "vogue-tw",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "zh-Hant-TW",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "67ce91e46780fd1e556f1d19",
+    "url": "https://www.vogue.com",
+    "applicationID": "vogue-tw-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "vogue-tw",
+      "language": "zh-Hant-TW"
+    }
+  },
+  {
+    "TestCase_ID": "ID_12",
+    "Brand": "gq-de",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "de-DE",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "67129e6d52f447b58341369c",
+    "url": "https://www.gq.com",
+    "applicationID": "gq-de-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "gq-de",
+      "language": "de-DE"
+    }
+  },
+  {
+    "TestCase_ID": "ID_13",
+    "Brand": "ad-de",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "de-DE",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "66c607a435401398ceafd5c7",
+    "url": "https://www.ad.com",
+    "applicationID": "ad-de-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "ad-de",
+      "language": "ad-DE"
+    }
+  },
+  {
+    "TestCase_ID": "ID_14",
+    "Brand": "wired-jp",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "language": "ja-JP",
+    "pagesize": 5,
+
+"numberOfDays":"-90",
+    "copilotId": "67ce7e2795cfbfc5dc0402c2",
+    "url": "https://www.wired.com",
+    "applicationID": "wired-jp-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*"
+      ],
+      "brand": "wired-jp",
+      "language": "ja-JP"
+    }
+  },{
+   "TestCase_ID": "ID_09",
+   "Brand": "gq",
+   "ContentType": "ARTICLE,GALLERY,REVIEW",
+   "language": "fr-FR",
+   "pagesize": 5,
+
+
+"numberOfDays":"-90",
+   "copilotId": "64c39e0d70e066cff963065a",
+   "url": "https://www.gqmagazine.fr/",
+   "applicationID": "gq-verso-hp-trending",
+   "debug": true,
+   "skipCache": true,
+   "Expected Results": {
+     "strategy": [
+       "popular4_2", "text2vec1", "similar2_3",
+       "entity_topic_similarity_v2", "roberta_similarity1",
+       "cral2_2", "cral_top2_2"
+     ],
+     "url": [
+       "*popular4-2*", "*text2vec1*", "*similar2-3*",
+       "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+       "*cral2-2*", "*cral-top2-2*"
+     ],
+     "brand": "gq",
+     "language": "en-US"
+   }
+ },
+
+
+{
+   "TestCase_ID": "ID_15",
+   "Brand": "epicurious",
+   "ContentType": "ARTICLE,GALLERY,REVIEW",
+   "language": "en-US",
+   "pagesize": 5,
+
+
+"numberOfDays":"-90",
+   "copilotId": "54a4605e19925f464b394f5b",
+   "url": "https://www.epicurious.com",
+   "applicationID": "epicurious-bottom-recirc",
+   "debug": true,
+   "skipCache": true,
+   "Expected Results": {
+     "strategy": [
+       "popular4_2", "text2vec1", "similar2_3",
+       "entity_topic_similarity_v2", "roberta_similarity1",
+       "cral2_2", "cral_top2_2"
+     ],
+     "url": [
+       "*popular4-2*", "*text2vec1*", "*similar2-3*",
+       "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+       "*cral2-2*", "*cral-top2-2*"
+     ],
+     "brand": "epicurious",
+     "language": "en-US"
+   }
+ },
+
+
+{
+   "TestCase_ID": "ID_16",
+   "Brand": "glamour",
+   "ContentType": "ARTICLE,GALLERY,REVIEW",
+   "language": "en-US",
+   "pagesize": 5,
+
+
+"numberOfDays":"-90",
+   "copilotId": "67b96f4519bbbbe8d394514e",
+   "url": "https://www.glamour.com",
+   "applicationID": "glamour-article-bottom-recirc-multitype",
+   "debug": true,
+   "skipCache": true,
+   "Expected Results": {
+     "strategy": [
+       "popular4_2", "text2vec1", "similar2_3",
+       "entity_topic_similarity_v2", "roberta_similarity1",
+       "cral2_2", "cral_top2_2"
+     ],
+     "url": [
+       "*popular4-2*", "*text2vec1*", "*similar2-3*",
+       "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+       "*cral2-2*", "*cral-top2-2*"
+     ],
+     "brand": "glamour",
+     "language": "en-US"
+   }
+ },
+
+ {
+   "TestCase_ID": "ID_17",
+   "Brand": "vogue-uk",
+   "ContentType": "ARTICLE,GALLERY,REVIEW",
+   "language": "en-GB",
+   "pagesize": 5,
+
+
+"numberOfDays":"-90",
+   "copilotId": "67cc5a167dcf83d65d6c7a02",
+   "url": "https://www.vogue.co.uk",
+   "applicationID": "vogue-uk-bottom-recirc",
+   "debug": true,
+   "skipCache": true,
+   "Expected Results": {
+     "strategy": [
+       "popular4_2", "text2vec1", "similar2_3",
+       "entity_topic_similarity_v2", "roberta_similarity1",
+       "cral2_2", "cral_top2_2"
+     ],
+     "url": [
+       "*popular4-2*", "*text2vec1*", "*similar2-3*",
+       "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+       "*cral2-2*", "*cral-top2-2*"
+     ],
+     "brand": "vogue-uk",
+     "language": "en-GB"
+   }
+ },
+ 
+  {
+    "TestCase_ID": "ID_18",
+   "Brand": "vogue",
+    "strategy": "SIMILAR",
+    "language": "en-US",
+    "excludeCategory": "functional-tags/noriver",
+    "pageSize": 6,
+    "numberOfDays": -90,
+    "copilotId": "6493036f135790a539ac01bb",
+    "url": "https://www.vogue.com/slideshow/glorious-vintage-photos-of-priscilla-presley",
+    "applicationID": "recs-bucket-tracking-appid",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*" , "*bucket-1*" , "*bucket-2*" ,"*bucket-3*" ,"*bucket-4*" ,"_A","_B","_C","_D"
+      ],
+      "brand": "vogue",
+      "language": "en-US"
+    }
+  },
+  {"TestCase_ID": "ID_19",
+   "Brand": "allure",
+    "strategy": "SIMILAR",
+    "language": "en-US",
+    "excludeCategory": "functional-tags/noriver",
+    "pageSize": 6,
+    "numberOfDays": -90,
+    "copilotId": "6493036f135790a539ac01bb",
+    "url": "https://www.Allure.com",
+    "applicationID": "recs-bucket-tracking-appid",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results": {
+      "strategy": [
+        "popular4_2", "text2vec1", "similar2_3",
+        "entity_topic_similarity_v2", "roberta_similarity1",
+        "cral2_2", "cral_top2_2"
+      ],
+      "url": [
+        "*popular4-2*", "*text2vec1*", "*similar2-3*",
+        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
+        "*cral2-2*", "*cral-top2-2*","*bucket-1*" , "*bucket-2*" ,"*bucket-3*" ,"*bucket-4*" ,"_A","_B","_C","_D"
+      ],
+      "brand": "allure",
+      "language": "en-US"}
+  }
+]
+ 

@@ -1,0 +1,403 @@
+[
+  {
+    "TestCase_ID": "ID_01",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "cne-interlude-them",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_02",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "them-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_03",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+    "ContentType": "ARTICLE,GALLERY,REVIEW",
+    "numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "them-article-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_04",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "them-nativearticle-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_05",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "them-cnevideo-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+   
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_06",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "them-recipe-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_07",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "them-verso-hp-trending",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_08",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "them-article-bottom-recirc-bkt-a",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2",
+        "closr"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*",
+        "*closr*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_09",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "them-gallery-bottom-recirc-bkt-a",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+      "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2",
+        "closr"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*",
+        "*closr*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+  {
+    "TestCase_ID": "ID_10",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "them-right-rail",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  },
+   {
+    "TestCase_ID": "ID_11",
+    "Brand": "them",
+    "strategy": "GALLERY",
+    "language": "en-US",
+"ContentType": "ARTICLE,GALLERY,REVIEW",
+"numberOfDays":"-90",
+    "pagesize": 5,
+    "copilotId": "678fe9cfef91e57ea036ffd1",
+    "url": "https://www.them.us/story/trump-executive-order-dei-programs-trans-military-ban",
+    "applicationID": "them-gallery-bottom-recirc",
+    "debug": true,
+    "skipCache": true,
+    "Expected Results (JSON)": {
+     "strategy": [
+        "popular4_2",
+        "text2vec1",
+        "similar2_3",
+        "entity_topic_similarity_v2",
+        "roberta_similarity1",
+        "cral2_2",
+        "cral_top2_2"
+      ],
+     "url": [
+        "*popular4-2*",
+        "*text2vec1*",
+        "*similar2_3*",
+        "*entity_topic_similarity_v2*",
+        "*roberta_similarity1*",
+        "*cral2_2*",
+        "*cral_top2_2*"
+      ],
+      "brand": "them",
+      "language": "en-US"
+    }
+  }
+]
