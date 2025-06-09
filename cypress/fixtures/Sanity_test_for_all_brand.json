@@ -23,6 +23,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -54,6 +55,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -86,6 +88,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -118,6 +121,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -150,6 +154,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -182,6 +187,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -214,6 +220,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -246,6 +253,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -280,6 +288,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -312,6 +321,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -344,6 +354,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -376,6 +387,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -408,6 +420,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
       ],
@@ -440,6 +453,7 @@
        "*popular4-2*", "*text2vec1*", "*similar2-3*",
        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
        "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
      ],
@@ -475,6 +489,7 @@
        "*popular4-2*", "*text2vec1*", "*similar2-3*",
        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
        "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
      ],
@@ -510,6 +525,7 @@
        "*popular4-2*", "*text2vec1*", "*similar2-3*",
        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
        "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
      ],
@@ -544,6 +560,7 @@
        "*popular4-2*", "*text2vec1*", "*similar2-3*",
        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
        "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*"
      ],
@@ -577,6 +594,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*" , "*bucket-1*" , "*bucket-2*" ,"*bucket-3*" ,"*bucket-4*" ,"_A","_B","_C","_D"
       ],
@@ -608,6 +626,7 @@
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
         "*cral2-2*", "*cral-top2-2*",
+        "*closr*",
         "*mongo_bucket*",
         "*csr_bucket*","*bucket-1*" , "*bucket-2*" ,"*bucket-3*" ,"*bucket-4*" ,"_A","_B","_C","_D"
       ],
