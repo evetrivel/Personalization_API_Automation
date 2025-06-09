@@ -15,12 +15,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "allure",
       "language": "en-US"
@@ -42,12 +46,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "glamour",
       "language": "en-US"
@@ -70,12 +78,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "pitchfork",
       "language": "en-US"
@@ -98,12 +110,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "self",
       "language": "en-US"
@@ -126,12 +142,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "architectural-digest",
       "language": "en-US"
@@ -154,12 +174,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "them",
       "language": "en-US"
@@ -182,12 +206,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "vanity-fair",
       "language": "en-US"
@@ -210,12 +238,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "bon-appetit",
       "language": "en-US"
@@ -240,12 +272,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "gq-italia",
       "language": "it-IT"
@@ -268,12 +304,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "vogue-tw",
       "language": "zh-Hant-TW"
@@ -296,12 +336,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "gq-de",
       "language": "de-DE"
@@ -324,12 +368,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "ad-de",
       "language": "ad-DE"
@@ -352,12 +400,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "wired-jp",
       "language": "ja-JP"
@@ -380,12 +432,16 @@
      "strategy": [
        "popular4_2", "text2vec1", "similar2_3",
        "entity_topic_similarity_v2", "roberta_similarity1",
-       "cral2_2", "cral_top2_2"
+       "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
      ],
      "url": [
        "*popular4-2*", "*text2vec1*", "*similar2-3*",
        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-       "*cral2-2*", "*cral-top2-2*"
+       "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
      ],
      "brand": "gq",
      "language": "en-US"
@@ -411,12 +467,16 @@
      "strategy": [
        "popular4_2", "text2vec1", "similar2_3",
        "entity_topic_similarity_v2", "roberta_similarity1",
-       "cral2_2", "cral_top2_2"
+       "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
      ],
      "url": [
        "*popular4-2*", "*text2vec1*", "*similar2-3*",
        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-       "*cral2-2*", "*cral-top2-2*"
+       "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
      ],
      "brand": "epicurious",
      "language": "en-US"
@@ -442,12 +502,16 @@
      "strategy": [
        "popular4_2", "text2vec1", "similar2_3",
        "entity_topic_similarity_v2", "roberta_similarity1",
-       "cral2_2", "cral_top2_2"
+       "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
      ],
      "url": [
        "*popular4-2*", "*text2vec1*", "*similar2-3*",
        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-       "*cral2-2*", "*cral-top2-2*"
+       "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
      ],
      "brand": "glamour",
      "language": "en-US"
@@ -472,12 +536,16 @@
      "strategy": [
        "popular4_2", "text2vec1", "similar2_3",
        "entity_topic_similarity_v2", "roberta_similarity1",
-       "cral2_2", "cral_top2_2"
+       "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
      ],
      "url": [
        "*popular4-2*", "*text2vec1*", "*similar2-3*",
        "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-       "*cral2-2*", "*cral-top2-2*"
+       "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
      ],
      "brand": "vogue-uk",
      "language": "en-GB"
@@ -501,12 +569,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*" , "*bucket-1*" , "*bucket-2*" ,"*bucket-3*" ,"*bucket-4*" ,"_A","_B","_C","_D"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*" , "*bucket-1*" , "*bucket-2*" ,"*bucket-3*" ,"*bucket-4*" ,"_A","_B","_C","_D"
       ],
       "brand": "vogue",
       "language": "en-US"
@@ -528,12 +600,16 @@
       "strategy": [
         "popular4_2", "text2vec1", "similar2_3",
         "entity_topic_similarity_v2", "roberta_similarity1",
-        "cral2_2", "cral_top2_2"
+        "cral2_2", "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*", "*text2vec1*", "*similar2-3*",
         "*entity_topic-similarity-v2*", "*roberta-similarity1*",
-        "*cral2-2*", "*cral-top2-2*","*bucket-1*" , "*bucket-2*" ,"*bucket-3*" ,"*bucket-4*" ,"_A","_B","_C","_D"
+        "*cral2-2*", "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*","*bucket-1*" , "*bucket-2*" ,"*bucket-3*" ,"*bucket-4*" ,"_A","_B","_C","_D"
       ],
       "brand": "allure",
       "language": "en-US"}

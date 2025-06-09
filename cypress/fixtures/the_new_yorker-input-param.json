@@ -20,7 +20,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -34,7 +36,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -61,7 +65,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -75,7 +81,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -102,7 +110,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -116,7 +126,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -143,7 +155,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -157,7 +171,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -184,7 +200,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -198,7 +216,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -225,7 +245,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -239,7 +261,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -266,7 +290,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -280,7 +306,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -307,7 +335,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -321,7 +351,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -348,7 +380,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -362,7 +396,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -389,7 +425,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -403,7 +441,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -430,7 +470,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -444,7 +486,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -471,7 +515,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -485,7 +531,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -512,7 +560,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -526,7 +576,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -553,7 +605,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -567,7 +621,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -594,7 +650,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -608,7 +666,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -635,7 +695,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -649,7 +711,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -676,7 +740,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -690,7 +756,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -717,7 +785,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -731,7 +801,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -758,7 +830,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -772,7 +846,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -799,7 +875,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -813,7 +891,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -840,7 +920,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -854,7 +936,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -881,7 +965,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -895,7 +981,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -922,7 +1010,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -936,7 +1026,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -963,7 +1055,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -977,7 +1071,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -1004,7 +1100,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -1018,7 +1116,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -1045,7 +1145,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -1059,7 +1161,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -1086,7 +1190,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -1100,7 +1206,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -1127,7 +1235,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -1141,7 +1251,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -1168,7 +1280,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -1182,7 +1296,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"
@@ -1209,7 +1325,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
       "url": [
         "*popular4-2*",
@@ -1223,7 +1341,9 @@
         "*entity-topic-similarity-v2*",
         "*roberta-similarity1*",
         "*cral2-2*",
-        "*cral-top2-2*"
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "the-new-yorker",
       "language": "en-US"

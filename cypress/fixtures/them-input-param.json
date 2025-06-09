@@ -20,7 +20,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
      "url": [
         "*popular4-2*",
@@ -29,7 +31,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*"
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "them",
       "language": "en-US"
@@ -56,7 +65,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
      "url": [
         "*popular4-2*",
@@ -65,7 +76,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*"
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "them",
       "language": "en-US"
@@ -92,7 +110,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
      "url": [
         "*popular4-2*",
@@ -101,7 +121,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*"
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "them",
       "language": "en-US"
@@ -128,7 +155,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
      "url": [
         "*popular4-2*",
@@ -137,7 +166,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*"
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "them",
       "language": "en-US"
@@ -165,7 +201,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
      "url": [
         "*popular4-2*",
@@ -174,7 +212,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*"
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "them",
       "language": "en-US"
@@ -201,7 +246,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
      "url": [
         "*popular4-2*",
@@ -210,7 +257,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*"
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "them",
       "language": "en-US"
@@ -237,7 +291,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
      "url": [
         "*popular4-2*",
@@ -246,7 +302,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*"
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "them",
       "language": "en-US"
@@ -274,6 +337,8 @@
         "roberta_similarity1",
         "cral2_2",
         "cral_top2_2",
+        "recsys",
+        "closr",
         "closr"
       ],
      "url": [
@@ -283,7 +348,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*",
         "*closr*"
       ],
       "brand": "them",
@@ -312,6 +384,8 @@
         "roberta_similarity1",
         "cral2_2",
         "cral_top2_2",
+        "recsys",
+        "closr",
         "closr"
       ],
      "url": [
@@ -321,7 +395,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*",
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*",
         "*closr*"
       ],
       "brand": "them",
@@ -349,7 +430,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
      "url": [
         "*popular4-2*",
@@ -358,7 +441,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*"
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "them",
       "language": "en-US"
@@ -385,7 +475,9 @@
         "entity_topic_similarity_v2",
         "roberta_similarity1",
         "cral2_2",
-        "cral_top2_2"
+        "cral_top2_2",
+        "recsys",
+        "closr"
       ],
      "url": [
         "*popular4-2*",
@@ -394,7 +486,14 @@
         "*entity_topic_similarity_v2*",
         "*roberta_similarity1*",
         "*cral2_2*",
-        "*cral_top2_2*"
+        "*cral-top2_2*",
+        "*similar2-3*",
+        "*entity-topic-similarity-v2*",
+        "*roberta-similarity1*",
+        "*cral2-2*",
+        "*cral-top2-2*",
+        "*mongo_bucket*",
+        "*csr_bucket*"
       ],
       "brand": "them",
       "language": "en-US"
